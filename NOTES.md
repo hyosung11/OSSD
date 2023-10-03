@@ -4,44 +4,58 @@
 
 ### Course Information
 
-    Course Introduction
-    Course Learning Objectives
-    Meet Your Instructor: Jerry Cooperstein
-    Course Audience and Requirements
+#### Course Introduction
+
+#### Course Learning Objectives
+
+#### Meet Your Instructor: Jerry Cooperstein
+
+#### Course Audience and Requirements
 
 ### Before You Begin
 
-Course Support
-Course Timing
-Lab Exercises and Assessments
-Course Formatting
-Copyright
+#### Course Support
+
+#### Course Timing
+
+#### Lab Exercises and Assessments
+
+#### Course Formatting
+
+#### Copyright
 
 ### The Linux Foundation
 
-    The Linux Foundation
-    Linux Foundation Events
-    Linux Foundation Training & Certification
+#### The Linux Foundation (Details)
+
+#### Linux Foundation Events
+
+#### Linux Foundation Training & Certification
 
 ## 02. OPEN SOURCE SOFTWARE (OSS)
 
 ### Introduction
 
-    Introduction to Open Source Software (OSS)
-    Learning Objectives
+#### Introduction to Open Source Software (OSS)
+
+#### Learning Objectives
 
 ### What is Open Source Software?
 
-Proprietary (Closed Source) Software
-Pragmatism vs. Idealism
-History of Open Source Software
-Open Source Governance Models
+#### Proprietary (Closed Source) Software
 
-Lab Exercises
+#### Pragmatism vs. Idealism
 
-    Lab 2.1. Basic Facts About OSS
-    Lab 2.2. Open Source on Critical Software
+#### History of Open Source Software
 
-Knowledge Check
+#### Open Source Governance Models
 
-    Chapter 2 Quiz
+### Lab Exercises
+
+#### Lab 2.1. Basic Facts About OSS
+
+#### Lab 2.2. Open Source on Critical Software
+
+### Knowledge Check
+
+#### Chapter 2 Quiz
