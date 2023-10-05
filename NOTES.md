@@ -23,6 +23,8 @@ By the end of this course, you should be able to:
 
 #### Meet Your Instructor: Jerry Cooperstein
 
+Jerry Cooperstein, PhD has been working with Linux since 1994, developing and delivering training in both the kernel and user space. During a two decade career in nuclear astrophysics, he developed state-of-the-art simulation software on many kinds of supercomputers and taught at both the undergraduate and graduate level. Jerry joined The Linux Foundation in 2009. He is currently a Senior Content Manager for The Linux Foundation.
+
 #### Course Audience and Requirements
 
 ### Before You Begin
