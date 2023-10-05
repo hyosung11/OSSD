@@ -43,7 +43,11 @@ Jerry Cooperstein, PhD has been working with Linux since 1994, developing and de
 
 ### Before You Begin
 
+RTR
+
 #### Course Support
+
+
 
 #### Course Timing
 
