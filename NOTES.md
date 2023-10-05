@@ -27,6 +27,20 @@ Jerry Cooperstein, PhD has been working with Linux since 1994, developing and de
 
 #### Course Audience and Requirements
 
+- [x] 1. - Audience: software developers who want to understand the *rules of the road*
+
+- [x] 2. - Knowledge/Skills: none prior required
+
+- [x] 3. - Software Environment
+  - distribution-flexible
+  - three main Linux distribution families focused:
+    - 1. Debian/Ubuntu
+    - 2. Red Hat/Fedora
+    - 3. openSUSE/SUSE
+
+- [x] 4. - Lab Environment
+  - any operating system
+
 ### Before You Begin
 
 #### Course Support
