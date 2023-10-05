@@ -10,16 +10,16 @@
 
 By the end of this course, you should be able to:
 
-    - [ ] 1. List the key concepts involved in developing Open Source Software (OSS).
-    - [ ] 2. Understand how OSS evolved into today's dominant position.
-    - [ ] 3. Explain the benefits of using OSS as compared to using proprietary products, and know how to dispel the FUD that arises.
-    - [ ] 4. Familiarize yourself with open source projects that form the foundations of today's word-wide technology infrastructure.
-    - [ ] 5. Work with projects that can help you get a solid footing in OSS methods and communities, such as the TODO Group and OpenChain Project.
-    - [ ] 6. Behave properly while engaging in OSS projects, to develop the best code and build on the strengths of other contributors.
-    - [ ] 7. Understand OSS licensing issues, such as types (restrictive vs permissive), and explain how to choose the right one.
-    - [ ] 8. Make use of projects such as FOSSology and SPDX to foster compliance.
-    - [ ] 9. Have a sense of best practices for long term project sustainability, including how to respect and encourage diversity.
-    - [ ] 10. Know about GitHub and other hosting providers and advanced interfaces such as Gerrit.
+- [ ] 1. List the key concepts involved in developing Open Source Software (OSS).
+- [ ] 2. Understand how OSS evolved into today's dominant position.
+- [ ] 3. Explain the benefits of using OSS as compared to using proprietary products, and know how to dispel the FUD that arises.
+- [ ] 4. Familiarize yourself with open source projects that form the foundations of today's word-wide technology infrastructure.
+- [ ] 5. Work with projects that can help you get a solid footing in OSS methods and communities, such as the TODO Group and OpenChain Project.
+- [ ] 6. Behave properly while engaging in OSS projects, to develop the best code and build on the strengths of other contributors.
+- [ ] 7. Understand OSS licensing issues, such as types (restrictive vs permissive), and explain how to choose the right one.
+- [ ] 8. Make use of projects such as FOSSology and SPDX to foster compliance.
+- [ ] 9. Have a sense of best practices for long term project sustainability, including how to respect and encourage diversity.
+- [ ] 10. Know about GitHub and other hosting providers and advanced interfaces such as Gerrit.
 
 #### Meet Your Instructor: Jerry Cooperstein
 
