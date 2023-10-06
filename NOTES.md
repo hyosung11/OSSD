@@ -27,29 +27,47 @@ Jerry Cooperstein, PhD has been working with Linux since 1994, developing and de
 
 #### Course Audience and Requirements
 
-- [x] 1. - Audience: software developers who want to understand the *rules of the road*
+- [x] 1. Audience: software developers who want to understand the *rules of the road*
 
-- [x] 2. - Knowledge/Skills: none prior required
+- [x] 2. Knowledge/Skills: none prior required
 
-- [x] 3. - Software Environment
+- [x] 3. Software Environment
   - distribution-flexible
   - three main Linux distribution families focused:
     - 1. Debian/Ubuntu
     - 2. Red Hat/Fedora
     - 3. openSUSE/SUSE
 
-- [x] 4. - Lab Environment
+- [x] 4. Lab Environment
   - any operating system
 
 ### Before You Begin
 
-RTR
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/course-introduction/before-you-begin?page=1>
 
 #### Course Support
 
+One great way to interact with peers taking this course is via the [Class Forum](https://forum.linuxfoundation.org/discussion/863974/introduction-of-myself#latest). The forum can be used in the following ways:
 
+- To introduce yourself to other peers taking this course
+- To discuss concepts, tools and technologies presented in this course, or related to the topics discussed in the course materials
+- To ask questions or report issues with labs or course content
+- To provide solutions/suggestions to peer learners
+- To review issues that were already raised, including possible solutions - the forum can be a great learning resource as well, and you may find that your questions have already been - answered in previous posts
+- To share resources and ideas related to Linux system administration
+
+Please note that all announcements regarding course updates are posted in the forum, so we highly recommend that you periodically check it out.
+
+If you have questions regarding your course enrollment, you can reach out to us via our [Customer Support system](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/15). You will be required to login with your LF Account, which will help us to quickly locate your account and respond to your request. This will also allow you to track your support request through to resolution, and create an ongoing record of your support requests.
+
+The Linux Foundation Training & Certification Customer Support system also offers enhanced functionality, such as:
+
+- Knowledge Base Articles - to help you find a quick response to your commonly asked questions
+- Service Request Forms - asking the right questions so that you can get the right answers.
 
 #### Course Timing
+
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/course-introduction/before-you-begin?page=2>
 
 #### Lab Exercises and Assessments
 
