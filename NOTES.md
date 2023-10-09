@@ -69,7 +69,30 @@ The Linux Foundation Training & Certification Customer Support system also offer
 
 RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/course-introduction/before-you-begin?page=2>
 
+This course is entirely self-paced; there is no fixed schedule for going through the material. You can go through the course at your own pace, and you will always be returned to exactly where you left off when you come back to start a new session. However, we still suggest you avoid long breaks in between periods of work, as learning will be faster and content retention improved.
+
+You have unlimited access to this course for 12 months from the date you registered, even after you have completed the course.
+
+The chapters in the course have been designed to build on one another. It is probably best to work through them in sequence; if you skip or only skim some chapters quickly, you may find there are topics being discussed you have not been exposed to yet. But this is all self-paced, and you can always go back, so you can thread your own path through the material.
+
 #### Lab Exercises and Assessments
+
+The labs and knowledge check questions are not graded.
+
+We would also like to emphasize that you will not be required to take a final exam to complete this course.
+
+#### Lab Exercises
+
+In all The Linux Foundation courses (in any format) we put a heavy emphasis on learning by doing. In live, instructor-led classes, we almost always aim for a 50/50 balance between lecture and discussion, and working on laboratory exercises, or homeworks, that either perform the tasks just described in the class, or try more ambitious variations. Instructors help students figure out how to do things, debug their code and scripts, etc., during these lab sessions. Because this course is self-paced, without a live instructor, it will be up to you to control your time budget and make sure you take enough time to do labs.
+
+📦
+For your convenience, you can also access a single file containing all the lab exercises (LFD102 Labs) by navigating to the Table of Contents located on the left-hand side of the screen and selecting Resources > Files.
+
+You will find lab exercises located throughout the course.
+
+#### Knowledge Check
+
+At the end of each chapter, you will also find a series of knowledge check questions. These questions, just like the labs, were designed with one main goal in mind: to help you better comprehend the course content and reinforce what you have learned.
 
 #### Course Formatting
 
@@ -101,12 +124,12 @@ RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-t
 
 #### Open Source Governance Models
 
-### Lab Exercises
+### Lab Exercises 2
 
 #### Lab 2.1. Basic Facts About OSS
 
 #### Lab 2.2. Open Source on Critical Software
 
-### Knowledge Check
+### Knowledge Check 2
 
 #### Chapter 2 Quiz
