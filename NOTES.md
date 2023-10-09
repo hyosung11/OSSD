@@ -96,17 +96,74 @@ At the end of each chapter, you will also find a series of knowledge check quest
 
 #### Course Formatting
 
+In order to make it easier to distinguish the various types of content in the course, we use the color coding and formats below:
+
+Dark blue: text typed at the command line
+
+Green: Output
+
+Black: file content
+
+Brown: File/Directory names
+
+Light blue: Hyperlink
+
+You may also notice text boxes with different icons. The purpose of each is clarified below:
+
+📦    Additional course documentation
+
+💡    Additional information
+
+🚩    Important information
+
+🔍    Think, explore
+
+📖    External resources
+
 #### Copyright
 
+Copyright 2019-2023, The Linux Foundation. All rights reserved.
+
 ### The Linux Foundation
+
+Linux Foundation Projects include:
+
+1. Linux
+2. Kubernetes
+3. Node.js
+4. ONAP
+5. PyTorch
+6. RISC-V
+7. SPDX
+8. OpenChain
 
 #### The Linux Foundation (Details)
 
 #### Linux Foundation Events
 
+[Linux Foundation Events](https://events.linuxfoundation.org/)
+
+Over 85,000 open source technologists and leaders worldwide gather at Linux Foundation events annually to share ideas, learn and collaborate. Linux Foundation events are the meeting place of choice for open source maintainers, developers, architects, infrastructure managers, and sysadmins and technologists leading open source program offices, and other critical leadership functions.
+
+These events are the best place to gain visibility within the open source community quickly and advance open source development work by forming connections with the people evaluating and creating the next generation of technology. They provide a forum to share and gain knowledge, help organizations identify software trends early to inform future technology investments, connect employers with talent, and showcase technologies and services to influential open source professionals, media, and analysts around the globe.
+
 #### Linux Foundation Training & Certification
 
+The Linux Foundation Training & Certification Group works with expert instructors and experienced open source developers to create training courses for every level of experience, from complete newbies to veteran developers, as well as certification exams which demonstrate your skills to potential employers in a trusted verifiable way.
+
+To get more information about specific courses and certification exams offered by the Linux Foundation, including technical requirements and other logistics, visit the [Linux Foundation Training and Certification website](https://training.linuxfoundation.org/?_gl=1%2Avjqokh%2A_ga%2AMTQxODI3MDU5LjE2OTUxNDUyNzI.%2A_ga_EMX7DDZMX4%2AMTY5Njg2NTUwNy4xMi4xLjE2OTY4NjcwMTMuNjAuMC4w).
+
+Congratulations!
+You've Completed
+
+Course Introduction
+Up Next:
+
+Open Source Software (OSS)
+
 ## 02. OPEN SOURCE SOFTWARE (OSS)
+
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/open-source-software-oss/introduction>
 
 ### Introduction
 
