@@ -309,6 +309,46 @@ In this decade, OSS becomes ubiquitous, dominating the smartphone market, superc
 
 #### Open Source Governance Models
 
+There is no shortage of governance models used by OSS projects. They differ according to the degrees of centralization, strong influence by one or a few organizational entities, and existence of democratically-inspired decision mechanisms and leadership selection.
+
+The choice of model and how well it is executed have profound influences on the quality of a project, as well as how quickly it is adopted and evolves, improves and succeeds. There is no one-size-fits-all model and each has its advocates and detractors. Furthermore, different projects have different inherent needs, which may be better satisfied by one particular model.
+
+OSS Governance Models
+
+Company-Led (mostly, a closed process)
+
+    Development is strongly led by one corporate or organizational interest
+    One entity controls software design and releases
+    May or may not solicit contributions, patches, suggestions, etc.
+    Internal discussions and controversies may not be aired very much
+    It is not definitively known what will be in the next software release
+    Upon release, all software is completely in the open
+    Examples: Google Android, Red Hat Enterprise Linux
+
+Benevolent Dictatorship (strong leadership)
+
+    One individual has overriding influence in every decision
+    Project's quality depends on that of the dictator
+    Can avoid endless discussions and lead to quicker pace
+    As project grows, success depends critically on the dictator's ability to:
+    - Handle many contributors
+    - Use a sane, scalable version control system
+    - Appoint and work with subsystem maintainers
+    The dictator's role may be social and political, not structural (forks can occur at any time)
+    Maintainers write less and less code as projects mature
+    Example: Linux kernel
+
+![Linux Foundation Fellows: Linus Torvalds and Greg Kroah-Hartman](Screenshot%202023-10-13%20at%2011.57.10.png)
+
+Governing Board (tighter control by smaller groups)
+
+    A body (group) carries out discussions on open mailing lists
+    Decisions about design and release dates are made collectively
+    Decisions about who can contribute, and how patches and new software are accepted, are made by the governing body
+    There is much variation in governing structures, rules of organization, degree of consensus required, etc.
+    Tends to release less frequent, but hopefully well-debugged versions
+    Examples: FreeBSD, Debian.
+
 ### Lab Exercises 2
 
 #### Lab 2.1. Basic Facts About OSS
