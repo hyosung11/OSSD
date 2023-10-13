@@ -238,6 +238,75 @@ Unfortunately, the conflicts between these two attitudes towards open source has
 
 #### History of Open Source Software
 
+Open Source Software (OSS) has a long history, although the actual term only dates back to 1998.
+
+Next, we give a timeline for some of the major developments in the world of OSS. We do not mean to be exhaustive or insult anyone by leaving out important steps, as any list is inherently subjective.
+
+Major OSS Developments
+
+The 1950s and Earlier
+
+    Software arose from researchers, both academic and corporate
+    Distributed openly and cooperatively
+    Source always distributed, binaries less often
+    Software not seen as separate commodity
+    Software bundled for free with hardware
+    Licensing was sloppy
+
+The 1960s
+
+    Major aspects of computer science and software rapidly developed both in academia (MIT, UC Berkeley) and industrial research labs (Bell Labs, Xerox)
+    1968: ARPANET emerges, eventually leads to Internet, essential for developers and researchers to communicate, share, collaborate
+    1969: UNIX born at Bell Labs (AT&T) and given for free to universities and research centers
+    1969: IBM forced by US government to break software and hardware apart and sell/distribute separately, due to unfair business practices.
+
+The 1970s
+
+    1976: emacs released by Richard Stallman and Guy Steele. Versions by other authors proliferate, including proprietary ones. GNU emacs not released until 1985
+    1978: First version of TeX released by Donald Knuth, an open source typesetting system often used for publishing journal articles and books, still in widespread use, usually in the LaTeX version.
+
+The 1980s
+
+    1980: Usenet begins as the ancestor of user forums and the World Wide Web
+    1982: GNU project announced by Richard Stallman
+    1984: X Window System released out of MIT, with X11 protocol released in 1987 (now run by X.Org)
+    1985: Free Software Foundation (FSF) founded by Richard Stallman
+    1987: gcc released (now known as Gnu Compiler Collection)
+    1987: Perl released by Larry Wall.
+
+The 1990s
+
+    1991: Linux begun by Linus Torvalds
+    1992: Python released by Guido Van Rossum
+    1992: 386BSD released
+    1992: Samba developed by Andrew Tridgell in Australia
+    1993: Debian first released by Ian Murdock and still survives as the largest non-commercial Linux distribution
+    1993: Red Hat is founded; while earlier commercial Linux distributions already existed, Red Hat was the first company built on open source to become very large
+    1993: NetBSD released as a fork from 386BSD
+    1993: FreeBSD released
+    1993: Wine released to run Windows applications on Linux
+    1994: MySQL development begins in Sweden, first release in 1995
+    1995: PHP, GIMP, and Ruby released
+    1996: Apache web server released
+    1996: KDE released
+    ​1997: GNOME released
+    1998: Netscape open sources its browser, which will later become Firefox
+    1999: OpenOffice released (eventually forks into LibreOffice).
+
+The 2000s
+
+    2000: LLVM compiler project begun at UI-Urbana-Champaign
+    2002: Blender released as an open source project
+    2003: Firefox released
+    2004: Ubuntu releases its first version, which Canonical builds on top of Debian
+    2005: Git released by Linus Torvalds
+    2007: Android released, based on Linux kernel; first devices on the market in 2008
+    2008: Chromium released by Google; basis of Google Chrome.
+
+The 2010s
+
+In this decade, OSS becomes ubiquitous, dominating the smartphone market, supercomputing, worldwide networking infrastructure, etc.
+
 #### Open Source Governance Models
 
 ### Lab Exercises 2
