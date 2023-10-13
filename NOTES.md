@@ -163,17 +163,61 @@ Open Source Software (OSS)
 
 ## 02. OPEN SOURCE SOFTWARE (OSS)
 
-RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/open-source-software-oss/introduction>
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/open-source-software-oss/introduction>
 
 ### Introduction
 
 #### Introduction to Open Source Software (OSS)
 
+- [x] watch video
+
 #### Learning Objectives
+
+By the end of this chapter, you should be able to:
+
+- [ ] Define Open Source Software (OSS) and distinguish between different uses of the word free.
+- [ ] Explain the differences between proprietary (closed source) and OSS.
+- [ ] Discuss the pragmatic and idealist philosophical strains that inhabit the OSS world, and how they conflict, as well as merge.
+- [ ] Sketch out the history of OSS as it evolved from the early days of the computer age to its current, widespread, even dominant use.
+- [ ] ​Explain and distinguish between different governance models, including Company-Led, Benevolent Dictatorship, and Governing Board.
 
 ### What is Open Source Software?
 
+Sharing of software has gone on since the beginnings of the computer age. In fact, not sharing software was the exception, and not the rule. The concepts of Open Source Software (OSS) long predate the use of the term.
+
+There are many models for governance in OSS projects. Each of these models is frequently seen and has its reasons for existence. There is no one method that fits all projects. Contributing to OSS requires learning standard methods and etiquette to do it properly.​
+
+​In English, the word free has two meanings:
+
+- Free as in free speech, freedom to distribute
+- Free as in no cost, or, as is often said, as in "free beer".
+
+Use of the term OSS is partly meant to avoid this confusion, but also to better define what is meant.
+
+We are not going to try and give a detailed definition, but just point out some salient facts which we will discuss in more detail.
+
+Use of OSS means source code is made available with a license which provides rights to examine, modify and redistribute, without restriction on the user's identity or purpose.
+
+🚩
+There is a multiplicity of licensing methods, falling into the two general classifications:
+
+- Permissive (such as BSD-licensed software)
+- Restrictive (such as GPL-licensed software)
+
 #### Proprietary (Closed Source) Software
+
+Proprietary software had historically been the only real model used by commercial projects until the recent rise of OSS. 
+
+Only the owners of such software projects have full legal access to the source code involved, although they may grant inspection rights to trusted partners who have signed non-disclosure agreements (NDAs). For this reason, this model is also called closed source.
+
+The owners of proprietary software projects may or may not be the authors of the code; usually, the authors have been working under contracts giving up their individual rights. Indeed, many such programs are no longer even owned by their originators, but have been passed on through sales over time.
+
+To use proprietary software, end users must accept a license restricting their rights, often through a confusing click-through box presented after a very long and dense description during install.
+
+Such licenses generally restrict the user’s rights of re-distribution, indemnify the product from damages due to either malfunction or misuse, and prohibit trying to reconstruct source code or use inside another product. They may sometimes restrict how a product is used, but whether such restrictions are legal will vary with details and legal jurisdictions, including country.
+
+🚩
+Price is not the point! The difference with OSS and proprietary models has nothing to do with price. One can charge as much as one wants for an open product and one can provide a proprietary product for free. The license differences have to do with redistribution, modification, reuse of code, etc.
 
 #### Pragmatism vs. Idealism
 
