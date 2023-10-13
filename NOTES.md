@@ -221,6 +221,21 @@ Price is not the point! The difference with OSS and proprietary models has nothi
 
 #### Pragmatism vs. Idealism
 
+Since its beginning, OSS has had two different philosophical strains: idealistic and pragmatic.
+
+- Idealistic:
+  - Here, free means as in freedom, not beer. There is a profound belief that all software should be open for ideological and ethical reasons, not just technological ones.
+
+- Pragmatic:
+  - Here, the primary considerations are technical ones, including faster and better development involving more contributors and review, easier debugging, etc.
+
+Note that the more ideological perspective has strong technical imperatives as well, and in many cases, the objectives of both streams coincide. For example:
+
+- Should the software powering a life-saving medical device (such as a pacemaker, or an insulin pump) be secret? Do we not have the right to know what is controlling such devices? How do we know they are not vulnerable to external attacks that can kill us?
+- Should the software powering voting machines be closed? How can we be sure we can respect the integrity of tabulated results? This is particularly true when experiment after experiment has shown closed source voting machines to be incredibly easily hacked.
+
+Unfortunately, the conflicts between these two attitudes towards open source has often been acrimonious and destructive. It is unlikely to ever end; the pragmatic approach has most of the economic resources behind it due to corporate buy-in, and the more philosophical camp will always have determined adherents.
+
 #### History of Open Source Software
 
 #### Open Source Governance Models
