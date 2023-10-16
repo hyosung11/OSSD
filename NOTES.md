@@ -349,12 +349,85 @@ Governing Board (tighter control by smaller groups)
     Tends to release less frequent, but hopefully well-debugged versions
     Examples: FreeBSD, Debian.
 
-### Lab Exercises 2
+### Lab Exercises 2.1
+
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/open-source-software-oss/lab-exercises?page=1>
 
 #### Lab 2.1. Basic Facts About OSS
 
+- free in OSS refers to freedom, not cost
+- Android by Google is controlled by one entity but still OSS
+- OSS predates Linux
+- The programming language used is independent of its status as OSS.
+
 #### Lab 2.2. Open Source on Critical Software
+
+- shared knowledge is better than closed knowledge especially wiht critical software
 
 ### Knowledge Check 2
 
 #### Chapter 2 Quiz
+
+Question 2.1
+
+What are the two main types of Open Source Software licenses? Select all answers that apply.
+
+**A. Permissive**
+B. Proprietary
+C. Free of charge
+**D. Restrictive**
+E. Educational use
+
+Question 2.2
+
+What is the difference between proprietary software and OSS?
+
+A. Proprietary software can charge and OSS must be free
+**B. Proprietary software does not expose its source and OSS does**
+C. Proprietary software requires a license and OSS does not
+D. Proprietary software pays its developers and OSS does not
+
+Question 2.3
+
+The software for medical devices:
+
+A. Must be open source in most countries, as you have a right to know about your health issues and dangers, etc.
+**B. Can be a complete mystery as manufacturers are under no obligation to reveal their code**
+
+Question 2.4
+
+Linux began:
+
+A. In 1998, when IBM made a major investment
+**B. In 1991 with an Internet post by a student in Finland**
+C. When UNIX was first born, about 1969
+D. When SCO ported Xenix to the Intel 8036 processor in 1983
+
+Question 2.5
+
+Which method best describes the way Android is developed?
+
+**A. Company-Led**
+B. Benevolent Dictatorship
+C. Governing Board
+
+Question 2.6
+
+Which method best describes the way FreeBSD is developed?
+
+A. Company-Led
+B. Benevolent Dictatorship
+**C. Governing Board
+**
+
+Question 2.7
+
+Which method best describes the way Linux kernel is developed?
+
+A. Company-Led
+**B. Benevolent Dictatorship**
+C. Governing Board
+
+RTR
+
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/why-use-open-source-software/introduction>
