@@ -505,6 +505,17 @@ There are advantages of having freely available source code:
   - more flexible, possibly modular construction
   - Adoption by larger community can help build customers' confidence about the products durability and stability
 
+##### Education
+
+- Childhood Education (Public Systems)
+  - large amount of available teaching resources at little or no cost
+  - wide range of areas available for using, operating and system administration, and programming
+  - students do not become locked into vendor products
+  - school systems do not have to pay for expensive software, even at a discount
+  - generally lower hardware costs, and easier to use old hardware
+  - students learn the skills they need in the workforce
+  - unleashes student creativity, and is more fun!
+
 
 ### Lab Exercises 3.0
 
