@@ -206,7 +206,7 @@ There is a multiplicity of licensing methods, falling into the two general class
 
 #### Proprietary (Closed Source) Software
 
-Proprietary software had historically been the only real model used by commercial projects until the recent rise of OSS. 
+Proprietary software had historically been the only real model used by commercial projects until the recent rise of OSS.
 
 Only the owners of such software projects have full legal access to the source code involved, although they may grant inspection rights to trusted partners who have signed non-disclosure agreements (NDAs). For this reason, this model is also called closed source.
 
@@ -362,7 +362,7 @@ Governing Board (tighter control by smaller groups)
 
 #### Lab 2.2. Open Source on Critical Software
 
-- shared knowledge is better than closed knowledge especially wiht critical software
+- shared knowledge is better than closed knowledge especially with critical software
 
 ### Knowledge Check 2
 
@@ -516,6 +516,22 @@ There are advantages of having freely available source code:
   - students learn the skills they need in the workforce
   - unleashes student creativity, and is more fun!
 
+- University (all the advantages of earlier education and more)
+  - students can study and work on the internals of operating systems, applications and libraries, and system administration utilities
+  - students are ready to enter the workforce where they are most needed
+  - good habits are developed, including how to work with the open source community
+  - student work is easy for prospective employers to evaluate, sentence, publicly accessible
+
+- Developers
+  - no need to invent (reinvent anything)
+  - helps to make good, early decisions on product design
+  - more eyeballs on code can fix bugs faster
+  - suggestions and contributions are provided by large group of developers
+  - Great for finding the next job
+    - code is readily available for evaluation
+    - can demonstrate how well you work and play with others
+    - can show how good you are at mentoring and maintaining projects and subprojects
+    - know you are not alone!
 
 ### Lab Exercises 3.0
 
