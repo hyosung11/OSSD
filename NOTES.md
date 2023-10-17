@@ -537,6 +537,63 @@ There are advantages of having freely available source code:
 
 Lab 3.1. Using OSS Methods to Produce Better Products
 
+Exercise 3.1: How OSS Methods Can Produce a Better Product
+
+Enumerate a few reasons how adopting OSS methods can improve and accelerate a product’s success.
+
+Solution 3.1
+
+1. Expanding the pool of collaborators brings in more talent, more ideas.
+2. Competing groups become collaborators and do not have to keep reinventing the wheel. By standardizing on one implementation and building upon it, progress can be faster.
+3. More eyeballs on the code leads to more bug and security hole discovery as well as faster fixes.
+4. More eyeballs on the code leads to improved and cleaner style.   Furthermore,  having style standards throughout aproject leads to increased clarity and lessens the path to involvement by new contributors.
+5. Getting recognition from a wider audience motivates people.
+6. Having a wider variety of use cases induces a project to have more flexibility and also helps unearth problems that might be rarer and harder to identify with a smaller audience.
+
 ### Knowledge Check 3.0
 
 Chapter 3 Quiz
+
+Question 3.1
+
+From a business perspective, use of OSS (Select all answers that apply):
+
+Correct Answer
+
+A. Lengthens time to market, but is worth it because of improved product
+B. Enables use of ingredients from other sources and speeds development Your Answer: Correct 
+C. Makes marketing more difficult because it is hard to differentiate products
+D. Makes marketing easier, as some ingredients are already well-known and trusted Your Answer: Correct 
+
+Question 3.2
+
+For school systems at any level, use of OSS (Select all answers that apply):
+
+Correct Answer
+
+A. Should be avoided, as students become confused by choices
+B. Can lower costs by letting low-cost or free software be used Your Answer: Correct 
+C. Can lower costs by letting older hardware be used Your Answer: Correct 
+D. May cause problems with vendor lock-in
+
+Question 3.3
+
+OSS is (Select all answers that apply):
+
+Correct Answer
+
+A. Insecure, as bad actors can easily see the code and hack it
+B. Secure, because many developers can easily see the code, look for problems, and mitigate problems when they are discovered Your Answer: Correct 
+C. Causing security problems, because developers come from different organizations and companies and do not understand each other's code
+D. Insecure, because no one is in charge of security
+E. Secure or insecure, depending on the quality and priorities of the project maintainers, but at least users can judge this by open discussion and code inspection Your Answer: Correct
+
+QUIZ RESULTS
+YOU GOT 3 OUT OF 3 CORRECT: 100%
+
+3 3 3 0
+
+TOTAL (3)
+ANSWERED 3
+CORRECT 3
+INCORRECT 0
