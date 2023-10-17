@@ -597,3 +597,17 @@ TOTAL (3)
 ANSWERED 3
 CORRECT 3
 INCORRECT 0
+
+RTR
+
+04. EXAMPLES OF SUCCESSFUL OSS PROJECTS
+
+Introduction
+Introduction to Examples of Successful OSS Projects
+Learning Objectives
+
+Successful OSS Projects: Examples
+
+Lab Exercises
+
+Knowledge Check
