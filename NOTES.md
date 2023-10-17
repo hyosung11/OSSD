@@ -481,6 +481,31 @@ There are advantages of having freely available source code:
 
 #### OSS Advantages for Various Stakeholders
 
+##### Individual Users
+
+- Flexibility
+  - mix and match software
+  - save money on buying or leasing software
+  - avoid vendor lock-in, maintaining choice
+  - look under the hood ("trust, but verify")
+  - more fun!
+
+##### Businesses
+
+- Collaborative Development
+  - lowers total cost of development
+  - speeds up time to market
+  - work is submitted to wider community for critique, suggestions and contributions
+  - upstreaming reduces future costs for new products that reuse code
+  - uses well-delineated APIs
+
+- Marketing
+  - customers know what they are getting - have confidence in quality as there are no secrets
+  - product is seen as part of a large ecosystem of related products
+  - more flexible, possibly modular construction
+  - Adoption by larger community can help build customers' confidence about the products durability and stability
+
+
 ### Lab Exercises 3.0
 
 Lab 3.1. Using OSS Methods to Produce Better Products
