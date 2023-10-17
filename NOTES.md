@@ -431,3 +431,5 @@ C. Governing Board
 RTR
 
 <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/why-use-open-source-software/introduction>
+
+How do I add the time like I can in Evernote?
