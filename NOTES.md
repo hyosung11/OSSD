@@ -417,8 +417,7 @@ Which method best describes the way FreeBSD is developed?
 
 A. Company-Led
 B. Benevolent Dictatorship
-**C. Governing Board
-**
+**C. Governing Board**
 
 Question 2.7
 
@@ -432,4 +431,60 @@ RTR
 
 <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/why-use-open-source-software/introduction>
 
-How do I add the time like I can in Evernote?
+## 03. WHY USE OPEN SOURCE SOFTWARE (OSS)
+
+### Introduction 3.0
+
+#### Introduction to Why Use Open Source Software
+
+- video watched
+
+#### Learning Objectives 3.0
+
+By the end of this chapter, you should be able to:
+
+- Explain the advantages of collaborative development.
+- Explain how to obtain flexibility that can give users more options, more possibilities of adaptation, and lower costs while avoiding vendor lock-in.
+- Explain how the work of external developers, as well as incorporating suggestions and fixes, can help businesses bring better products to market faster.
+- Show how OSS can provide new marketing strategies since customers know what they are getting is part of an entire ecosystem.
+​- Understand how both quality and security of code is enhanced by development in the open.
+- Enumerate the advantages OSS brings to educational institutions at all levels.
+- Explain how OSS gives developers greater visibility and helps them build careers.
+
+### Reasons for Using Open Source Software
+
+#### Collaborative Development
+
+Collaborative development enables software projects to build better software.​
+
+When progress is shared, not everyone has to solve the same problems and make the same mistakes. Thus, progress can be made much faster and costs can be reduced.
+
+Having more eyeballs viewing code and more groups testing leads to stronger and more secure code, as well.
+
+It is often hard for competitors to get used to the idea of sharing, and grasping that the benefits can be greater than the costs. But experience has proved this to be true over and over again.
+
+Competitors can compete on user-facing interfaces (e.g. internal plumbing that everyone needs) so that end users still see plenty of product differentiation and have varying experiences.
+
+#### Security and Quality of Source Code
+
+There are advantages of having freely available source code:
+
+- Code published openly tends to be cleaner because:
+  - It is embarrassing to show ugly, sloppy code
+  - Coding standards and styles tend to be cleaner and more consistent on community projects
+  - More people have to understand and work on the code
+- There are more eyeballs examining code and looking for security weaknesses before they are discovered by bad actors
+- There is more input in original design to avoid bad ideas​
+- No security through obscurity
+- No just trust me
+- Potentially faster bug repair.
+
+#### OSS Advantages for Various Stakeholders
+
+### Lab Exercises 3.0
+
+Lab 3.1. Using OSS Methods to Produce Better Products
+
+### Knowledge Check 3.0
+
+Chapter 3 Quiz
