@@ -677,6 +677,27 @@ Given its provenance, TeX was first widely adopted by mathematicians and a speci
 
 ### GNU: gcc, gdb, and More
 
+The GNU Project has provided many essential ingredients for virtually all modern computer technologies, under various versions of the GPL (General Public License). It was started in 1983 by Richard Stallman. Its name stands for Gnu’s Not Unix. It is very closely related to the Free Software Foundation (FSF).
+
+GNU Projects
+
+- gcc
+  - The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. It's a compiler for C, C++, Objective C and other high level languages.
+
+- gdb
+  - The GNU Debugger is a portable debugger that runs on many Unix-like systems and works for many programming languages, including Ada, C, C++, Objective-C, Free Pascal, Fortran, Go and partially others.
+
+- glibc
+  - The GNU C Library, commonly known as glibc, is the GNU Project's implementation of the C standard library. It is the most fundamental and widely used program library. Many other libraries are closely related to it.
+
+- bash
+  - GNU Bash or Bash is a Unix shell and command language used widely as the default login shell for most Linux distributions. It is the most common command line shell.
+
+- coreutils
+  - The GNU Core Utilities or coreutils is a package of GNU software containing reimplementations for many of the basic tools, such as cat, ls, and rm, which are used on Unix-like operating systems.
+
+GNU tools such as gcc and gdb were essential to the development of Linux from its earliest stages. The adoption of the GPL was absolutely essential to the success of the Linux kernel and the rise of operating system distributions based on it.
+
 ### X and Desktop Managers
 
 ### OpenStack, Kubernetes and Other OSS Projects
