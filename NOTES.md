@@ -546,7 +546,7 @@ Solution 3.1
 1. Expanding the pool of collaborators brings in more talent, more ideas.
 2. Competing groups become collaborators and do not have to keep reinventing the wheel. By standardizing on one implementation and building upon it, progress can be faster.
 3. More eyeballs on the code leads to more bug and security hole discovery as well as faster fixes.
-4. More eyeballs on the code leads to improved and cleaner style.   Furthermore,  having style standards throughout aproject leads to increased clarity and lessens the path to involvement by new contributors.
+4. More eyeballs on the code leads to improved and cleaner style.   Furthermore,  having style standards throughout a project leads to increased clarity and lessens the path to involvement by new contributors.
 5. Getting recognition from a wider audience motivates people.
 6. Having a wider variety of use cases induces a project to have more flexibility and also helps unearth problems that might be rarer and harder to identify with a smaller audience.
 
@@ -653,13 +653,34 @@ Like many other tools (such as compilers and debuggers), Git can be used in non-
 
 ### Apache
 
-RTR
+Work on the Apache HTTP Server began in 1995. Today, it is the most widely used web server, with roughly one third of the market share. Another open source project, nginx, has almost as many users. It operates under the umbrella of the Apache Software Foundation (ASF), while the server can be found at the Apache HTTP Server Project website. It is hard to overestimate the importance of Apache; there are many related projects that permeate the entire international technical space. Apache is released under the Apache Software License, which has also been adopted by many other projects. It is more permissive than the GPL, as we will discuss later.
 
 ### Python, Perl and Other Computer Languages
+
+Perl, Python, Ruby, GNU Compiler Collection (GNU), LLVM compiler infrastructure project, Rust
+
+Each of these has somewhat different licensing situations. However, the license does not extend to programs or libraries, or any other product developed using the language. In quite a few cases, the language standards may be set by some kind of standards body, but there can be multiple implementations, some OSS, some not, such as the case with C++. Or, the language can be more closed (such as C# or Java) in terms of accepting contributions from beyond a single entity, such as a corporation or committee.
+
 ### Tex and Latex
+
+TeX is really a typesetting system rather than a word processor program, and was developed from the outset to work on any kind of hardware imaginable. LaTeX, short for Lamport TeX, is a document preparation system.
+
+TeX was invented by Donald Knuth and first released in 1978. Knuth is an extremely influential computer scientist widely recognized for his wide-ranging contributions, in particular to algorithm analysis and development. TeX is really a typesetting system rather than a word processor program, and was developed from the outset to work on any kind of hardware imaginable.
+
+LaTeX, short for Lamport TeX, is a document preparation system widely used especially in academia for communication and publication of scientific documents in many fields , such as mathematics, computer science, engineering, physics, linguistics, philosophy, etc. It was created by Leslie Lamport in 1983. LaTeX is intended to provide a high-level, descriptive markup language that leverages the power of TeX in an easier way for writers. Essentially, TeX handles the layout side, while LaTeX handles the content side for document processing.
+
+Most users of TeX use higher level versions, such as LaTeX, which are more user-friendly, and, in turn may have multiple implementations; the most popular LaTeX version is texlive.
+
+Note that input is in plain text, rather than the WYSIWG scenario you have in popular office suites, and mark up tags and macros control the final appearance of the output.
+
+Given its provenance, TeX was first widely adopted by mathematicians and a specialized version, amstex was used, and later AMS-LaTeX. To date, there is simply no other system which can render mathematical formulae and equations as well at TeX. From there, TeX and then LaTeX rapidly spread through academia, where it is still the dominant form in many science disciplines, and is also used in many other places. There are specialized versions or additions to make LaTeX work with a wide variety of languages, and there are also extensions for embedding it in other applications and computing languages and vice versa, as well as WYSIWYG versions that some find easier to use. And all has always been under an open source license.
+
 ### GNU: gcc, gdb, and More
+
 ### X and Desktop Managers
+
 ### OpenStack, Kubernetes and Other OSS Projects
+
 ### Lab Exercises 04
 
 ### Knowledge Check 04
