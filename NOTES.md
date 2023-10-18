@@ -750,3 +750,39 @@ All these projects make extensive use of OSS tooling, such as gcc, make, glibc a
 
 #### Chapter 4 Quiz
 
+QUIZ RESULTS
+YOU GOT 3 OUT OF 3 CORRECT: 100%
+
+Question 4.1
+
+The git version control system arose from needs of which project?
+
+A. Apache
+B. The Linux kernel Your Answer: Correct
+C. Kubernetes
+D. Python
+E. GNU
+
+Question 4.2
+
+Which of the following are OSS projects used to construct a graphical interface? Select all answers that apply.
+
+A. X Window System Your Answer: Correct
+B. Microsoft Windows
+C. GNOME Your Answer: Correct
+D. Wayland Your Answer: Correct
+E. KDE Your Answer: Correct
+
+Question 4.3
+
+Which of the following are projects emanating from the Free Software Foundation? Select all answers that apply.
+
+A. gcc Your Answer: Correct
+B. bash Your Answer: Correct
+C. gdb Your Answer: Correct
+D. Apache
+E. glibc Your Answer: Correct
+
+RTR
+
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/developing-an-oss-strategy/introduction>
