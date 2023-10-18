@@ -700,6 +700,18 @@ GNU tools such as gcc and gdb were essential to the development of Linux from it
 
 ### X and Desktop Managers
 
+There are a number of ingredients that are used to instantiate the graphical desktop interface seen on any Linux laptop or workstation, including:
+
+- X Window System
+  - The underlying software that handles basic screen, input device and other point operations. A newer and more secure alternative, Wayland, is moving into its current role.
+
+- GNOME, KDE, XFCE
+  - Desktop Manager frameworks that control the operation of graphical interfaces, drag and drop between them, appearance of the desktop, etc.
+
+All of these are distributed and developed under commonly used open source licenses.
+
+There are many other desktop manager alternatives used in specialized distributions and embedded devices.
+
 ### OpenStack, Kubernetes and Other OSS Projects
 
 ### Lab Exercises 04
