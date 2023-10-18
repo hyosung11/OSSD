@@ -714,6 +714,18 @@ There are many other desktop manager alternatives used in specialized distributi
 
 ### OpenStack, Kubernetes and Other OSS Projects
 
+There are many other large scale (as well as small) collaborative projects that are based on open source software. A few critical examples:
+
+- OpenStack: the most widely deployed open source cloud software in the world
+- Kubernetes: also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.
+- ONAP: Open Network Automation Platform
+- Hyperledger: The open source, global ecosystem for enterprise-grade blockchain technologies that are at the core of critical developments and implementations around the world
+- Node.js: Node.js® is an open-source, cross-platform JavaScript runtime environment.
+- Xen: THE MISSION OF THE XEN PROJECT IS TO ADVANCE VIRTUALIZATION TECHNOLOGY ACROSS A WIDE RANGE OF COMMERCIAL AND OPEN-SOURCE DOMAINS.
+BY PROVIDING A POWERFUL AND VERSATILE HYPERVISOR, THE PROJECT AIMS TO ENABLE INNOVATION, SCALABILITY, SAFETY, AND SECURITY IN VIRTUALIZATION SOLUTIONS.
+- Core Infrastructure Initiative: The Core Infrastructure Initiative (CII) was an effort to improve the security of open-source software.
+- Automotive Grade Linux: Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car. With Linux at its core, AGL is developing an open platform from the ground up that can serve as the de facto industry standard to enable rapid development of new features and technologies.
+
 ### Lab Exercises 04
 
 ### Knowledge Check 04
