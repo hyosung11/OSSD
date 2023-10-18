@@ -561,9 +561,9 @@ From a business perspective, use of OSS (Select all answers that apply):
 Correct Answer
 
 A. Lengthens time to market, but is worth it because of improved product
-B. Enables use of ingredients from other sources and speeds development Your Answer: Correct 
+B. Enables use of ingredients from other sources and speeds development Your Answer: Correct
 C. Makes marketing more difficult because it is hard to differentiate products
-D. Makes marketing easier, as some ingredients are already well-known and trusted Your Answer: Correct 
+D. Makes marketing easier, as some ingredients are already well-known and trusted Your Answer: Correct
 
 Question 3.2
 
@@ -572,8 +572,8 @@ For school systems at any level, use of OSS (Select all answers that apply):
 Correct Answer
 
 A. Should be avoided, as students become confused by choices
-B. Can lower costs by letting low-cost or free software be used Your Answer: Correct 
-C. Can lower costs by letting older hardware be used Your Answer: Correct 
+B. Can lower costs by letting low-cost or free software be used Your Answer: Correct
+C. Can lower costs by letting older hardware be used Your Answer: Correct
 D. May cause problems with vendor lock-in
 
 Question 3.3
@@ -583,7 +583,7 @@ OSS is (Select all answers that apply):
 Correct Answer
 
 A. Insecure, as bad actors can easily see the code and hack it
-B. Secure, because many developers can easily see the code, look for problems, and mitigate problems when they are discovered Your Answer: Correct 
+B. Secure, because many developers can easily see the code, look for problems, and mitigate problems when they are discovered Your Answer: Correct
 C. Causing security problems, because developers come from different organizations and companies and do not understand each other's code
 D. Insecure, because no one is in charge of security
 E. Secure or insecure, depending on the quality and priorities of the project maintainers, but at least users can judge this by open discussion and code inspection Your Answer: Correct
@@ -600,14 +600,66 @@ INCORRECT 0
 
 RTR
 
-04. EXAMPLES OF SUCCESSFUL OSS PROJECTS
+## 04. EXAMPLES OF SUCCESSFUL OSS PROJECTS
 
-Introduction
-Introduction to Examples of Successful OSS Projects
-Learning Objectives
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/examples-of-successful-oss-projects/introduction?page=1>
 
-Successful OSS Projects: Examples
+### Introduction 04
 
-Lab Exercises
+#### Introduction to Examples of Successful OSS Projects
 
-Knowledge Check
+OSS ecosystems dominate almost all of the major ingredients in the world’s technology infrastructure. In this section, we will just survey a few of the most widely used and/or recognizable ones. We do not mean to slight those not specifically mentioned here, as a full list would be extremely long and actually impossible to accurately compile.
+
+#### Learning Objectives 04
+
+By the end of this chapter, you should be able to enumerate and briefly discuss successful OSS projects, including:
+
+- Linux kernel
+- Git
+- Apache
+- Python, Perl and other computer languages
+- TeX and LaTeX
+- GNU: gcc, gdb, etc.
+- X and desktop managers
+- OpenStack, Kubernetes and other projects.
+
+### Successful OSS Projects: Examples
+
+### Linux Kernel
+
+The Linux kernel has been an open source project since its inception in 1991. It is the basis of almost all of the world’s computing infrastructure, from the most powerful supercomputers to the largest number of mobile devices, based on Android, built on a Linux kernel.
+
+The Linux kernel has become ubiquitous in an enormous range of devices and embedded products, from personal fitness devices such as FitBit, to almost all DVR boxes and televisions, to many automotive systems, to in-flight entertainment systems, to medical devices; the list is infinite.
+
+The kernel development community is large and mature. While still headed by its founder, Linus Torvalds, there is a well-formed organizational structure of subsystem maintainers and mailing lists, contributor guidelines and methods, many world-wide conferences every year where developers can get to know each other and work in person, etc.
+
+The pace of the kernel development is rather astounding, and a new version is put out every 10-12 weeks; take a look at The Linux Kernel Archives to see the latest information. Literally thousands of developers (most of whom work for hardware and software companies, as well as for industrial collaborative consortia) are actively engaged in advancing the new releases.
+
+The Linux kernel is released under GPL Version 2; there are some sections that have dual licensing, with other open source licenses. For more details, read GNU General Public License, Version 2.
+
+### Git
+
+![Alt text](https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif%252Cc_fill%252Cw_400/v1/course-uploads/e0df7fbf-a057-42af-8a1f-590912be5460/ulhahcq8jafw-GitLogo.png)
+
+Git is a distributed version control system that is used worldwide for an astounding number of collaborative products.
+
+Git was created by Linus Torvalds in 2005 to handle the increasingly difficult task of coordinating and consolidating the work of thousands of contributors to the Linux kernel. Many others have continued to develop Git, which has Junio Hamano as its long time maintainer.
+
+While there have been version control systems in existence as long as people have worked together, Git is unparalleled in its ability to handle widely dispersed individuals over the Internet.
+
+It is also the basis of GitHub, which hosts more than one hundred million of open source projects repositories; GitLab, another easily available host, handles quite a few projects as well. Most of these OSS projects actually fail, but having a freely available (and zero cost in most instances) home for these projects has enabled easy startup and a straightforward path to scaling to larger communities.
+
+Like many other tools (such as compilers and debuggers), Git can be used in non-open source projects as well; this in no way contaminates using it for OSS work.
+
+### Apache
+
+RTR
+
+### Python, Perl and Other Computer Languages
+### Tex and Latex
+### GNU: gcc, gdb, and More
+### X and Desktop Managers
+### OpenStack, Kubernetes and Other OSS Projects
+### Lab Exercises 04
+
+### Knowledge Check 04
