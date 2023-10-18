@@ -728,4 +728,25 @@ BY PROVIDING A POWERFUL AND VERSATILE HYPERVISOR, THE PROJECT AIMS TO ENABLE INN
 
 ### Lab Exercises 04
 
+#### Lab 4.1. What OSS Products Do You Use?
+
+- Node.js
+- PostgreSQL
+
+Solution 4.1
+
+1. Android: Used in the majority of smart phones and other mobile devices world wide, built on top of the Linux kernel
+2. Apache Web Server (httpd): About half of all web servers are running Apache and its related products.
+3. Social Media: Virtually all social media platforms (Facebook, Twitter, Instagram etc.) are using OSScomponents throughout.
+4. Search Engines: GOOGLE and other search engines have vast data farms running Linux.
+5. Weather Forecasting: Essentially 100 percent of the world’s supercomputers run Linux, and forecasting the weather is one of the most intensive uses.
+6. Personal Fitness Devices: IncludingFitBit.
+7. DVRs: Almost all set top boxes and video recorders run Linux
+8. Medical Devices: A large number of medical devices used routinely every day are running Embedded Linux.
+
+All these projects make extensive use of OSS tooling, such as gcc, make, glibc and languages such as Python, Perl and Ruby.
+
 ### Knowledge Check 04
+
+#### Chapter 4 Quiz
+
