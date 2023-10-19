@@ -832,7 +832,28 @@ The three main sequential steps listed by Anat Richter:
 
 #### Open Source Program Office
 
+The open source program office serves as a center for functions, including:
+
+- Choosing OSS code to be used
+- Facilitating adoption of the code and popularizing its availability and usage
+- Keeping track of usage
+- Auditing compliance considerations
+- Making sure proper information and training is available to all employees, as needed
+
+One of the first tasks is to determine the placement of such an office within the organization. It should be relatively high in the organizational chart. Such an office may reside in the research and development command structure, or it may be placed under the legal department. There is no one answer for this choice of placement, but whomever is responsible must be sensitive to both the developer and legal needs. Otherwise, impedance mismatches will only grow and cause trouble down the road.
+
 #### Designing an Open Source Policy
+
+Perhaps the first step in open source policy construction is to ascertain how much of your product is already using open source components and how large an achievable goal can be. It is highly common for successful projects to be built of more than half OSS, and fractions of the code base that are OSS as high as 90 percent are not unusual. When done properly, it may even be just the upper crust of a product, the customer facing user interface that contains private code, and even that interface may be built entirely on OSS components. The value added can be in the integration of the components rather than the components themselves.
+
+Some key considerations:
+
+- How much of the product is desired to be OSS? Are there current closed source components which could be replaced by open source ones, perhaps both improving the product and its forward maintenance?
+- Which license(s) are a good fit to your needs and which licenses can you use in various OSS components you integrate, such as libraries, APIs, etc.? Are you best off with permissive licenses (like BSD or Apache) or more restrictive ones (like GPL)? Can you mix them in one or more released products?
+- Do you have a strong enough understanding (and legal help) to set up procedures for using both proprietary and open source code in a way which protects both types?
+- How will you review the code to make sure things are being done properly, that inappropriately licensed material does not find its way into your code, both the open and closed parts? Will you use automated license compliance tools, such as [FOSSology](https://www.fossology.org), [SPDX](https://spdx.dev/use/tools/), or [FOSS Bar Code Tracker](https://github.com/linuxfoundation/foss-barcode/).
+
+​A good starting point would be to check the [Linux Foundation's Open Compliance Program](https://compliance.linuxfoundation.org/references/tools/). Security considerations should be built in from the beginning. There will be OSS components that are generally assumed to be of high quality in this regard, with strong and prompt action when security problems are uncovered. Someone will be directly responsible for auditing and approving the secure nature of all incorporated OSS. Disclosure requirements mean that you have to be able to report to any interested client or user information about all OSS components, including information such as the original upstream source, the version, licensing considerations and dependencies. This is the same information you want about any components you include, i.e. you may be someone else’s upstream.
 
 #### Implementing an Open Source Policy
 
