@@ -783,6 +783,28 @@ C. gdb Your Answer: Correct
 D. Apache
 E. glibc Your Answer: Correct
 
-RTR
-
 <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/developing-an-oss-strategy/introduction>
+
+## 05. DEVELOPING AN OSS STRATEGY
+
+### Introduction 05
+
+#### Introduction to Developing an OSS Strategy
+
+#### Learning Objectives 05
+
+### How to Develop an OSS Strategy
+
+#### Constructing an Open Source Strategy
+
+#### Strategic Considerations
+
+#### Open Source Program Office
+
+#### Designing an Open Source Policy
+
+#### Implementing an Open Source Policy
+
+### Knowledge Check 05
+
+#### Chapter 5 Quiz
