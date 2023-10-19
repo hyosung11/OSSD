@@ -869,3 +869,24 @@ Community participation and outreach can also be critical. Who are designated sp
 ### Knowledge Check 05
 
 #### Chapter 5 Quiz
+
+Question 5.1
+
+Establishing an open source office and implementation plans:
+
+Correct Answer: B
+
+A. Should be done once your organization has some good OSS experience under its belt. Otherwise, a lot of work may be wasted and adoption of OSS delayed while time is wasted debating plans that may never be needed and issues that will not be of any concern.
+
+B. Should be done from the outset, before bad practices and sloppy code usage gets baked in and is hard to fix later, and to give a guide for developers and planners on how to incorporate OSS early in their engineering work.
+
+Your Answer: Correct
+
+QUIZ RESULTS
+YOU GOT 1 OUT OF 1 CORRECT: 100%
+
+## The TODO Group Lesson 06
+
+RTR
+
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/the-todo-group/introduction>
