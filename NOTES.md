@@ -817,6 +817,19 @@ Nowadays, use of OSS has become ubiquitous and even shops that were virulently o
 
 #### Strategic Considerations
 
+Key considerations involved in developing a strategy for integrating open source into an organizational and business framework have been well summarized in the article [Open Strategizing: Key Considerations for an Open Source Strategy by](https://web.archive.org/web/20200930091831/https://resources.whitesourcesoftware.com/blog-whitesource/open-strategizing-key-considerations-for-an-open-source-strategy) Anat Richter.
+
+The three main sequential steps listed by Anat Richter:
+
+1. Establishing an Open Source Office
+   1. This cannot be an afterthought. Someone has to be in charge and aware of all considerations.
+
+2. Formulating an Open Source Policy
+   1. This will depend on the current situation, needs, and future plans.
+
+3. Implementing an Open Source Policy
+   1. This can be tricky, but good planning helps a lot.
+
 #### Open Source Program Office
 
 #### Designing an Open Source Policy
