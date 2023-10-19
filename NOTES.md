@@ -791,7 +791,17 @@ E. glibc Your Answer: Correct
 
 #### Introduction to Developing an OSS Strategy
 
+- video introduction
+
 #### Learning Objectives 05
+
+By the end of this chapter, you should be able to:
+
+1. Understand the importance of constructing a coherent open source strategy for your organization.
+2. Explain the strategic considerations involved.
+3. Discuss the factors involved in designing an effective open source program office.
+4. Sketch out the ingredients used in the design.
+5. Plan the implementation of the strategic policy.
 
 ### How to Develop an OSS Strategy
 
