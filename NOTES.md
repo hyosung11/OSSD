@@ -807,6 +807,14 @@ By the end of this chapter, you should be able to:
 
 #### Constructing an Open Source Strategy
 
+No engineer would construct a bridge or highway without a design and specifications, and no military would enter a war without planning.
+
+However, OSS is entered into many environments without clear conscious strategies. There are many cases where engineers and system administrators began to adopt it simply because it was better and/or easier to fix, and even hoped that those above them in the food chain would not notice, e.g. there are many examples of a Linux print or email server being snuck into the office so the IT staff would need to come in less on weekends to fix breakage more common on other operating systems.
+
+Using administrative tools without careful consideration of licensing requirements is less likely to run into potential problems than using code during development. Sloppiness, however, can lead to a host of problems if anything is distributed outside the shop, even if there are no modifications made, depending on the particular licensing involved.
+
+Nowadays, use of OSS has become ubiquitous and even shops that were virulently opposed to its use are now heavily invested in it, with the best known example being Microsoft. Thus, a well-thought-out and implemented strategy for OSS use and adoption is not a luxury, it is a basic building block essential for success.
+
 #### Strategic Considerations
 
 #### Open Source Program Office
