@@ -857,6 +857,15 @@ Some key considerations:
 
 #### Implementing an Open Source Policy
 
+A policy is worthless without both a structure for ensuring implementation, and having a dedicated staff tasked with carrying it out. Training will need to be developed (or outsourced), targeted to more than one staff element, including:
+
+- Developers
+- Procurement
+- Legal
+- Security
+
+Community participation and outreach can also be critical. Who are designated spokespeople? Who monitors developer participation and contributions? Specific procedures will have to be developed for (often automated) code inspection of any incorporated elements for license compliance, etc. Clear assignment of responsibility is required in all areas.
+
 ### Knowledge Check 05
 
 #### Chapter 5 Quiz
