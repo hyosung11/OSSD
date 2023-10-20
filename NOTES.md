@@ -893,6 +893,8 @@ YOU GOT 1 OUT OF 1 CORRECT: 100%
 
 #### Introduction to The TODO Group
 
+- watched video
+
 #### Learning Objectives 6
 
 ### About the TODO Group
