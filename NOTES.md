@@ -887,6 +887,28 @@ YOU GOT 1 OUT OF 1 CORRECT: 100%
 
 ## The TODO Group Lesson 06
 
-RTR
-
 <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/the-todo-group/introduction>
+
+### Introduction 6
+
+#### Introduction to The TODO Group
+
+#### Learning Objectives 6
+
+### About the TODO Group
+
+#### About the TODO Group Details
+
+#### Purposes of the TODO Group
+
+#### TODO Guides
+
+#### TODO Case Studies
+
+### Lab Exercises 6
+
+### Lab 6.1. TODO Case Studies
+
+### Knowledge Check 6
+
+#### Chapter 6 Quiz
