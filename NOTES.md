@@ -934,13 +934,13 @@ Every organization has its own unique set of needs, challenges and practices. Sh
 
 The TODO Group and the Linux Foundation have made available a series of [guides](https://todogroup.org/resources/guides/) that publicize best practices gained from the experience of companies that use and develop OSS.
 
-#### Guides on building a successful open source program:
+#### Guides on building a successful open source program
 
 - How to create an open source program office
 - Measuring your open source program's success
 - Tools for managing open source programs
 
-#### Guides for open source program management:
+#### Guides for open source program management
 
 - Using open source code
 - Participating in open source communities
@@ -955,31 +955,13 @@ The TODO Group and the Linux Foundation have made available a series of [guides]
 [TODO Guides Links](https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/the-todo-group/about-the-todo-group?page=3)
 
 ### TODO Case Studies
-###  
-### Lab Exercises
-### Lab 6.1. TODO Case Studies
-###  
-### Knowledge Check
-### Chapter 6 Quiz
 
-#### Learning Objectives 6
-
-### About the TODO Group
-
-#### About the TODO Group Details
-
-#### Purposes of the TODO Group
-
-#### TODO Guides
-
-#### TODO Case Studies
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/the-todo-group/about-the-todo-group?page=4>
 
 ### Lab Exercises 6
 
-### Lab 6.1. TODO Case Studies
+#### Lab 6.1. TODO Case Studies
 
-### Knowledge Check 6
+### Knowledge Check 06
 
 #### Chapter 6 Quiz
-
-### Introduction 06
