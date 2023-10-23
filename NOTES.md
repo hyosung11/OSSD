@@ -914,3 +914,53 @@ YOU GOT 1 OUT OF 1 CORRECT: 100%
 ### Knowledge Check 6
 
 #### Chapter 6 Quiz
+
+### Introduction 06
+
+#### Introduction to The TODO Group
+
+- watched video
+
+### Learning Objectives 06
+
+By the end of this chapter, you should be able to:
+
+- Explain the mission of the TODO Group.
+- Understand the importance of spreading success stories in using OSS to new venues and organizations.
+- List reasons why codifying goals and practices makes OSS adoption easier and faster.
+
+### About the TODO Group
+
+#### About the TODO Group Details
+
+The [TODO Group](https://todogroup.org) was founded in 2014 with the express mission of fostering the adoption and spread of open source software in the corporate business community. Founding members included: Box, Dropbox, Facebook, GitHub, Google, HPE, Khan Academy, Microsoft, Square, Stripe, Twitter, Walmart and Yahoo. A full list of members is available at the project's website.
+
+Some of the TODO Group Members
+Retrieved from the [TODO Group website](https://todogroup.org/about/members/)
+
+TODO is a open community of practitioners who aims to create and share knowledge about Open Source Program Offices or similar Open Source initiatives. TODO Group community is open to all and is formed by its Community participants (including OSPO Associates) and General Members. TODO Group Community is open to all. Usually, practitioners coming from an organization with an OSPO or an established strategy and policies around Open Source / FOSS efforts within its organization support TODO by becoming General Members. Our General Members include: TODO Group Member Products/Projects (96). The TODO Group became a Linux Foundation collaborative project in March 2016.
+
+### Purposes of the TODO Group
+
+Every industry today uses and relies on OSS. It is virtually impossible to build a successful business model that fails to incorporate open source components at multiple levels. However, there still exist gaps in taking advantage of the full capabilities available, and in organizational comprehension of the essential concepts and necessary practical methods and considerations. Many corporations and other organizations have faced the task of appreciating and incorporating OSS methods, and the members of the TODO Group have united to share their experiences so as to help each other surmount the challenges involved. Besides easing individual members to accomplish their goals effectively, sharing helps develop a fertile ecosystem that enables organizations to work cooperatively and speak the same language, helping to develop partnerships and make deals, etc.
+
+🚩
+Note that most members of the TODO Group do not have OSS as their central mission (as do companies such as commercial Linux distributions like Red Hat, SUSE or GitHub), but they employ OSS in the essential parts of their products as well as their infrastructure.
+
+The TODO Group focuses on:
+
+- Sharing best practices for running large open source programs.
+- Codifying goals for successfully managed projects.
+- Spreading knowledge about helpful tooling and instrumentation.
+- Listing and describing member projects that are successful examples.
+
+Every organization has its own unique set of needs, challenges and practices. Sharing allows for faster and better establishment of enabling open source strategies.
+
+### TODO Guides
+### TODO Case Studies
+###  
+### Lab Exercises
+### Lab 6.1. TODO Case Studies
+###  
+### Knowledge Check
+### Chapter 6 Quiz
