@@ -895,32 +895,6 @@ YOU GOT 1 OUT OF 1 CORRECT: 100%
 
 - watched video
 
-#### Learning Objectives 6
-
-### About the TODO Group
-
-#### About the TODO Group Details
-
-#### Purposes of the TODO Group
-
-#### TODO Guides
-
-#### TODO Case Studies
-
-### Lab Exercises 6
-
-### Lab 6.1. TODO Case Studies
-
-### Knowledge Check 6
-
-#### Chapter 6 Quiz
-
-### Introduction 06
-
-#### Introduction to The TODO Group
-
-- watched video
-
 ### Learning Objectives 06
 
 By the end of this chapter, you should be able to:
@@ -957,6 +931,29 @@ The TODO Group focuses on:
 Every organization has its own unique set of needs, challenges and practices. Sharing allows for faster and better establishment of enabling open source strategies.
 
 ### TODO Guides
+
+The TODO Group and the Linux Foundation have made available a series of [guides](https://todogroup.org/resources/guides/) that publicize best practices gained from the experience of companies that use and develop OSS.
+
+#### Guides on building a successful open source program:
+
+- How to create an open source program office
+- Measuring your open source program's success
+- Tools for managing open source programs
+
+#### Guides for open source program management:
+
+- Using open source code
+- Participating in open source communities
+- Recruiting open source developers
+- Starting an open source project
+- Open source reading list
+- Improve your open source development impact
+- Shutting down an open source project
+- Building leadership in an open source community
+- Setting an open source strategy
+
+[TODO Guides Links](https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/the-todo-group/about-the-todo-group?page=3)
+
 ### TODO Case Studies
 ###  
 ### Lab Exercises
@@ -964,3 +961,25 @@ Every organization has its own unique set of needs, challenges and practices. Sh
 ###  
 ### Knowledge Check
 ### Chapter 6 Quiz
+
+#### Learning Objectives 6
+
+### About the TODO Group
+
+#### About the TODO Group Details
+
+#### Purposes of the TODO Group
+
+#### TODO Guides
+
+#### TODO Case Studies
+
+### Lab Exercises 6
+
+### Lab 6.1. TODO Case Studies
+
+### Knowledge Check 6
+
+#### Chapter 6 Quiz
+
+### Introduction 06
