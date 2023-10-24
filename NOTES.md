@@ -991,7 +991,7 @@ The TODO Group:
 Correct Answer
 
 A. Operates under the auspices of the Free Software Foundation (FSF) and GNU
-**B. Is a project under the umbrella of the Linux Foundation Your Answer: Correct **
+**B. Is a project under the umbrella of the Linux Foundation Your Answer: Correct**
 C. Is run by the OpenStack Foundation
 D. Is a joint project of the UK's MI6 and Russia's FSB, and consults with the CSA and NSA as needed
 
@@ -1028,9 +1028,46 @@ By the end of this chapter, you should be able to:
 
 #### What Is The OpenChain Project?
 
+The [OpenChain Project](https://www.openchainproject.org) is tasked with identifying and sharing the components of high quality open source compliance programs. It is a Linux Foundation project that was born in 2013 out of the recognition that many organizations had adopted open source software components, and had developed license compliance programs. While there was considerable overlap in methods and quality, there were insufficient methods of establishing trust in the quality and consistency of software being shared and exchanged.
+
+The OpenChain Project established an open set of requirements for effective management of **free and open source software (FOSS)**. If an organization meets this [specification of requirements](https://www.openchainproject.org/get-started), it can be certified as OpenChain Conforming and receive the right to display the logo indicating that it is fully compliant. The most current version of the Specification can be accessed [here](https://www.openchainproject.org/get-started).
+
+Please note that the distributed ledger technology Openchain is not related to this project.
+
+![Alt text](https://d36ai2hkxl16us.cloudfront.net/course-uploads/e0df7fbf-a057-42af-8a1f-590912be5460/jqzpxrcljzp0-OpenChainMembers.png)
+
+OpenChain Project Members
+Retrieved from the OpenChain Project Members web page (404)
+
 #### Compliance Program Requirements
 
+There are [six main categories required for a compliance program](https://www.openchainproject.org/resources/faq):
+
+1. Know Your Free and Open Source (FOSS) Responsibilities [i.e., “Policy and Training”]
+2. Assign Responsibility for Achieving Compliance
+3. Deliver FOSS Content Documentation and Artifacts
+4. Review and approve FOSS content
+5. Understand FOSS Community Engagement
+6. Certify Adherence to OpenChain Requirements
+
+It is important to note that the OpenChain Specification does not indicate compliance with any particular open source license; it describes the level of trust that an organization has built a program that establishes license compliance.
+
+Such a program will have compliance artifacts, including:
+
+- Source code
+
+- Build scripts
+- License copies
+- Attribution notices
+- Modification notices
+- SPDX data
+- Any other materials licenses may require in a deliverable.
+
 #### Certification
+
+RTR hungry
+
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/the-openchain-project/about-the-openchain-project?page=3>
 
 ### Lab Exercises 07
 
