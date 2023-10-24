@@ -956,12 +956,54 @@ The TODO Group and the Linux Foundation have made available a series of [guides]
 
 ### TODO Case Studies
 
-RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/the-todo-group/about-the-todo-group?page=4>
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/the-todo-group/about-the-todo-group?page=4>
+
+The TODO Group has also published a series of case studies by a diverse group of companies, that describe how they adopted and manage open source into their corporate DNA:
+
+- Autodesk
+- Capital One
+- Comcast
+- Dropbox
+- Meta
+- Microsoft
+- Oath
+- Porsche
+- Red Hat
+- Rit
+- Salesforce
+- SAP
+- Uber
 
 ### Lab Exercises 6
 
 #### Lab 6.1. TODO Case Studies
 
+The best way to learn about how companies have successfully incorporated OSS into their DNA is to read some the case studies we listed previously. You will notice the companies range from those built on and around OSS (like Red Hat) to those in other industries, such as Capital One in the financial sector, Comcast in telecommunications and entertainment, and general business products, such as SAP and Salesforce. Pick whatever interests you and learn about those experiences.
+
 ### Knowledge Check 06
 
 #### Chapter 6 Quiz
+
+Question 6.1
+
+The TODO Group:
+
+Correct Answer
+
+A. Operates under the auspices of the Free Software Foundation (FSF) and GNU
+**B. Is a project under the umbrella of the Linux Foundation Your Answer: Correct **
+C. Is run by the OpenStack Foundation
+D. Is a joint project of the UK's MI6 and Russia's FSB, and consults with the CSA and NSA as needed
+
+THE TODO GROUP
+Knowledge Check
+QUIZ RESULTS
+YOU GOT 1 OUT OF 1 CORRECT: 100%
+
+1 1 1 0
+TOTAL (1)
+ANSWERED
+CORRECT
+INCORRECT
+
+RTR
