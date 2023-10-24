@@ -1006,4 +1006,36 @@ ANSWERED
 CORRECT
 INCORRECT
 
-RTR
+## 07. THE OPENCHAIN PROJECT
+
+### Introduction 07
+
+#### Introduction to The OpenChain Project
+
+- watch video
+- OpenChain is a Linux Foundation project
+- certification process
+
+#### Learning Objectives 07
+
+By the end of this chapter, you should be able to:
+
+- Explain the role of the OpenChain Project in elucidating and sharing the ingredients in successful open source compliance programs.
+- Discuss the requirements that must be satisfied to receive the OpenChain Conforming certification and the right to display the logo.
+- List the compliance artifacts that are incorporated in these requirements.
+
+### About the OpenChain Project
+
+#### What Is The OpenChain Project?
+
+#### Compliance Program Requirements
+
+#### Certification
+
+### Lab Exercises 07
+
+#### Lab 7.1. OpenChain Self-Certification
+
+### Knowledge Check 07
+
+#### Chapter 7 Quiz
