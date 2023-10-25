@@ -1055,7 +1055,6 @@ It is important to note that the OpenChain Specification does not indicate compl
 Such a program will have compliance artifacts, including:
 
 - Source code
-
 - Build scripts
 - License copies
 - Attribution notices
@@ -1065,9 +1064,19 @@ Such a program will have compliance artifacts, including:
 
 #### Certification
 
-RTR hungry
-
 <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/the-openchain-project/about-the-openchain-project?page=3>
+
+OpenChain Conformance can be established online through a [self-certification process](https://www.openchainproject.org/get-started). It is as simple as answering a series of questions. A step by step video showing the process can be viewed on YouTube: [OpenChain Self-Certification](https://www.youtube.com/watch?v=EAUAr9S8Ipk).
+
+There is also [detailed documentation available on how to achieve conformance](https://www.openchainproject.org/get-started), including guides for best practices for compliance, engineering and reuse, as well as checklists for compliance and conformance. There are also tooling overviews guidance for establishing proper workflows.
+
+Successful certification lets an entity use the OpenChain logo.
+
+OpenChain Conformance Logos
+
+Below is a [figure showing an example enterprise process flow](https://www.openchainproject.org/get-started):
+
+End-to-End Compliance Management: Enterprise Process Example
 
 ### Lab Exercises 07
 
