@@ -1082,6 +1082,7 @@ End-to-End Compliance Management: Enterprise Process Example
 
 #### Lab 7.1. OpenChain Self-Certification
 
+
 ### Knowledge Check 07
 
 #### Chapter 7 Quiz
