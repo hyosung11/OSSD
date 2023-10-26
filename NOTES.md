@@ -1113,3 +1113,22 @@ TOTAL (1)
 ANSWERED
 CORRECT
 INCORRECT
+
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/how-to-work-in-oss-projects/introduction>
+
+08. HOW TO WORK IN OSS PROJECTS
+ 
+Introduction
+Introduction to How to Work in OSS Projects
+Learning Objectives
+ 
+Working in OSS Projects
+How to Contribute Properly
+Contributing to OSS Projects
+ 
+Lab Exercises
+Lab 8.1. Dealing with Non-Responsive Maintainers
+Lab 8.2. Small or Large Patches?
+ 
+Knowledge Check
+Chapter 8 Quiz
