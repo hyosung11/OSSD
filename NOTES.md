@@ -1091,3 +1091,25 @@ As noted, an organization can undergo a self-certification process at https://ww
 ### Knowledge Check 07
 
 #### Chapter 7 Quiz
+
+Question 7.1
+
+The OpenChain Project:
+
+Correct Answer
+
+A. Operates under the auspices of the Free Software Foundation (FSF) and GNU
+B. Is a project under the umbrella of the Linux Foundation Your Answer: Correct
+C. Is run by the OpenStack Foundation
+D. Is a joint project of the UK's MI6 and Russia's FSB, and consults with the CSA and NSA as needed
+
+THE OPENCHAIN PROJECT
+Knowledge Check
+QUIZ RESULTS
+YOU GOT 1 OUT OF 1 CORRECT: 100%
+
+1 1 1 0
+TOTAL (1)
+ANSWERED
+CORRECT
+INCORRECT
