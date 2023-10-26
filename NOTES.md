@@ -1082,6 +1082,11 @@ End-to-End Compliance Management: Enterprise Process Example
 
 #### Lab 7.1. OpenChain Self-Certification
 
+Exercise 7.1: OpenChain Self-Certification
+
+As noted, an organization can undergo a self-certification process at https://www.openchainproject.org/conformance.Watch the video at https://youtu.be/EAUAr9S8Ipk to get a sense of how to earn the use of the **OpenChain Conformance** logo.
+
+[OpenChain Self Certification](https://youtu.be/EAUAr9S8Ipk)
 
 ### Knowledge Check 07
 
