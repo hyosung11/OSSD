@@ -1136,12 +1136,128 @@ By the end of this chapter, you should be able to:
 - Work on the human interaction skills necessary to work with other members of the community, especially those who may be difficult.
 - Strive to develop long-term relationships and really join the community.
 
-
 ### Working in OSS Projects
 
-How to Contribute Properly
-Contributing to OSS Projects
+#### How to Contribute Properly
 
+Before making contributions to any OSS project, you should investigate it, understand its workflow and style, and identify the scope and nature of your work: 🔍
+
+- Identify how the project communicates; start by reading the mailing list for the project. Also, study any existing archives.
+- ​If there is an Internet Relay Chat (IRC) network, join it.​
+- Understand how contributions are submitted. Is it through mailing lists? Email? A revision control system, such as git or subversion? A good way to lessen your standing on the project - is to be sloppy or ignorant of proper procedures, including even trivial sounding matters like using an email client that does not mess up white space.
+- Study previous history. Has your idea been considered before and rejected? Or, if generally seen as worthwhile, is there already an individual or group working on the idea? If so, you - should join them in many cases, not start over.
+- Does the project offer veteran contributors as mentors?
+
+Rather than beginning by submitting code, it is often far better to offer your services for testing, finding bugs, and similar work. Many open source projects complain that this is their weakest link.​ Make sure you are competent at whatever programming or scripting language the project uses; developers will be impatient in correcting your code on that level. Find the right balance between asking for suggestions and review early in the process, instead of waiting too long and dumping a lot of perhaps poorly conceived work on people at once. No one enjoys contributors who pontificate all the time without contributing code, and no one likes massive patch sets that cannot be absorbed easily. Finally, please be polite, respectful, avoid obscenities, flaming and trolling. While some communities tolerate it, it should not be encouraged, as it affects the quality of work and it is just wrong.
+
+#### Contributing to OSS Projects
+
+When contributing to OSS projects, you must keep in mind various things, to ensure you abide by the rules of the project and its community.
+
+##### Things to Consider When Contributing to OSS Projects
+
+###### Know Where the Code is Coming From: DCO and CLA
+
+It is very important for any open source project to document and understand where all contributed code is coming from. This is important for multiple reasons, including:
+
+- Knowing who the expert(s) are on the contributions; when there are questions or modifications, generally these people need to either answer them or do the work, or at least review it before acceptance.
+- Knowing the legal provenance of the code; if someone either inadvertently or intentionally uses code that violates the license it may have used in another context this can be a big problem. In this case it is important to know who to blame.
+
+Two common methods for handling these issues are the use of either a **Contributor License Agreement (CLA)** or a **Developer Certificate of Origin (DCO)**. There can be arguments about which is more appropriate for a given project. However, a number of well-established projects have migrated from CLA to DCO as their operative integrity documentation. With a CLA (the older method) contributors must sign an agreement which can vary from project to project. For example, they may or may not grant copyright and/or patent licenses. The DCO was introduced by the Linux Foundation in 2004 and is simpler and of lighter weight. Every git commit must be signed off with this approach. With either approach, the servers hosting the software repositories (such as GitHub or GitLab) can use checks to ensure all contributions either have a CLA in place or are signed off as required by a DCO. Generally speaking a CLA is a one-time operation, whereas a DCO requires a sign-off with each contribution, but this is trivial (i.e., adding the -s option to each commit operation). A detailed summary of the use of DCOs is given [here](https://wiki.linuxfoundation.org/dco). When you use the `-s` option, each commit will have a message embedded such as:
+
+`Signed-off-by: Some Developer <some-developer@example.com>`
+
+###### Study and Understand the Project DNA
+
+Unless you are starting a new project, there will already be a community established ethos, and formal or informal leadership structure.​ 🔍
+
+Questions to ask include:​
+
+- Why does this project exist and why was it started?
+- Has it diverged far from its original purpose?
+- Is the contributing community large or small? Continuously active, or only sporadically so?
+- Does it have a collective or singular governance structure?
+- What kind of license does it adopt, and is there a contributor license agreement (CLA) you have to agree to?
+
+Keep in mind the majority of OSS projects never really take off; there are millions of them on GitHub. However, all projects have to start somewhere, and most start rather small.
+
+###### Figure Out What Itch You Want to Scratch
+
+Most contributors get involved in open source projects because:
+
+- There is a bug/problem that interferes with their use of the project
+- They want to add additional functionality to the project.
+
+Sometimes, you are just interested in something cool and want to learn about it. Some projects have a "janitorial" list of things to do, relatively straightforward tasks that can help you get your feet wet. Beginning contributors who go on to become important to a project rarely start with patches that do not affect functionality, such as those that just tidy up code appearance.
+
+###### Identify Maintainers and Their Work Flows and Methods
+
+There will always be maintainers whose job is to carefully review code submissions. Having a good relationship with relevant maintainers is absolutely crucial. There may be one maintainer for the whole project (perhaps the benevolent dictator), but, for projects with many pieces and large communities, there will be subsystem maintainers as well. A good example is the Linux kernel community. The job of a maintainer is difficult. They have to: 
+
+- Understand and review all submissions.
+- Make sure they add something other than complication and do not introduce bugs.
+- Make sure they do not conflict with other patches.
+- Do all this in a timely fashion; it is very frustrating for contributors if maintainers appear not to be working on review.
+- Do everything respectfully.
+
+Be respectful and be patient. If you treat a maintainer as either someone who works for you, or as a difficult boss, it will not be appreciated. Offer to review other contributors' submissions and be helpful. *Offer to debug new features and bug fixes; this is often one of the most neglected areas in OSS development.*
+
+###### Get Early Input and Work in the Open
+
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/how-to-work-in-oss-projects/working-in-oss-projects?page=2>
+
+As a new member of the community, you probably do not know the history. Your bright new idea might actually be an old one. If so, perhaps your idea has been discussed and rejected. Or, perhaps there was work on it and it petered out for a variety of reasons. This does not mean your idea is a bad one; maybe it could not have been done in the past, but is feasible now, as software and hardware have evolved.
+
+Propose your ideas to the community before you go very far with them; take advantage of institutional memory. Get suggestions and input.
+
+Never just introduce an idea and suggest someone else do it; this is often a sure road to oblivion ("Show me the code!").
+
+Just say you are asking for opinions before you go too far, to see if people think it is a worthwhile and feasible path.
+
+In doing this, you will get more eyeballs from the beginning, and it can only help. If you are uncomfortable having other people look at your work often, OSS is not for you!
+
+Close Contribute Incremental Bits, Not Large Code Dumps
+Code contributions are best digested in small unit-sized bites. Overloading maintainers and mailing lists with large code dumps is a good way to make sure your code is not reviewed. 
+
+Besides just being a lot for reviewers to consume, it becomes difficult to process the individual parts; perhaps most of the changes are good, but some require modification. It is hard to back out if it is in one large patch. 
+
+So, breaking up your work into a series of sequential patches is often the best way to go. For example, you may have a separate patch for each file you are modifying.
+
+It is possible your functionality will not work until all patches are included. That's fine. Wings and feet were not fully functional as they began to evolve.
+
+Close Leave Your Ego at the Door: Do Not Be Thin-Skinned
+Like any Internet-based community, OSS projects tend to attract some rather interesting characters. Unfortunately, some of them can be quite irritating, even offensive.  ​
+
+Leave your ego at the door. Take a deep breath if someone is nasty to you and do not answer in kind.
+
+Respect other opinions. Maybe your approach is not the best one. Learn when to yield if you want to get code upstream. When making criticisms or engaging in any discussion thread, be polite and respectful.
+
+If someone is going over the line, rely on community members with long history to try and calm things down and resolve issues. Do not feed the trolls.​
+
+​Occasionally, contributors may be purged from a project. This is actually a pretty rare occurrence. The main reason is maintainer inactivity, or being unpleasant. 
+
+While in a good project every effort is made to keep things energetic but mellow, there can be problems with behavior involving discrimination and offensive conduct with respect to:
+
+Race
+Sex
+Sexual preference
+Religion
+National origin
+etc.
+In addition, expressing (strongly) political or religious sentiments and opinions is generally out of place. People from rather far sides of the spectrum often work together successfully.
+
+Close Be Patient, Develop Long-Term Relationships, Be Helpful
+Most projects do not appreciate drive-by contributors: those who provide some enhancement or fix, but then disappear.
+
+Besides the initial contribution, there often needs to be a commitment to long-term maintenance. Otherwise, bit rot will ensue for all but trivial contributions.
+
+For this reason, one sometimes sees good code rejected unless someone steps forward and volunteers long-term maintenance.
+
+Thus, think about the future when doing submissions.
+
+One good way to develop (good) long-term relationships in the community is to offer to help in areas not directly related to your main interests.
+
+It is helpful to be viewed as a good citizen. This is particularly true if you are contributing as part of a commercial organization; community members will see you as being a real member of the community, and not just someone exploiting it.
 ### Lab Exercises 08
 
 Lab 8.1. Dealing with Non-Responsive Maintainers
