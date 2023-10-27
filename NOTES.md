@@ -1114,21 +1114,39 @@ ANSWERED
 CORRECT
 INCORRECT
 
-RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/how-to-work-in-oss-projects/introduction>
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/how-to-work-in-oss-projects/introduction>
 
-08. HOW TO WORK IN OSS PROJECTS
- 
-Introduction
-Introduction to How to Work in OSS Projects
-Learning Objectives
- 
-Working in OSS Projects
+## 08. HOW TO WORK IN OSS PROJECTS
+
+### Introduction 08
+
+#### Introduction to How to Work in OSS Projects
+
+- watched video
+
+#### Learning Objectives 08
+
+By the end of this chapter, you should be able to:
+
+- Know what resources are available to ease entrance into an OSS project community.
+- Start off by studying how the community works and deciding what it is you want to contribute and why.
+- Identify maintainers and understand their methods and proper workflow.
+- Learn how to get constructive input for your contribution and how to work in the open.
+- Develop best strategies for how often to contribute and in what size pieces.
+- Work on the human interaction skills necessary to work with other members of the community, especially those who may be difficult.
+- Strive to develop long-term relationships and really join the community.
+
+
+### Working in OSS Projects
+
 How to Contribute Properly
 Contributing to OSS Projects
- 
-Lab Exercises
+
+### Lab Exercises 08
+
 Lab 8.1. Dealing with Non-Responsive Maintainers
 Lab 8.2. Small or Large Patches?
- 
-Knowledge Check
+
+### Knowledge Check 08
+
 Chapter 8 Quiz
