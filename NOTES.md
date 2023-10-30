@@ -1084,7 +1084,7 @@ End-to-End Compliance Management: Enterprise Process Example
 
 Exercise 7.1: OpenChain Self-Certification
 
-As noted, an organization can undergo a self-certification process at https://www.openchainproject.org/conformance.Watch the video at https://youtu.be/EAUAr9S8Ipk to get a sense of how to earn the use of the **OpenChain Conformance** logo.
+As noted, an organization can undergo a self-certification process at <https://www.openchainproject.org/conformance.Watch> the video at <https://youtu.be/EAUAr9S8Ipk> to get a sense of how to earn the use of the **OpenChain Conformance** logo.
 
 [OpenChain Self Certification](https://youtu.be/EAUAr9S8Ipk)
 
@@ -1241,7 +1241,7 @@ Exercise 8.1: You have submitted a patch to a subproject maintainer and have rec
 
 Solution 8.1
 
-Obviously the last answer is most appropriate. You need to be patient and respectful. When you achieve the exalted status ofbeing a maintainer you will learn how stressful, time consuming and often thankless a task it is. Maintainers are squeezed bycontributors from below, and by upstream leaders and reviewers from above.As usual there is not one exact protocol to follow. But be a good citizen and appreciate the work people do and next time youhave a change set, your treatment can only be better.
+Obviously the last answer is most appropriate. You need to be patient and respectful. When you achieve the exalted status of being a maintainer you will learn how stressful, time consuming and often thankless a task it is. Maintainers are squeezed by contributors from below, and by upstream leaders and reviewers from above.As usual there is not one exact protocol to follow. But be a good citizen and appreciate the work people do and next time you have a change set, your treatment can only be better.
 
 #### Lab 8.2. Small or Large Patches?
 
