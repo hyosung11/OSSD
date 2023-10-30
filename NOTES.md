@@ -1296,4 +1296,29 @@ YOU GOT 1 OUT OF 3 CORRECT: 33%
 
 3 3 1 2
 
-RTR
+## 09. CONTINUOUS INTEGRATION
+
+### Introduction Lesson 09
+
+#### Introduction to Continuous Integration
+
+#### Learning Objectives 09
+
+### Continuous Integration (CI)
+
+#### Why Continuous Integration?
+
+#### Continuous Delivery and Continuous Deployment
+
+#### Costs and Benefits
+
+#### Tools
+
+#### Example: Linux Kernel Continuous Integration Project
+
+#### Continuous Delivery Foundation
+
+### Knowledge Check 09
+
+#### Chapter 9 Quiz
+
