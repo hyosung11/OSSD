@@ -1233,14 +1233,67 @@ One good way to develop (good) long-term relationships in the community is to of
 
 #### Lab 8.1. Dealing with Non-Responsive Maintainers
 
-You have submitted a patch to a subproject maintainer and have received no response for a few days. You should:
+Exercise 8.1: You have submitted a patch to a subproject maintainer and have received no response for a few days. You should:
 
 - Quietly resend the patch every day until there is an acknowledgment of receipt, acceptance, or rejection. You can even use an automated email bot to do this.
 - Since the maintainer is ignoring you, you should send the patch set to the entire project, through a mailing list if that is an appropriate channel.  Make sure to tell people you are doing this because the maintainer is not doing their job andy ou are routing around them.
 - Send a follow up inquiry referring to the patch to the maintainer, possibly resubmitting. Make sure you know the person’s normal workflow and response times to see if you are being singled out. See if you can ascertain if the maintainer seems to be active but ignoring you, or is inactive in general.
 
+Solution 8.1
+
+Obviously the last answer is most appropriate. You need to be patient and respectful. When you achieve the exalted status ofbeing a maintainer you will learn how stressful, time consuming and often thankless a task it is. Maintainers are squeezed bycontributors from below, and by upstream leaders and reviewers from above.As usual there is not one exact protocol to follow. But be a good citizen and appreciate the work people do and next time youhave a change set, your treatment can only be better.
+
 #### Lab 8.2. Small or Large Patches?
+
+Exercise 8.2: Is it Better to submit Small or Large Patches?
+
+Suppose you are making a rather large set of changes to a project. Is it better to:
+
+- Submit a sequential series of bite-size patches that are easier to digest, even if there is not much functionality until all are accepted.
+- Wait until the work is essentially complete and submit one or two large change sets.
+
+Solution 8.2
+
+Usually small and incremental patch sets are preferred.  This has the advantage that they are easier to understand, and if something is not quite right, it is preferable to catch it early and nip it in the bud. Larger patch sets tend to overwhelm reviewers and maintainers. Sometimes they are just refused out of hand for that reason.There is no hard and fast rule here and some projects might like to see the complete set.  Sometimes it is very hard to test anything until the work is complete, as the intermediate evolutionary steps are just that. However, smaller patch sets are more often the preferred method.
 
 ### Knowledge Check 08
 
 Chapter 8 Quiz
+
+Question 8.1
+
+When first getting involved in an OSS project, you should (Select all answers that apply):
+
+Incorrect Answer
+
+A. Start contributing code immediately and learn the workflow through doing
+B. Start by helping test and report results Correct Answer
+C. Consider what it is you would like to work on, either because it is needed by you, or it just interests you Your Answer: Correct
+D. Start by posting messages on the appropriate mailing lists suggesting things you would like to see, pointing out the weak aspects of the project, etc.
+
+Question 8.2
+
+When working on an OSS project, the best strategy is to:
+
+Correct Answer
+
+A. Save up changes until you can submit multiple changes in one large patch, rather than bother maintainers often
+B. Submit changes one at a time in a sequential manner, even if the full change will not do much until the entire patch series is incorporated
+
+Question 8.3
+
+When there is someone in the project community that gets abusive or just difficult to deal with, you should (Select all answers that apply):
+
+Incorrect Answer
+
+A. Immediately respond in kind and slap them down
+B. Let established community members moderate the person Your Answer: Correct
+C. Actually read what they are saying; even if phrased in a nasty manner, the points might need addressing, and you can respond to them calmly Correct Answer
+D. Find out what their demographic characteristics are (race, gender, nationality, etc.) and use that to belittle them
+
+QUIZ RESULTS
+YOU GOT 1 OUT OF 3 CORRECT: 33%
+
+3 3 1 2
+
+RTR
