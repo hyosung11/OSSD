@@ -1302,7 +1302,18 @@ YOU GOT 1 OUT OF 3 CORRECT: 33%
 
 #### Introduction to Continuous Integration
 
+- watch video
+
 #### Learning Objectives 09
+
+By the end of this chapter, you should be able to:
+
+- Define Continuous Integration (CI) and explain its potential benefits.
+- ​Explain Continuous Delivery (CD) and Continuous Deployment, and how these three concepts (CI, CD and Continuous Deployment) are interrelated and form different stages of one coherent process.
+- Weigh the costs and benefits in some detail of using Continuous Integration methods; both sides of the balance sheet can be quite appreciable.
+- Investigate some of the pre-packaged tools that can be used to ease Continuous Integration.
+- See how the Linux Kernel Continuous Integration Project is a great example of a large scale use of these techniques.
+- Understand the role of the Continuous Delivery Foundation as a neutral gathering point for work in the CI/CD world.
 
 ### Continuous Integration (CI)
 
@@ -1321,4 +1332,3 @@ YOU GOT 1 OUT OF 3 CORRECT: 33%
 ### Knowledge Check 09
 
 #### Chapter 9 Quiz
-
