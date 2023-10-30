@@ -1231,8 +1231,15 @@ One good way to develop (good) long-term relationships in the community is to of
 
 ### Lab Exercises 08
 
-Lab 8.1. Dealing with Non-Responsive Maintainers
-Lab 8.2. Small or Large Patches?
+#### Lab 8.1. Dealing with Non-Responsive Maintainers
+
+You have submitted a patch to a subproject maintainer and have received no response for a few days. You should:
+
+- Quietly resend the patch every day until there is an acknowledgment of receipt, acceptance, or rejection. You can even use an automated email bot to do this.
+- Since the maintainer is ignoring you, you should send the patch set to the entire project, through a mailing list if that is an appropriate channel.  Make sure to tell people you are doing this because the maintainer is not doing their job andy ou are routing around them.
+- Send a follow up inquiry referring to the patch to the maintainer, possibly resubmitting. Make sure you know the person’s normal workflow and response times to see if you are being singled out. See if you can ascertain if the maintainer seems to be active but ignoring you, or is inactive in general.
+
+#### Lab 8.2. Small or Large Patches?
 
 ### Knowledge Check 08
 
