@@ -1319,6 +1319,17 @@ By the end of this chapter, you should be able to:
 
 #### Why Continuous Integration?
 
+Once upon a time, most software was written by a relatively small group of developers, often working in the same location and in frequent contact. Coordination and division of responsibilities was done in a straightforward manner. Revision control systems were developed long ago to accommodate more than one contributor working on a project. Usually, there is a central repository which stores the authoritative copy of a project, with one or more developers possessing the ability to make changes and then check them in. Things get more complicated when there are many developers working in many different locations on a project with many subsystems. The Linux kernel was the first really huge distributed development project, and its creator, Linus Torvalds, invented the git system for rationalizing distributed development. We will discuss revision control systems, especially git, in greater detail later. However, a revision control system does not guarantee that what a diverse group of contributors is doing together actually works, or that one set of new code or bug fixes does not conflict with another. That can only be done by testing.
+
+🔍 While testing, the following factors need to be taken into consideration:
+
+- Can overlapping sets of changes be applied simultaneously, or do they conflict (a good revision control system such as git can handle most of this work, but it still often requires human intervention).
+- When all changes are applied, does the project even compile? For example, one patch set might remove a header file that another one needs. This does not get picked up by the revision control system.
+- Does it work on all possible targets? That might mean different hardware (say x86 vs. ARM) or different operating systems (say Linux vs. Solaris or Windows) or different library, language, or utility versions.
+- What does working mean? Are there non-trivial test suites that can exercise a representative workload enough to give confidence things are fine?
+
+Continuous Integration techniques ensure that testing is so frequent that any problems cannot persist for long and that distributed developers stay on the same page. Projects absorb changes rapidly and in real time (usually multiple times per day) and run automated tests to make sure things are in harmony.
+
 #### Continuous Delivery and Continuous Deployment
 
 #### Costs and Benefits
