@@ -1188,11 +1188,11 @@ Most contributors get involved in open source projects because:
 - There is a bug/problem that interferes with their use of the project
 - They want to add additional functionality to the project.
 
-Sometimes, you are just interested in something cool and want to learn about it. Some projects have a "janitorial" list of things to do, relatively straightforward tasks that can help you get your feet wet. Beginning contributors who go on to become important to a project rarely start with patches that do not affect functionality, such as those that just tidy up code appearance.
+Sometimes, you are just interested in something cool and want to learn about it. Some projects have a "janitorial" list of things to do, relatively straightforward tasks that can help you get your feet wet. **Beginning contributors who go on to become important to a project rarely start with patches that do not affect functionality, such as those that just tidy up code appearance.** [So make a significant contribution from the start.]
 
 ###### Identify Maintainers and Their Work Flows and Methods
 
-There will always be maintainers whose job is to carefully review code submissions. Having a good relationship with relevant maintainers is absolutely crucial. There may be one maintainer for the whole project (perhaps the benevolent dictator), but, for projects with many pieces and large communities, there will be subsystem maintainers as well. A good example is the Linux kernel community. The job of a maintainer is difficult. They have to: 
+There will always be maintainers whose job is to carefully review code submissions. Having a good relationship with relevant maintainers is absolutely crucial. There may be one maintainer for the whole project (perhaps the benevolent dictator), but, for projects with many pieces and large communities, there will be subsystem maintainers as well. A good example is the Linux kernel community. The job of a maintainer is difficult. They have to:
 
 - Understand and review all submissions.
 - Make sure they add something other than complication and do not introduce bugs.
@@ -1204,60 +1204,31 @@ Be respectful and be patient. If you treat a maintainer as either someone who wo
 
 ###### Get Early Input and Work in the Open
 
-RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/how-to-work-in-oss-projects/working-in-oss-projects?page=2>
+As a new member of the community, you probably do not know the history. Your bright new idea might actually be an old one. If so, perhaps your idea has been discussed and rejected. Or, perhaps there was work on it and it petered out for a variety of reasons. This does not mean your idea is a bad one; maybe it could not have been done in the past, but is feasible now, as software and hardware have evolved. Propose your ideas to the community before you go very far with them; take advantage of institutional memory. Get suggestions and input. Never just introduce an idea and suggest someone else do it; this is often a sure road to oblivion ("Show me the code!"). Just say you are asking for opinions before you go too far, to see if people think it is a worthwhile and feasible path. In doing this, you will get more eyeballs from the beginning, and it can only help. If you are uncomfortable having other people look at your work often, OSS is not for you!
 
-As a new member of the community, you probably do not know the history. Your bright new idea might actually be an old one. If so, perhaps your idea has been discussed and rejected. Or, perhaps there was work on it and it petered out for a variety of reasons. This does not mean your idea is a bad one; maybe it could not have been done in the past, but is feasible now, as software and hardware have evolved.
+###### Contribute Incremental Bits, Not Large Code Dumps
 
-Propose your ideas to the community before you go very far with them; take advantage of institutional memory. Get suggestions and input.
+Code contributions are best digested in small unit-sized bites. Overloading maintainers and mailing lists with large code dumps is a good way to make sure your code is not reviewed. Besides just being a lot for reviewers to consume, it becomes difficult to process the individual parts; perhaps most of the changes are good, but some require modification. It is hard to back out if it is in one large patch. So, breaking up your work into a series of sequential patches is often the best way to go. For example, you may have a separate patch for each file you are modifying. It is possible your functionality will not work until all patches are included. That's fine. **Wings and feet were not fully functional as they began to evolve.**
 
-Never just introduce an idea and suggest someone else do it; this is often a sure road to oblivion ("Show me the code!").
+###### Leave Your Ego at the Door: Do Not Be Thin-Skinned
 
-Just say you are asking for opinions before you go too far, to see if people think it is a worthwhile and feasible path.
+Like any Internet-based community, OSS projects tend to attract some rather interesting characters. Unfortunately, some of them can be quite irritating, even offensive. Leave your ego at the door. Take a deep breath if someone is nasty to you and do not answer in kind. Respect other opinions. Maybe your approach is not the best one. Learn when to yield if you want to get code upstream. When making criticisms or engaging in any discussion thread, be polite and respectful. If someone is going over the line, rely on community members with long history to try and calm things down and resolve issues. Do not feed the trolls.​ ​Occasionally, contributors may be purged from a project. This is actually a pretty rare occurrence. The main reason is maintainer inactivity, or being unpleasant. While in a good project every effort is made to keep things energetic but mellow, there can be problems with behavior involving discrimination and offensive conduct with respect to:
 
-In doing this, you will get more eyeballs from the beginning, and it can only help. If you are uncomfortable having other people look at your work often, OSS is not for you!
+- Race
+- Sex
+- Sexual preference
+- Religion
+- National origin
+- etc.
 
-Close Contribute Incremental Bits, Not Large Code Dumps
-Code contributions are best digested in small unit-sized bites. Overloading maintainers and mailing lists with large code dumps is a good way to make sure your code is not reviewed. 
-
-Besides just being a lot for reviewers to consume, it becomes difficult to process the individual parts; perhaps most of the changes are good, but some require modification. It is hard to back out if it is in one large patch. 
-
-So, breaking up your work into a series of sequential patches is often the best way to go. For example, you may have a separate patch for each file you are modifying.
-
-It is possible your functionality will not work until all patches are included. That's fine. Wings and feet were not fully functional as they began to evolve.
-
-Close Leave Your Ego at the Door: Do Not Be Thin-Skinned
-Like any Internet-based community, OSS projects tend to attract some rather interesting characters. Unfortunately, some of them can be quite irritating, even offensive.  ​
-
-Leave your ego at the door. Take a deep breath if someone is nasty to you and do not answer in kind.
-
-Respect other opinions. Maybe your approach is not the best one. Learn when to yield if you want to get code upstream. When making criticisms or engaging in any discussion thread, be polite and respectful.
-
-If someone is going over the line, rely on community members with long history to try and calm things down and resolve issues. Do not feed the trolls.​
-
-​Occasionally, contributors may be purged from a project. This is actually a pretty rare occurrence. The main reason is maintainer inactivity, or being unpleasant. 
-
-While in a good project every effort is made to keep things energetic but mellow, there can be problems with behavior involving discrimination and offensive conduct with respect to:
-
-Race
-Sex
-Sexual preference
-Religion
-National origin
-etc.
 In addition, expressing (strongly) political or religious sentiments and opinions is generally out of place. People from rather far sides of the spectrum often work together successfully.
 
-Close Be Patient, Develop Long-Term Relationships, Be Helpful
-Most projects do not appreciate drive-by contributors: those who provide some enhancement or fix, but then disappear.
+###### Be Patient, Develop Long-Term Relationships, Be Helpful
 
-Besides the initial contribution, there often needs to be a commitment to long-term maintenance. Otherwise, bit rot will ensue for all but trivial contributions.
+Most projects do not appreciate drive-by contributors: those who provide some enhancement or fix, but then disappear. Besides the initial contribution, there often needs to be a commitment to long-term maintenance. Otherwise, bit rot will ensue for all but trivial contributions. For this reason, one sometimes sees good code rejected unless someone steps forward and volunteers long-term maintenance. Thus, think about the future when doing submissions.
 
-For this reason, one sometimes sees good code rejected unless someone steps forward and volunteers long-term maintenance.
+One good way to develop (good) long-term relationships in the community is to offer to help in areas not directly related to your main interests. It is helpful to be viewed as a good citizen. This is particularly true if you are contributing as part of a commercial organization; community members will see you as being a real member of the community, and not just someone exploiting it.
 
-Thus, think about the future when doing submissions.
-
-One good way to develop (good) long-term relationships in the community is to offer to help in areas not directly related to your main interests.
-
-It is helpful to be viewed as a good citizen. This is particularly true if you are contributing as part of a commercial organization; community members will see you as being a real member of the community, and not just someone exploiting it.
 ### Lab Exercises 08
 
 Lab 8.1. Dealing with Non-Responsive Maintainers
