@@ -1332,11 +1332,53 @@ Continuous Integration techniques ensure that testing is so frequent that any pr
 
 #### Continuous Delivery and Continuous Deployment
 
+So far, we have been a little sloppy, and conflated what might be delineated as three separate steps, or stages.
+
+- Continuous Integration (CI)
+  -Changes are to be merged into the main branch as often as possible. Automated builds are run on as many variations of software and hardware as possible; conflicts are resolved as soon as they arise.
+
+- Continuous Delivery (CD)
+  - The release process is automated and projects are ready to be delivered to consumers of the build. Thorough testing is done on all relevant platforms.
+
+- Continuous Deployment
+  - The product is released to customers, once again in an automated fashion.
+
+The time gap between these steps is meant to be as close to zero as possible. In a perfect world, developer changes can reach end user customers the same day or even in minutes. These terms can be defined somewhat differently; for example, Continuous Integration can be considered to include both delivery and deployment.
+
 #### Costs and Benefits
+
+- Costs
+  - Changes have to be merged very often, probably at least once a day, putting a possible strain on developers.
+  - The repository must be monitored by a continuous integration server, which runs scripted automation tests every time contributions are made. Staff has to be allocated to do this.
+  - Scripts and other tools have to be run to perform automated tests, report their results, and take appropriate actions. It can be a lot of work to prepare this infrastructure.
+
+- Benefits
+  - Developers do not go down the wrong path and compound fixable mistakes or get in each other's way. In the end, this saves time.
+  - The build steps are fully automated, all the work has been done upfront.
+  - Regressions (bugs which break the working product) may be minimized. Releases should have fewer bugs.
+
+Setting up a continuous integration pipeline is not trivial, and can take quite a bit of experience and effort to get it right. But "an ounce of prevention is worth a pound of cure". There are many existing tools and services that can help make work less daunting.​
 
 #### Tools
 
+There are many well-developed Continuous Integration software tools. For their summary, please take a look at the [Top Continuous Integration Tools: 51 Tools to Streamline Your Development Process, Boost Quality, and Enhance Accuracy](https://stackify.com/top-continuous-integration-tools/) article by Stackify.
+
+Some of the main tools are:
+
+- Jenkins
+- Travis CI
+- TeamCity
+- GoCD
+- GitLab CI
+- Bamboo
+- Codeship
+- CircleCI
+
+Jenkins is the most widely used. Some of these products are free in cost, others are not.​
+
 #### Example: Linux Kernel Continuous Integration Project
+
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/continuous-integration/continuous-integration-ci?page=5>
 
 #### Continuous Delivery Foundation
 
