@@ -1378,7 +1378,13 @@ Jenkins is the most widely used. Some of these products are free in cost, others
 
 #### Example: Linux Kernel Continuous Integration Project
 
-RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/continuous-integration/continuous-integration-ci?page=5>
+The Linux kernel development community employs a very robust continuous integration project called [kernelci](https://kernelci.org). While it was originally initiated by [Linaro](https://www.linaro.org), it is now an independent [Linux Foundation project](https://foundation.kernelci.org). Its mission is to help ensure long-term quality control, stability and facilitate maintenance of the Linux kernel. It works with:
+
+- The kernel developer community, giving them a tool to use in their daily workflow as needed.
+- Hardware manufacturers to help them stay close to kernel changes and development.
+- Helping downstream developers by performing solid upstream testing.
+
+Detailed reports are continuously updated in real time.
 
 #### Continuous Delivery Foundation
 
