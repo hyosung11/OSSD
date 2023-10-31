@@ -1388,6 +1388,15 @@ Detailed reports are continuously updated in real time.
 
 #### Continuous Delivery Foundation
 
+The launching of the Continuous [Delivery Foundation (CDF)](https://cd.foundation) was announced by the Linux Foundation in March 2019. It is designed to be a vendor-neutral home for coalescence of significant projects in the CI/CD universe. By establishing and documenting best practices, working out guidelines and making training available, the goal is to evangelize and spread CI/CD and DevOps practices and improve product release processes.
+
+- Jenkins is an open source CI/CD system.
+- Jenkins X Is an open source CI/CD solution for cloud applications on Kubernetes.
+- Spinnaker is an open source multi–cloud continuous delivery platform.
+- Tekton is Is an open source software specification for CI/CD components.
+
+The Technical Oversight Committee (TOC) has an open governance model. Founding members include: Alauda, Alibaba, Anchore, Armory.io, Atos, Autodesk, Capital One, CircleCI, CloudBees, DeployHub, GitLab,Google, HSBC, Huawei, IBM, JFrog, Netflix, Puppet, Rancher, Red Hat, SAP, Snyk and SumoLogic.
+
 ### Knowledge Check 09
 
 #### Chapter 9 Quiz
