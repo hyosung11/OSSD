@@ -1444,3 +1444,33 @@ YOU GOT 3 OUT OF 3 CORRECT: 100%
 3 3 3 0
 
 RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/oss-licensing-and-legal-issues/introduction>
+
+## 10. OSS LICENSING AND LEGAL ISSUES
+
+### Introduction Lesson 10
+
+#### Introduction to OSS Licensing and Legal Issues
+
+#### Learning Objectives Lesson 10
+
+### Open Source Software Licensing & Legal Issues
+
+#### Restrictive vs Permissive Licensing
+
+#### Fear, Uncertainty and Doubt
+
+#### Software Patents
+
+#### Patents and Licenses
+
+#### Choosing a License
+
+#### Combining Licenses
+ 
+### Lab Exercises Lesson 10
+
+#### Lab 10.1. Selecting a License
+ 
+### Knowledge Check Lesson 10
+
+#### Chapter 10 Quiz
