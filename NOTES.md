@@ -1448,6 +1448,18 @@ RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-t
 
 #### Introduction to OSS Licensing and Legal Issues
 
+There are many ways to work with open source software. In particular, what kind of license is adopted will have strong effects on:
+
+- How the project is developed
+- How the project is deployed.
+
+There are two broad classes of licenses:
+
+- Restrictive, such as the GPL in all of its forms
+- Permissive, such as the BSD and Apache Foundation Licenses.
+
+There is a lot of **misinformation** spread about open source software and licenses, which can make organizations reluctant to use and develop for it. We will discuss the main kinds of this false information. Let's get started!
+
 #### Learning Objectives Lesson 10
 
 ### Open Source Software Licensing & Legal Issues
