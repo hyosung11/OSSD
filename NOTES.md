@@ -1491,6 +1491,22 @@ We will discuss some of the major licenses available and how to work with more t
 
 #### Fear, Uncertainty and Doubt
 
+The term **FUD** is shorthand for Fear, Uncertainty and Doubt (or Elmer Fudd). Surprisingly, first usage goes back as far as the 1920s; use of the acronymic form seems to date from the 1970s. Broadly speaking, it means disseminating misinformation to influence recipients to avoid certain strategies, products or classes of products by appealing to fear. Microsoft was widely accused of spreading FUD about Linux in the 1990s. However, in present day, Microsoft has stopped doing so and is actually employing OSS widely.
+
+As applied to OSS, FUD statements include:
+
+- OSS is a virus. If you include it in your product, all your source must be made available to everyone.
+  - This is simply not true. You have to be careful about respecting licenses, but many prominent companies have learned how to combine open and closed software in their offerings. And, there are companies and organizations dedicated to helping ensure this is done properly.
+
+- OSS infringes on software patents, and the related claim that it forces you to grant patent rights to others.
+  - This is simply not true. Once again, proper legal analysis is required.
+
+- OSS products leave nowhere to turn when they break, or to get technical help.
+  - Many open source products are supported by serious, long-living companies (such as Red Hat Enterprise Linux), as well as smaller organizations. In addition, there is a lot of freely available help online, and there are many consultants that can be hired. In fact, there is more competition available for such help than there would be with vendor lock-in on a product.
+
+- OSS requires a lot of legal help to avoid the above pitfalls, and is thus very expensive.
+  - Even proprietary software requires significant legal analysis to properly avoid copyright and patent infringement, etc. OSS is no different and not more expensive. Also, having all the software being available in source form expedites the auditing process. Companies will indeed require interaction with lawyers, either on staff or external, to make sure they do not violate copyrights and licenses. There are many kinds of licenses and you have to be careful. But once an organization develops proper reasonable procedures, it is just a standard part of any project. Part of this is to train the developers to understand the dos and don'ts of working with OSS.
+
 #### Software Patents
 
 #### Patents and Licenses
