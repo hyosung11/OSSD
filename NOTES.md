@@ -1409,7 +1409,7 @@ Correct Answer
 
 A. Continuous Delivery, Continuous Deployment and Continuous Integration
 B. Continuous Delivery, Continuous Integration, and Continuous Deployment
-C. Continuous Integration, Continuous Delivery, and Continuous Deployment Your Answer: Correct 
+C. Continuous Integration, Continuous Delivery, and Continuous Deployment Your Answer: Correct
 D. Continuous Deployment, Continuous Delivery, and Continuous Integration
 
 Question 9.2
@@ -1418,11 +1418,11 @@ Continuous Integration (Select all answers that apply):
 
 Correct Answer
 
-A. Can put a strain on developers who have to submit changes constantly Your Answer: Correct 
-B. Can be costly to set up, as it requires a server and staff and training developers to use properly Your Answer: Correct 
-C. Can speed development, as wrong paths can be discovered before they are pursued for a long time Your Answer: Correct 
-D. Speeds up the development process, as builds and tests are fully automated Your Answer: Correct 
-E. Minimizes regression bugs since thorough testing is done at every stage before release (i.e. continuously) Your Answer: Correct 
+A. Can put a strain on developers who have to submit changes constantly Your Answer: Correct
+B. Can be costly to set up, as it requires a server and staff and training developers to use properly Your Answer: Correct
+C. Can speed development, as wrong paths can be discovered before they are pursued for a long time Your Answer: Correct
+D. Speeds up the development process, as builds and tests are fully automated Your Answer: Correct
+E. Minimizes regression bugs since thorough testing is done at every stage before release (i.e. continuously) Your Answer: Correct
 F. None of the above
 
 Question 9.3
@@ -1433,15 +1433,12 @@ Correct Answer
 
 A. Travis CI
 B. Bamboo
-C. Jenkins Your Answer: Correct 
+C. Jenkins Your Answer: Correct
 D. Emacs
 E. Eclipse
 
-
 QUIZ RESULTS
 YOU GOT 3 OUT OF 3 CORRECT: 100%
-   
-3 3 3 0
 
 RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/oss-licensing-and-legal-issues/introduction>
 
@@ -1466,11 +1463,11 @@ RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-t
 #### Choosing a License
 
 #### Combining Licenses
- 
+
 ### Lab Exercises Lesson 10
 
 #### Lab 10.1. Selecting a License
- 
+
 ### Knowledge Check Lesson 10
 
 #### Chapter 10 Quiz
