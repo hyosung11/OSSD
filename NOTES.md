@@ -1462,6 +1462,15 @@ There is a lot of **misinformation** spread about open source software and licen
 
 #### Learning Objectives Lesson 10
 
+By the end of this chapter, you should be able to:
+
+- Understand the difference between restrictive and permissive OSS licenses.
+- Explain the main features of restrictive licenses, such as the various GPL versions.
+- Explain the main features of permissive licenses, such as BSD and Apache.
+- Discuss what considerations are to be weighed in determining the correct license.
+- Debunk the main Fear, Uncertainty and Doubt (FUD) attacks on OSS licensing.
+- Explain the relationship between software licenses and patents and the role of the Open Invention Network (OIN).
+
 ### Open Source Software Licensing & Legal Issues
 
 #### Restrictive vs Permissive Licensing
