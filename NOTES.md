@@ -1475,6 +1475,20 @@ By the end of this chapter, you should be able to:
 
 #### Restrictive vs Permissive Licensing
 
+There is an almost infinite variety of available open source licenses (unfortunately, perhaps). Which one should be chosen depends on both needs and philosophy.
+
+##### License Categories
+
+**Restrictive Licenses**
+Demand the software remains open and place strong limitations on any attempt to make proprietary closed products. Changes to the code must be made available to future recipients. A prominent example is the GPL (General Public License), a copyleft license.
+
+**Permissive Licenses**
+Do not require modifications and enhancements to be generally available. Prominent examples include the BSD (Berkeley Software Distribution) and Apache licenses.
+
+We will discuss some of the major licenses available and how to work with more than one license at a time. Because we are not lawyers, please investigate for yourself what is most appropriate for your project. For a list of available licenses and their attributes, see the [Comparison of Free and Open-source Software Licenses article](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) on Wikipedia.
+
+![Software license classification](rights-in-copyright.png)
+
 #### Fear, Uncertainty and Doubt
 
 #### Software Patents
