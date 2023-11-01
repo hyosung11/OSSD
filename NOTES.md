@@ -1509,6 +1509,8 @@ As applied to OSS, FUD statements include:
 
 #### Software Patents
 
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/oss-licensing-and-legal-issues/open-source-software-licensing-legal-issues?page=3>
+
 #### Patents and Licenses
 
 #### Choosing a License
