@@ -32,7 +32,7 @@ Template
 1. What did you do yesterday?
    - [x] 1. Outlined Chapter 10
 2. What will you do today?
-   - [x] 1. Software patterns
+   - [ ] 1. Software patterns
    - [ ] 2. patterns and licenses
    - [ ] 3. choosing a license
    - [ ] 4. combining licenses
