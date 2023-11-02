@@ -30,9 +30,9 @@ Template
 ## 화요일 20231102 - 10:15
 
 1. What did you do yesterday?
-   - [x] 1. Outlined Chapter 10
+   - [x] 1. Outlined Lesson 10
 2. What will you do today?
-   - [ ] 1. Software patterns
+   - [ ] 1. Software patents
    - [ ] 2. patterns and licenses
    - [ ] 3. choosing a license
    - [ ] 4. combining licenses

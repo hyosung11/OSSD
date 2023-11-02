@@ -1515,7 +1515,15 @@ The [Open Invention Network (OIN)](https://openinventionnetwork.com) was created
 
 #### Patents and Licenses
 
+The intersection of software licenses and patents is rather complicated, and different OSS licenses have different properties in this regard. For example, here is a partial table of properties about whether or not a license conveys explicit patent rights from contributors to users.
+
+![Does a License Convey Patent Rights?](license-patent-rights.png)
+
+🚩 Please note that sometimes, projects will use a license that does not provide an express grant of patents, but then add a grant of patents in a separate file. An example of this can be seen with the use of a LICENSE or PATENTS file in the source code.
+
 #### Choosing a License
+
+RTR
 
 #### Combining Licenses
 
