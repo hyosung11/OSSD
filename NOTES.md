@@ -1524,6 +1524,7 @@ The intersection of software licenses and patents is rather complicated, and dif
 #### Choosing a License
 
 RTR
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/oss-licensing-and-legal-issues/open-source-software-licensing-legal-issues?page=5>
 
 #### Combining Licenses
 
