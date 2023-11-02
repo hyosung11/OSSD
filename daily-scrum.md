@@ -26,3 +26,17 @@ Template
 3. What blockers or impediments prevent you from doing your work?
    1. Took the early part of the morning for recharge
    2. I need to get treatment on my ankle.
+
+## 화요일 20231102 - 10:15
+
+1. What did you do yesterday?
+   - [x] 1. Outlined Chapter 10
+2. What will you do today?
+   - [x] 1. Software patterns
+   - [ ] 2. patterns and licenses
+   - [ ] 3. choosing a license
+   - [ ] 4. combining licenses
+   - [ ] 5. lab - selecting a license
+   - [ ] 6. quiz
+3. What blockers or impediments prevent you from doing your work?
+   1. Getting a late start after dealing with Referee mistake and meeting with Ms. Kirk for SungOh's parent-teacher conference.
