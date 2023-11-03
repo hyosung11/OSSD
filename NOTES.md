@@ -1625,6 +1625,16 @@ YOU GOT 3 OUT OF 3 CORRECT: 100%
 
 #### Learning Objectives Lesson 11
 
+By the end of this chapter, you should be able to:
+
+- Explain the role of tools that can examine entire software projects and evaluate whether they have dealt with OSS correctly.
+- Appreciate the important work of FOSSology as a comprehensive tool for measuring and documenting license compliance.
+- Enumerate the tasks that FOSSology can accomplish using associated applications, including Nomos and Monk.
+- Explain how SPDX standardizes, as well as simplifies methods for sharing open source project data.
+- List the data SPDX tools can communicate in a software bill of material, including copyrights, licenses and security information.
+- Appreciate the role of the CHAOSS project in developing tools for evaluating the health of open source ecosystems.
+- Grasp that there are other compliance projects gaining traction, such as Quartermaster and Tern.
+
 ### FOSSology, SPDX, CHAOSS
 
 #### FOSSology
