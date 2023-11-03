@@ -1567,15 +1567,52 @@ Projects sometimes take contributions from sources utilizing different OSS licen
 Summary
 This is your selection:
 
-1. Popular and widely used: Yes
-2. Licence type: Permissive
-3. Jurisdiction: No
-4.1 Grants patent rights: No
-4.2 Patent retaliation clause: -
-5. Specifies enhanced attribution: No
-6. Addresses privacy loophole: No
-7. Includes 'no promotion' feature: No
+- Popular and widely used: Yes
+- Licence type: Permissive
+- Jurisdiction: No
+- Grants patent rights: No
+- Patent retaliation clause: -
+- Specifies enhanced attribution: No
+- Addresses privacy loophole: No
+- Includes 'no promotion' feature: No
 
 ### Knowledge Check Lesson 10
 
 #### Chapter 10 Quiz
+
+Question 10.1
+
+What are some considerations that go into OSS license selection (Select all answers that apply)?
+
+Correct Answer
+
+A. How much you want to charge for buying software based on the project
+B. How the code will be used (i.e. good or evil)
+C. Policy on patents Your Answer: Correct
+D. Should all modifications be public (restrictive vs permissive) Your Answer: Correct
+
+Question 10.2
+
+What does FUD stand for?
+
+Correct Answer
+
+A. Fear, Uncertainty and Doubt Your Answer: Correct
+B. Elmer Fud(d)
+C. Free Unsupported Development
+D. Failed, Unbelievable and Damaged
+E. Fitbit, USB and Dirty
+
+Question 10.3
+
+Which of the following is a copyleft license?
+
+Correct Answer
+
+A. GPL Your Answer: Correct
+B. BSD
+
+QUIZ RESULTS
+YOU GOT 3 OUT OF 3 CORRECT: 100%
+
+RTR
