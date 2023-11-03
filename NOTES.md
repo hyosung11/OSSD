@@ -1615,6 +1615,34 @@ B. BSD
 QUIZ RESULTS
 YOU GOT 3 OUT OF 3 CORRECT: 100%
 
-## RTR
+## 11. COMPLIANCE PROJECTS: FOSSOLOGY, SPDX, CHAOSS
 
-<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/compliance-projects-fossology-spdx-chaoss/introduction>
+### Introduction Lesson 11
+
+#### Introduction to Compliance Projects: FOSSology, SPDX, and CHAOSS
+
+#### Learning Objectives Lesson 11
+
+### FOSSology, SPDX, CHAOSS
+
+#### FOSSology
+
+#### FOSSology Scanning Features
+
+#### Software Package Data Exchange (SPDX)
+
+#### SPDX File
+
+#### Community Health Analytics Open Source Software (CHAOSS)
+
+#### Other Compliance Projects
+
+### Lab Exercises Lesson 11
+
+#### Lab 11.1. Experimenting with FOSSology
+
+#### Lab 11.2. Running FOSSology in a Container
+
+### Knowledge Check Lesson 11
+
+#### Chapter 11 Quiz

@@ -55,3 +55,5 @@ Template
    1. 아무 문제가 없는 것 같다.
 
 09:47 I completed Lesson 10. I will take a break now.
+
+11:31 In study session with Alex, but Spent the time up to now checking email and clipping websites to Evernote. I am seriously considering switching to Notion. I need to find out when my Evernote subscription expires.
