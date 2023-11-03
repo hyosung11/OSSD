@@ -1615,4 +1615,6 @@ B. BSD
 QUIZ RESULTS
 YOU GOT 3 OUT OF 3 CORRECT: 100%
 
-RTR
+## RTR
+
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/compliance-projects-fossology-spdx-chaoss/introduction>
