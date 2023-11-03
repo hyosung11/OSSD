@@ -15,7 +15,7 @@ Template
    2. B
    3. C
 
-## Wednesday 20231101
+## 수요일 20231101
 
 1. What did you do yesterday?
    1. Linux Kernel
@@ -27,7 +27,7 @@ Template
    1. Took the early part of the morning for recharge
    2. I need to get treatment on my ankle.
 
-## 화요일 20231102 - 10:15
+## 목요일 20231102 - 10:15
 
 1. What did you do yesterday?
    - [x] 1. Outlined Lesson 10
@@ -40,3 +40,17 @@ Template
    - [ ] 6. quiz
 3. What blockers or impediments prevent you from doing your work?
    1. Getting a late start after dealing with Referee mistake and meeting with Ms. Kirk for SungOh's parent-teacher conference.
+
+## 금 20231103 - 08:56
+
+1. What did you do yesterday?
+   - [x] 1. Software patents
+   - [x] 2. patterns and licenses
+2. What will you do today?
+   - [ ] 1. choosing a license
+   - [ ] 2. combining licenses
+   - [ ] 3. lab - selecting a license
+   - [ ] 4. quiz
+3. What blockers or impediments prevent you from doing your work?
+   1. 아무 문제가 없는 것 같다.
+
