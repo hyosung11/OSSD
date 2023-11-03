@@ -47,9 +47,11 @@ Template
    - [x] 1. Software patents
    - [x] 2. Patents and licenses
 2. What will you do today?
-   - [ ] 1. choosing a license
-   - [ ] 2. combining licenses
-   - [ ] 3. lab - selecting a license
-   - [ ] 4. quiz
+   - [x] 1. choosing a license
+   - [x] 2. combining licenses
+   - [x] 3. lab - selecting a license
+   - [x] 4. quiz
 3. What blockers or impediments prevent you from doing your work?
    1. 아무 문제가 없는 것 같다.
+
+09:47 I completed Lesson 10. I will take a break now.
