@@ -1561,6 +1561,21 @@ Projects sometimes take contributions from sources utilizing different OSS licen
 
 #### Lab 10.1. Selecting a License
 
+- Go to <http://oss-watch.ac.uk/apps/licdiff/> and interactively specify the parameters needed to choose the right type ofOSSlicense.
+- Try a number of variations.
+
+Summary
+This is your selection:
+
+1. Popular and widely used: Yes
+2. Licence type: Permissive
+3. Jurisdiction: No
+4.1 Grants patent rights: No
+4.2 Patent retaliation clause: -
+5. Specifies enhanced attribution: No
+6. Addresses privacy loophole: No
+7. Includes 'no promotion' feature: No
+
 ### Knowledge Check Lesson 10
 
 #### Chapter 10 Quiz
