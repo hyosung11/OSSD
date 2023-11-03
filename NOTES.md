@@ -1547,6 +1547,16 @@ Based on your answers to these eight (or more) questions, the above website will
 
 #### Combining Licenses
 
+Projects sometimes take contributions from sources utilizing different OSS licenses. Mixing and matching can be a complicated process with restrictive licenses generally dominating over permissive ones when combined. In addition, certain sections of code can contain additional provisions and it can require analysis to determine what additional rights may have been granted to certain particular parties. Individual projects often have specific guidelines as to what combinations are in tune with the project. Some examples include:
+
+- [GNU](https://www.gnu.org/licenses/license-list.html)
+- [Fedora Project](https://docs.fedoraproject.org/en-US/legal/license-approval/#SoftwareLicenses)
+- [Debian](https://wiki.debian.org/DFSGLicenses)
+- [Android Open Source Project](https://source.android.com/docs/setup/about/licenses)
+- [The Apache Software Foundation](https://www.apache.org/legal/resolved.html)
+
+🚩 You should always check with your legal counsel before contributing to a project under a different license than the project uses. Thinking about this early can save a lot of pain later!
+
 ### Lab Exercises Lesson 10
 
 #### Lab 10.1. Selecting a License
