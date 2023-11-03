@@ -1621,6 +1621,8 @@ YOU GOT 3 OUT OF 3 CORRECT: 100%
 
 #### Introduction to Compliance Projects: FOSSology, SPDX, and CHAOSS
 
+- watch video
+
 #### Learning Objectives Lesson 11
 
 ### FOSSology, SPDX, CHAOSS
