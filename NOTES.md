@@ -1639,6 +1639,8 @@ By the end of this chapter, you should be able to:
 
 #### FOSSology
 
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/compliance-projects-fossology-spdx-chaoss/fossology-spdx-chaoss?page=1>
+
 #### FOSSology Scanning Features
 
 #### Software Package Data Exchange (SPDX)
@@ -1658,5 +1660,3 @@ By the end of this chapter, you should be able to:
 ### Knowledge Check Lesson 11
 
 #### Chapter 11 Quiz
-
-blah
