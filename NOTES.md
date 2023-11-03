@@ -1523,8 +1523,27 @@ The intersection of software licenses and patents is rather complicated, and dif
 
 #### Choosing a License
 
-RTR
-<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/oss-licensing-and-legal-issues/open-source-software-licensing-legal-issues?page=5>
+Choosing the best license is a very important decision and requires careful consideration. Switching to a different license later, during the life of the project, can be rather difficult, if not impossible, especially when there are many contributors with rights.
+
+🔍 An excellent website by [OSS Watch](http://oss-watch.ac.uk/apps/licdiff/), the United Kingdom's advisory service for issues related to free software and open source software, can help you pick an appropriate license by interactively asking you a series of questions. Briefly, these questions involve:
+
+- Should the search include only very popular and widely used licenses?
+- Should the licenses be restrictive or permissive? Depending on choice, there are more detailed questions.
+- Jurisdiction? Might not be important.
+- Patent policy on your patents (if relevant)?
+- Patent retaliation clauses?
+- Giving credit to original authors? And, if so, in what form should such attribution appear?
+- Must source be given, out even if the application is used only on a server?
+- Can authors' names be used to promote a product or service?​
+
+Based on your answers to these eight (or more) questions, the above website will rank available licenses according to how they correlate with your answers.
+
+📖 There are several resources you can use to help you choose the most appropriate license for your project:
+
+- Open Source Initiative - [Open Source Licenses by Category](https://opensource.org/licenses-old/category/)
+- Sponsored by GitHub - [Choose an Open Source License](https://choosealicense.com) - this site walks you through the properties you must consider, helping you decide what license makes sense.
+- TLDRLegal - [Browse Software Licenses and Summaries](https://www.tldrlegal.com) - this site tags software licenses with key properties to help you navigate easier and better understand the existing licenses.
+- GNU - [Various Licenses and Comments About Them](https://www.gnu.org/licenses/license-list.en.html) - this site provides a description of copyleft licenses and comments about them.
 
 #### Combining Licenses
 

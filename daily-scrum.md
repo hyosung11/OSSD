@@ -45,7 +45,7 @@ Template
 
 1. What did you do yesterday?
    - [x] 1. Software patents
-   - [x] 2. patterns and licenses
+   - [x] 2. Patents and licenses
 2. What will you do today?
    - [ ] 1. choosing a license
    - [ ] 2. combining licenses
@@ -53,4 +53,3 @@ Template
    - [ ] 4. quiz
 3. What blockers or impediments prevent you from doing your work?
    1. 아무 문제가 없는 것 같다.
-
