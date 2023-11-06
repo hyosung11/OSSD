@@ -1647,6 +1647,24 @@ The presented figure is just a small subset of the major organizations that util
 
 #### FOSSology Scanning Features
 
+Fundamentally, FOSSology is a **scanner** that can work on individual files as well as entire projects, performing operations on every file in the source archive. There are several types of scans that can be done, each of which has an associated scanner application.
+
+#### Scanning Applications
+
+- Nomos
+- Nomos searches for licenses using **regular expression matching**, combining with context identification, i.e., does a certain phrase occur in the vicinity of another certain phrase? Nomos will return strings such as GPL or MIT, but generally not give the specific version of a license. It can also detect an unknown license and report that.
+
+- Monk
+  - Monk also does text-based searching and can report back on license variations, such as GPL-2 and GPL-3+, etc. It cannot recognize unknown licenses, as it works off of a stored table in the server. Monk is **complementary** to Nomos.
+
+- Copyrights
+  - Copyrights are investigated by searching for “copyright” and “(C)” in the text. Less explicit assignments such as phrases like “written by” are also evaluated. Users can examine the reported results and decide on the correct answers (including no explicit copyright).
+
+- Export Control Codes (ECC)
+  - Export Control Codes (ECC) are also determined by regular expression searching (this is also called export control and customs codes).
+
+The FOSSology interface is designed to let the user evaluate all the results found, and correct or investigate further. If software is well designed with respect to explicit statements of copyrights, licenses, authorship, export controls, etc., then the tools will have a much easier time. Thus, software design that considers these issues from the start will breeze through a FOSSology scan.
+
 #### Software Package Data Exchange (SPDX)
 
 #### SPDX File
