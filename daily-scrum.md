@@ -56,4 +56,15 @@ Template
 
 09:47 I completed Lesson 10. I will take a break now.
 
-11:31 In study session with Alex, but Spent the time up to now checking email and clipping websites to Evernote. I am seriously considering switching to Notion. I need to find out when my Evernote subscription expires.
+11:31 In study session with Alex, but Spent the time up to now checking email and clipping websites to Evernote. I am seriously considering switching to Notion. I need to find out when my Evernote subscription expires.It expires in June 2024, but I might use both Evernote and Notion as Omi suggested.
+
+## 월 20231106 - 09:13
+
+1. What did you do Friday?
+   - [x] 1. Finished Lesson 10
+   - [x] 2. Started Lesson 11
+2. What will you do today?
+   - [ ] 1. FOSSology
+   - [ ] 2. FOSSology Scanning Features
+3. What blockers or impediments prevent you from doing your work?
+   1. Nothing
