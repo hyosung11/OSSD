@@ -1715,6 +1715,15 @@ The Community Health Analytics Open Source Software (CHAOSS) project was launche
 
 #### Other Compliance Projects
 
+FOSSology and SPDX are not the only tooling projects designed to evaluate and ensure open source license compliance. One particular grouping of tools was announced in November 2018 by the Linux Foundation. The name of the new consolidated project is **Automated Compliance Tooling**. At present (April 2019) it has four constituent projects:
+
+- FOSSology runs license, copyright and export control scans, etc. We have discussed this in some brief detail.
+- SPDX tools construct and communicate software bills of material. We have also discussed this in some brief detail.
+- Quartermaster (QMSTR) is integrated into the product build system itself, rather than be a separate “final” step. Thus, it is DevOps-oriented and it facilitates Continuous Integration and Development methods. QMSTR was contributed by its initiator, Endocode.
+- TERN inspects package metadata in container images, and elucidates the bill of materials. With the growing adoption of containerized deployments, demystifying their contents and examining their compliance become of increased importance. TERN was created and contributed by VMware.
+
+The word "automated" in the ACT name is important. Having a smooth workflow with compliance evaluation built into the work flow end-to-end can only lead to speedier and more confident development and deployment, and integration with CI/CD methods. ACT welcomes additional tooling projects and offers a stable, neutral foundation for them with the support of the Linux Foundation.
+
 ### Lab Exercises Lesson 11
 
 #### Lab 11.1. Experimenting with FOSSology
