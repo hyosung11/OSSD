@@ -1667,6 +1667,12 @@ The FOSSology interface is designed to let the user evaluate all the results fou
 
 #### Software Package Data Exchange (SPDX)
 
+[The Software Package Data Exchange (SPDX)](https://spdx.dev) open standard provides a common format for sharing data about software copyrights, licenses, security information, etc. This open standard is used to communicate **software bill of material information**. By its very nature, this avoids repetition of work and streamlines compliance. The SPDX workgroup (hosted by the Linux Foundation) is responsible for maintaining the specification. Founded in 2010, this group has representatives from more than 20 organizations who have agreed to unite around a common standard. A copy of the latest (version 2.3 as of 20231106) can be found on the project's [website](https://spdx.github.io/spdx-spec/v2.3/).
+
+Please take a look at the diagram to learn what the contents of an SPDX document are.  SPDX v2.1 document components
+
+![SPDX v2.1 Document Contents](spdx-document.png)
+
 #### SPDX File
 
 #### Community Health Analytics Open Source Software (CHAOSS)
