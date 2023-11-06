@@ -1675,6 +1675,34 @@ Please take a look at the diagram to learn what the contents of an SPDX document
 
 #### SPDX File
 
+A project will include an SPDX file that consists of a series of tags and values, separated by a colon and space (there are other possible formats but this is the simplest one). Here is an example lifted from [David Wheeler's excellent SPDX Tutorial](https://github.com/david-a-wheeler/spdx-tutorial):
+
+    ```sh
+    SPDXVersion: SPDX-2.1
+    DataLicense: CC0-1.0
+    PackageName: FooPackage
+    Originator: David A. Wheeler
+    PackageHomePage: https://github.com/david-a-whe...
+    PackageLicenseDeclared: MIT```
+    ```
+
+The full list of possible tags can be found [here](https://spdx.github.io/spdx-spec/v2.3/file-tags/). [This is different than the broken link in the lesson. I googled this link and put it here.]
+
+The [list of possible licenses](https://spdx.org/licenses/) has “short form”, such as Apache-2.0, or GPL-2.0-only or GPL-3.0-or-later. These are convenient for inclusion in source files, without a rather long list of lines describing the license.
+
+For example, source files in the Linux kernel will have at the top lines like:
+
+    ```sh
+    // SPDX-License-Identifier: GPL-2.0
+    /*
+     * linux/kernel/sys.c
+     *
+     * Copyright (C) 1991, 1992 Linus Torvalds
+     */
+    #include <linux/export.h>
+    #include ​<linux/mm.h>
+    ```
+
 #### Community Health Analytics Open Source Software (CHAOSS)
 
 #### Other Compliance Projects
