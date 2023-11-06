@@ -1639,7 +1639,11 @@ By the end of this chapter, you should be able to:
 
 #### FOSSology
 
-RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/compliance-projects-fossology-spdx-chaoss/fossology-spdx-chaoss?page=1>
+[FOSSology](https://www.fossology.org) is a system for *measuring and documenting open source license compliance*. It is also a toolkit for running various kinds of scans from the command line, as well as using a graphical, generally web-based interface. The first version of the FOSSology project was founded and hosted by Hewlett-Packard and appeared in 2007; it became a hosted project under the Linux Foundation in 2015. FOSSology is part of the [Automated Compliance Tooling (ACT) project](https://automatecompliance.org). In short, this tool can *scan* either individual files, or entire source archives, and identify licenses, copyrights etc., and document the results, and help identify where information is lacking or is poorly documented.
+
+The presented figure is just a small subset of the major organizations that utilize FOSSology.
+
+![fossology-companies](fossology-companies.png)
 
 #### FOSSology Scanning Features
 
