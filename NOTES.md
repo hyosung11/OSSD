@@ -1705,6 +1705,14 @@ For example, source files in the Linux kernel will have at the top lines like:
 
 #### Community Health Analytics Open Source Software (CHAOSS)
 
+The Community Health Analytics Open Source Software (CHAOSS) project was launched in 2017 under the umbrella of the Linux Foundation. The purpose is to develop tools and metrics for evaluation of the health of open source projects and ecosystems, with a view to increasing **sustainability** over time. This is important for stakeholders making good, informed decisions about how to be involved. The goals are:
+
+- Establish excellent metrics for measuring community activity, contributions, and health
+- Produce software tooling or doing the analysis
+- Build project health reports.
+
+![CHAOSS Roadmap](chaoss-cycle.png)
+
 #### Other Compliance Projects
 
 ### Lab Exercises Lesson 11
