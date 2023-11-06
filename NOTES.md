@@ -1728,6 +1728,24 @@ The word "automated" in the ACT name is important. Having a smooth workflow with
 
 #### Lab 11.1. Experimenting with FOSSology
 
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/compliance-projects-fossology-spdx-chaoss/lab-exercises?page=1>
+
+Exercise 11.1: Experimenting with FOSSology
+
+The **FOSSology** project offers easy to understand options for learning the basics of how to use the toolsThe easiest way is to use the project’s online testing facility. To do this:
+
+- [ ] 1. Point your browser to <https://fossology.osuosl.org/repo/2>.
+- [ ] 2. Login with username=`fossy` and password=`fossy`.
+- [ ] 3. You can choose from a number of examples already enumerated; most of these are archives in zipped or tarball form. To keep things simple, choose at first a simple file.
+- [ ] 4. In the `select action box`, click on `Copyright/Email/Url` in the drop down menu. You see the copyright, license and url information highlighted in appropriate colors.
+- [ ] 5. Try clicking on some of the other fields in the top ribbon banner to see more useful information.
+
+Two possible variations are:
+
+- [ ] 1. Look at one of the archives on the test site and learn how to browse through its files.
+- [ ] 2. Even better, upload one of your files or source archives and analyze its contents.
+
+
 #### Lab 11.2. Running FOSSology in a Container
 
 ### Knowledge Check Lesson 11
