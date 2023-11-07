@@ -1823,6 +1823,17 @@ Trust must be earned and must go beyond the benefit of the doubt. As a project m
 
 #### Why Do Many OSS Projects Fail?
 
+The vast majority of OSS projects do not succeed. The reasons are varied, but include:
+
+- Insufficient interest.
+- Competition from more established projects that duplicate the intended functionality, even if the new project seems to have features the older one does not.
+- Poor leadership. This can mean a lack of attention and prompt response, as well as antisocial behavior or autocratic rule, etc.
+- Not enough developers.
+- Insufficient funding. Serious projects often require developers who have employers that see the work as relevant to their mission at best, or at worst, do not disparage contributing as either a time waster or potential intellectual property leak.
+
+Insufficient or uninformed attention to licensing issues that alienate contributors who are wary of either giving their code to others without adequate protections or compensation.
+It is not surprising that most projects fail as the barrier to entry is very low and projects are very easy to start. The low survival rate should not be seen as a bad thing; most (but not all) successful open source projects start small and it can be quite difficult to predict which ones will survive and thrive.
+
 ### Lab Exercises Lesson 12
 
 #### Lab 12.1. Enabling New Contributors
