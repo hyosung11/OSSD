@@ -1734,16 +1734,20 @@ Exercise 11.1: Experimenting with FOSSology
 
 The **FOSSology** project offers easy to understand options for learning the basics of how to use the toolsThe easiest way is to use the project’s online testing facility. To do this:
 
-- [ ] 1. Point your browser to <https://fossology.osuosl.org/repo/2>.
-- [ ] 2. Login with username=`fossy` and password=`fossy`.
-- [ ] 3. You can choose from a number of examples already enumerated; most of these are archives in zipped or tarball form. To keep things simple, choose at first a simple file.
-- [ ] 4. In the `select action box`, click on `Copyright/Email/Url` in the drop down menu. You see the copyright, license and url information highlighted in appropriate colors.
-- [ ] 5. Try clicking on some of the other fields in the top ribbon banner to see more useful information.
+- [x] 1. Point your browser to <https://fossology.osuosl.org/repo/2>.
+- [x] 2. Login with username=`fossy` and password=`fossy`.
+- [x] 3. You can choose from a number of examples already enumerated; most of these are archives in zipped or tarball form. To keep things simple, choose at first a simple file.
+- [x] 4. In the `select action box`, click on `Copyright/Email/Url` in the drop down menu. You see the copyright, license and url information highlighted in appropriate colors.
+- [x] 5. Try clicking on some of the other fields in the top ribbon banner to see more useful information.
 
 Two possible variations are:
 
-- [ ] 1. Look at one of the archives on the test site and learn how to browse through its files.
-- [ ] 2. Even better, upload one of your files or source archives and analyze its contents.
+- [x] 1. Look at one of the archives on the test site and learn how to browse through its files.
+- [x] 2. Even better, upload one of your files or source archives and analyze its contents.
+
+[FOSSology Using: End-to-end workflow](https://www.youtube.com/watch?v=TZqU5ZALI7U)
+
+- Everything in this course can be another course.
 
 #### Lab 11.2. Running FOSSology in a Container
 
