@@ -1838,6 +1838,14 @@ It is not surprising that most projects fail as the barrier to entry is very low
 
 #### Lab 12.1. Enabling New Contributors
 
+Exercise 12.1: Enabling New Contributors
+
+Enabling new contributors to join a project is essential to both longevity and vitality. It is the normal life cycle that many project members eventually leave a project for many reasons ranging from not enough time or lost interest, to disagreeing with changes in goals or governance issues or personal conflicts. New blood brings in both more labor or fresh ideas and tools.
+
+What are some of the methods that can be used to ease the glide path of new project members and get them to the point where they both feel comfortable with the project and can make useful contributions?
+
+RTR
+
 ### Knowledge Check Lesson 12
 
 #### Chapter 12 Quiz
