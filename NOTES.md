@@ -1854,3 +1854,39 @@ Notes 12.1
 ### Knowledge Check Lesson 12
 
 #### Chapter 12 Quiz
+
+Question 12.1
+
+The abbreviation for BDFL stands for:
+
+Correct Answer
+
+A. Better Delivery from Licensing
+B. Benevolent Dictator for Life Your Answer: Correct
+C. Big Data for Linux
+D. Bad Drama from Litterers
+
+Question 12.2
+
+The job of a mentor includes (Select all answers that apply):
+
+Correct Answer
+
+A. Training new project contributors in how to submit their work successfully in the right form Your Answer: Correct
+B. Knowing when to eject someone from a project because their work is not of high enough quality
+C. Teaching contributors how to handle criticism, as well as how to give constructive criticism Your Answer: Correct
+D. Finding ways to empower people to give their maximum contribution Your Answer: Correct
+
+Question 12.3
+
+Which statement is true?
+
+Correct Answer
+
+A. A project can start without a clear idea of what license to follow, and it can adopt it later, as needed
+B. A project should have a clear license to begin with. It may possibly make a change later if it really needs to, but that is often non-trivial if there are quite a few contributors Your Answer: Correct
+
+QUIZ RESULTS
+YOU GOT 3 OUT OF 3 CORRECT: 100%
+
+RTR
