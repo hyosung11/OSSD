@@ -1844,7 +1844,12 @@ Enabling new contributors to join a project is essential to both longevity and v
 
 What are some of the methods that can be used to ease the glide path of new project members and get them to the point where they both feel comfortable with the project and can make useful contributions?
 
-RTR
+Notes 12.1
+
+- mentorship
+- open discussions
+- avoid abuse
+- lead by example
 
 ### Knowledge Check Lesson 12
 
