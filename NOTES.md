@@ -1745,7 +1745,6 @@ Two possible variations are:
 - [ ] 1. Look at one of the archives on the test site and learn how to browse through its files.
 - [ ] 2. Even better, upload one of your files or source archives and analyze its contents.
 
-
 #### Lab 11.2. Running FOSSology in a Container
 
 ### Knowledge Check Lesson 11

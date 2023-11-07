@@ -64,7 +64,18 @@ Template
    - [x] 1. Finished Lesson 10
    - [x] 2. Started Lesson 11
 2. What will you do today?
-   - [ ] 1. FOSSology
-   - [ ] 2. FOSSology Scanning Features
+   - [x] 1. FOSSology
+   - [x] 2. FOSSology Scanning Features
 3. What blockers or impediments prevent you from doing your work?
    1. Nothing
+
+## 화 20231107 08:56
+
+1. What did you do Monday?
+   - [x] 1. Almost Finished Lesson 11
+2. What will you do today?
+   - [ ] 1. Complete Lesson 11
+   - [ ] 2. Complete Lesson 12
+3. What blockers or impediments prevent you from doing your work?
+   1. Wondering what Sohee's plans are today.
+
