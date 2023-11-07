@@ -1751,6 +1751,32 @@ Two possible variations are:
 
 #### Lab 11.2. Running FOSSology in a Container
 
+Exercise 11.2: Running FOSSology in a container locally
+
+Extra Credit
+
+Doing this requires some familiarity with running **docker** containers. If you already have this knowledge the exercise is easy. Otherwise you can follow the instructions to install docker for your system to do so, and then follow the instructions below from the **FOSSology** project.
+
+![Running FOSSology in a Container](running-fossology-container.png)
+
 ### Knowledge Check Lesson 11
 
 #### Chapter 11 Quiz
+
+Question 11.1
+
+Which organizations offer comprehensive open source license compliance measuring tools, which can often be run in an automated fashion (Select all answers that apply)?
+
+Incorrect Answer - it's both FOSSology and SPDX Tools
+
+A. The GNU Project
+B. FOSSology Your Answer: Correct
+C. OpenStack Foundation
+D. SPDX Tools Correct Answer
+E. Apache Software Foundation
+F. Apple
+
+QUIZ RESULTS
+YOU GOT 0 OUT OF 1 CORRECT: 0%
+
+RTR 
