@@ -74,8 +74,9 @@ Template
 1. What did you do Monday?
    - [x] 1. Almost Finished Lesson 11
 2. What will you do today?
-   - [ ] 1. Complete Lesson 11
-   - [ ] 2. Complete Lesson 12
+   - [x] 1. Complete Lesson 11
+   - [x] 2. Complete Lesson 12
 3. What blockers or impediments prevent you from doing your work?
    1. Wondering what Sohee's plans are today.
 
+11:28 I think I'm done with the course for now. Tired and losing focus.
