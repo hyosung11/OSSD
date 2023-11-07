@@ -1779,4 +1779,54 @@ F. Apple
 QUIZ RESULTS
 YOU GOT 0 OUT OF 1 CORRECT: 0%
 
-RTR 
+RTR <https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/leadership-vs-control-and-why-projects-fail/introduction>
+
+## 12. LEADERSHIP VS CONTROL AND WHY PROJECTS FAIL
+
+### Introduction Lesson 12
+
+#### Introduction to Leadership vs Control and Why Projects Fail
+
+How an open source software project is led has important consequences for its growth, longevity and capability. Good leadership empowers contributors to do their best work. It also leads to a more efficient and rapid development process. Building trust is important, as is making sure experienced project members can mentor less experienced ones and train subsystem maintainers.
+
+#### Learning Objectives Lesson 12
+
+By the end of this chapter, you should be able to:
+
+- Explain how good leadership can empower contributors to do their best work
+- Analyze the elements that contribute to the success or failure of open source projects
+
+### Leadership vs Control: Reasons Why Projects Fail
+
+#### Leadership vs Control
+
+As we have discussed, there are many ways an open source project can be organized, ranging from very tight control, to an almost anarchistic ecosystem. Assuming that there is enough structure that some entity, either an individual or a committee, has final control, there is still a wide choice of operating methods. The object of this section is to point out the advantages of *leading* a project, as opposed to just *controlling* it. Capable leadership empowers participants to contribute higher quality and more imaginative work.
+
+##### Leading vs Controlling a Project
+
+###### Loosen the Chains
+
+A good leader listens. Good ideas can originate from many different contributors, even recent entrants into a project. Even though leadership paradigms such as BDFL (Benevolent Dictator for Life) are popular, note the use of the word “benevolent”. The “dictator” may make the final decision (generally more efficiently than by a majority vote or consensus of a committee) but that does not alleviate them from listening and giving proper consideration to debates in the community and even occasionally including changes and including contributions they personally have problems with. If the controllers of a project take and do not give back by mentoring and moderating, they are limiting what a project can accomplish.
+
+###### Mentoring
+
+Depending on the size of the project, there may be only one level of leadership, or there may be more, including subsystem maintainers. It takes thought, preparation, and experience to be a good maintainer; one has to handle contributors efficiently, know when to send patches back for revision, send them up the chain with or without revision, or discard them with proper explanation. This will require training, or more precisely mentoring, from those who have done it successfully before. This is a crucial role and nothing screws up an open source project more than when contributors feel they are not getting sufficient attention and help. Another level of mentoring involves new members of a project. If they can attach themselves to more experienced contributors, who may or may not be maintainers, they can learn the ropes with less pain. They can learn how to produce patches in the proper form, how to phrase questions and proposals, and acquire realistic expectations of how quickly their work might be considered and whether it has a chance of success. Proper mentoring empowers people, leads to a more efficient workflow, and contributes to long term vitality and growth of a project.
+
+###### Building Trust
+
+Without trust, an open source project cannot function:
+
+- Contributors must trust that their submissions will be treated with respect and given reasonably prompt consideration.
+- Project leaders must trust that subsystem maintainers are qualified and capable of doing their job. And if they are not living up to their responsibilities, they can be tutored on doing a better job or be asked to transition out of the role.
+
+Trust must be earned and must go beyond the benefit of the doubt. As a project matures, reputations are earned and new members should be aware of the history.
+
+#### Why Do Many OSS Projects Fail?
+
+### Lab Exercises Lesson 12
+
+#### Lab 12.1. Enabling New Contributors
+
+### Knowledge Check Lesson 12
+
+#### Chapter 12 Quiz
