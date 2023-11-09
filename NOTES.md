@@ -1889,4 +1889,31 @@ B. A project should have a clear license to begin with. It may possibly make a c
 QUIZ RESULTS
 YOU GOT 3 OUT OF 3 CORRECT: 100%
 
-RTR
+## 13. RESPECTING AND ENCOURAGING DIVERSITY IN OSS
+
+### Introduction Lesson 13
+
+#### Introduction to Respecting and Encouraging Diversity in OSS
+
+By their very nature, open source projects are able to draw on a wide variety and dispersion of contributors. This only strengthens projects and speeds their pace of development. Besides the fact that respecting and encouraging diversity is the right thing to do, it is also **beneficial** both to a project and to the individuals who work on it.
+
+#### Learning Objectives Lesson 13
+
+By the end of this chapter, you should be able to:
+
+- Discuss the importance of encouraging and respecting diversity in open source projects.
+- Illustrate collaboration best practices in an open source project.
+
+### Diversity in OSS
+
+#### Diversity and Open Source Software
+
+### Lab Exercises Lesson 13
+
+#### Lab 13.1. Offensive but Extraneous Behavior
+
+#### Lab 13.2. Tone of Debate
+
+### Knowledge Check Leson 13
+
+#### Chapter 13 Quiz
