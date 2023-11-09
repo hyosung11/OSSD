@@ -1908,12 +1908,46 @@ By the end of this chapter, you should be able to:
 
 #### Diversity and Open Source Software
 
+The word **open** that appears in OSS might be taken to indicate a friendly, welcoming environment. Unfortunately, unless a proper atmosphere permeates a project, this may be a false promise. Diversity in an OSS project can mean many different things:
+
+- Race and national origin
+- Sex and gender identity
+- National and geographical/regional characteristics, including both language and cultural differences
+- Religious beliefs and political views
+- Acceptance of different opinions and methods about how the project should take shape and develop in the future.
+
+While it is *just the right thing to do* to accept contributors and reviewers from divergent backgrounds, diversity also leads to a better project due to unleashing more sources of new ideas, approaches, and contribution.
+
+#### Diversity in OSS Projects
+
+#### Sex and Gender Identity
+
+It is no secret that software engineering, system administration, and IT in general has been dominated by men. We have all seen conference group pictures where it is hard, if not impossible, to pick out the women (if any) in the photographs. Furthermore, incidents of unwelcome behavior, including harassment, have long been a problem at some conferences. For this reason, all conferences organized by the Linux Foundation event staff (and other responsible conference organizers) have very stringent policies regarding avoiding any improper behavior and dealing with it when it unfortunately rears its head. Besides the fact that discrimination is wrong, it also shrinks the potential pool of contributors and users. It can only improve a project to let its reach expand to the full extent of its potential community. It has to be a hard and fast rule that any misogynistic and/or homophobic statements in mailing lists, discussion groups and chats, or in the comments that accompany patches, should be promptly beaten down and criticized for what they are. Conference speakers should also be aware of what they are projecting. This includes avoiding marketing with sexual pictures, jokes and innuendos. Furthermore, one should try to use sex-neutral terms and pronouns, etc. Obviously, there are gradations, and one does not have to tie oneself up in knots trying to be sensitive. If someone finds a community has behavior that they find demeaning or just unwelcoming, they won’t contribute. Everyone loses.
+
+##### National Origin, Geography and Language
+
+There are a number of diversity issues that involve variation of race, national origin, geographical region, and language. Discrimination based on race and national origin is obviously wrong, but is rarely explicit. However, there are more subtle issues. For example, language and geographical differences can lead to misunderstandings and insults. While it is true that the vast majority of open source projects are primarily done in English, and thus developers tend to have at least a working familiarity with it, that is quite different than everyone being on the same page. Even among English speakers, words can have quite different meanings and usage in various countries, such as the United States, the UK, Ireland, Canada, Australia, etc. Without giving examples, it is not hard to come up with cases where a word has a much stronger meaning in one region than another, or is obscene in only some locations, etc. Obviously, we cannot avoid all such problems, but we can choose our words with sufficient care to avoid being offensive, as well as to be clear. This includes the use of idioms and metaphors which will seem mysterious to non-native speakers unless properly explained. Another aspect is tone. In some cultures, cursing is rather routine and coarse and not offensive in the way it is in others. Especially important is how criticism is offered. To some groups, direct criticism and saying they are wrong is seen as hostile and poorly received. Adopting the proper criticism methods is a two way street; those used to a very direct approach should continue to do so, but should avoid unnecessary nastiness; those not used to such an approach need to develop a thicker skin and pay attention to the content as much as possible, not the wrapping it comes in. Depending on the project, quite a bit of work can be done on localization. This includes providing translated documentation, as well as using standard methods to provide help and error messages in multiple languages. This kind of internationalization also can provide an initial glide path for individuals to contribute to a project while learning its internals and history. Once again, the goal is to promote healthy and rapid development from as large a pool of contributors and users as possible, not just to behave nicely because it is good manners.
+
+##### Religion and Politics
+
+Discussion of religion is generally inappropriate and has nothing to do with either technical or governance aspects of an open source project. While overt denigration of anyone’s beliefs is obviously rare and inappropriate, so is proselytizing in favor of any religion. The same is true with political opinions extraneous to the project, such as national or international affairs. However, this can be harder to avoid than issues of religion. For one thing, OSS is built on the concept of freely available intellectual product. Once freedom is in the air, it becomes hard to rule all political discussion as out of order, especially if there are actions in repressive countries that can be seen as attacking fellow open source contributors, users and advocates. Once a discussion with political aspects begins to veer away from direct bearing on the project (a divergence usually quite visible to the naked eye), it should move off of mailing lists and other project discussion venues into other channels. And at all times, one should not dissuade anyone from participating in a project because their political or religious views are different from the main currents followed by project members and the leadership; once again, this limits the potential pool of contributors and users and hurts a project.
+
+##### Differences of Opinion
+
+Collaboration involves:
+
+- Dividing up work among more than one group or individual, to be merged later.
+- Reviewing the work done primarily by one contributing force and either accepting as is, sending back for revisions, or changing and sending further along.
+- Competition between differing approaches to adding new facilities or solving problems.
+
+OSS projects can run into trouble when these kinds of discussions get ugly. Besides the usual advice about being civil and respectful, it is also very important to keep in mind that different people do things in different ways. This can mean accepting someone else’s contribution that has the same effect as yours, even if you think yours is better; if you do not prevail in the discussions of which approach to merge, you may just have to accept your less desired outcome. Or, you can put on your thinking cap and think more of things your approach can take care of the other approach cannot, and add increased functionality and try again. What is preferred this year may change next year; do be prepared to reinvigorate a rejected submission - if things change going forward. We discuss in other places how to handle things when they get out of hand. Here we are just saying that with more debate and more opinions, often a better project can be built.
+
 ### Lab Exercises Lesson 13
 
 #### Lab 13.1. Offensive but Extraneous Behavior
 
 #### Lab 13.2. Tone of Debate
 
-### Knowledge Check Leson 13
+### Knowledge Check Lesson 13
 
 #### Chapter 13 Quiz
