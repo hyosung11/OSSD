@@ -80,3 +80,13 @@ Template
    1. Wondering what Sohee's plans are today.
 
 11:28 I think I'm done with the course for now. Tired and losing focus.
+
+## 목 20231109 09:33
+
+1. What did you do yesterday?
+   - [x] 1. GitHub Universe
+2. What will you do today?
+   - [x] 1. OUtline Lesson 13
+   - [x] 2. Complete one section of Lesson 13
+3. What blockers or impediments prevent you from doing your work?
+   1. The kids are off of school, but just left to see the dentist with Uhmma
