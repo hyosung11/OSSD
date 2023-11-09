@@ -1989,3 +1989,22 @@ QUIZ RESULTS
 YOU GOT 3 OUT OF 3 CORRECT: 100%
 
 RTR
+<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/github-and-other-hosting-providers/introduction>
+
+14. GITHUB AND OTHER HOSTING PROVIDERS
+ 
+Introduction
+Introduction to GitHub and Other Hosting Providers
+Learning Objectives
+ 
+Hosting Providers: GitHub and More
+GitHub
+Public vs Private Repositories
+GUI vs Command Line
+ 
+Lab Exercises
+Lab 14.1. Getting a GitHub Account
+Lab 14.2. Getting a GitLab Account
+ 
+Knowledge Check
+Chapter 14 Quiz
