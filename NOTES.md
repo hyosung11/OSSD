@@ -1951,3 +1951,41 @@ OSS projects can run into trouble when these kinds of discussions get ugly. Besi
 ### Knowledge Check Lesson 13
 
 #### Chapter 13 Quiz
+
+Question 13.1
+
+The majority of OSS projects carry out their discussions in English. Therefore:
+
+Correct Answer
+
+A. Language misunderstandings are unlikely to occur
+B. Misunderstandings will only occur between native and non-native English speakers
+C. It is fine to often use unexplained idioms and cultural references
+D. One should always speak as clearly as possible, and while not being dull, think about the audience and what they will be familiar with Your Answer: Correct 
+
+Question 13.2
+
+OSS projects should explicitly encourage diversity with respect to (Select all answers that apply):
+
+Correct Answer
+
+A. National origin and language Your Answer: Correct
+B. Sex and gender identity Your Answer: Correct
+C. Height and weight
+D. Race Your Answer: Correct
+
+Question 13.3
+
+You propose a new way of doing something, or adding a new feature. Another contributor points out this idea was rejected previously. You should (Select all answers that apply):
+
+Correct Answer
+
+A. Study the previous discussion and see whether it applies, including whether or not differences between your ideas and the old ones were not seen Your Answer: Correct 
+B. Ask whether or not technical abilities have evolved to the point where something that was not feasible can be done today Your Answer: Correct 
+C. Ask whether the need for this feature has grown; the earlier discussion may have been premature Correct Answer
+D. Forget about it. No one will pay attention to you if you go forward if the other contributor has more history and trust than you do
+
+QUIZ RESULTS
+YOU GOT 3 OUT OF 3 CORRECT: 100%
+
+RTR
