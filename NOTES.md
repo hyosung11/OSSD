@@ -2040,6 +2040,8 @@ However, by definition, OSS projects are almost always hosted on public reposito
 
 #### GUI vs Command Line
 
+Originally, Git had only a command line interface. Working this way is quite comfortable to long-time Linux and UNIX users. While there were and are graphical interfaces to browse repositories, these were essentially read-only, they did not permit making changes or performing many other essential operations. GitHub and similar sites, such as GitLab, offer a full GUI (Graphical User Interface) that is instantly more familiar to many users and makes collaboration on projects that much easier. Furthermore, the GUI is operating system agnostic; i.e. whether you are on a Windows, MacOS, Solaris, Linux, etc. system, you have the same capabilities. It is easy to ignore the GUI when working with GitHub and just interact with it over the Internet, totally from the command line. Experienced users find this more convenient so there are no limitations involved.
+
 ### Lab Exercises Lesson 14
 
 #### Lab 14.1. Getting a GitHub Account
