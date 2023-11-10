@@ -1961,7 +1961,7 @@ Correct Answer
 A. Language misunderstandings are unlikely to occur
 B. Misunderstandings will only occur between native and non-native English speakers
 C. It is fine to often use unexplained idioms and cultural references
-D. One should always speak as clearly as possible, and while not being dull, think about the audience and what they will be familiar with Your Answer: Correct 
+D. One should always speak as clearly as possible, and while not being dull, think about the audience and what they will be familiar with Your Answer: Correct
 
 Question 13.2
 
@@ -1980,8 +1980,8 @@ You propose a new way of doing something, or adding a new feature. Another contr
 
 Correct Answer
 
-A. Study the previous discussion and see whether it applies, including whether or not differences between your ideas and the old ones were not seen Your Answer: Correct 
-B. Ask whether or not technical abilities have evolved to the point where something that was not feasible can be done today Your Answer: Correct 
+A. Study the previous discussion and see whether it applies, including whether or not differences between your ideas and the old ones were not seen Your Answer: Correct
+B. Ask whether or not technical abilities have evolved to the point where something that was not feasible can be done today Your Answer: Correct
 C. Ask whether the need for this feature has grown; the earlier discussion may have been premature Correct Answer
 D. Forget about it. No one will pay attention to you if you go forward if the other contributor has more history and trust than you do
 
@@ -2030,7 +2030,7 @@ Only selected collaborators can see the repository, or clone it (make a local co
 
 ###### Public Repositories
 
-Anyone given the proper link, such as https://github.com/an-account/a-repo, can copy, clone or fork the repository, or download its contents. However, unless the owner authorizes them as a collaborator, one does not have permission to upload or make modifications.
+Anyone given the proper link, such as <https://github.com/an-account/a-repo>, can copy, clone or fork the repository, or download its contents. However, unless the owner authorizes them as a collaborator, one does not have permission to upload or make modifications.
 
 Public repositories are free of charge on GitHub. Originally, all private ones cost money, but since Microsoft’s acquisition of GitHub, this policy has changed, and many users can easily use the free access versions. More complex needs will incur charges depending on the scale or the number of projects and subprojects that require separate repositories, the number of collaborators and how many institutions they represent and other criteria.
 
@@ -2051,3 +2051,36 @@ Originally, Git had only a command line interface. Working this way is quite com
 ### Knowledge Check Lesson 14
 
 #### Chapter 14 Quiz
+
+Question 14.1
+
+Select the correct statement. GitHub:
+
+Correct Answer
+
+A. Is maintained by The Linux Foundation
+B. Is a private company acquired by Microsoft in 2018 Your Answer: Correct
+C. Is maintained by the GNU project
+
+Question 14.2
+
+When using a GitHub public repository:
+
+Correct Answer
+
+A. Anyone on the internet can download the data as well as upload information and make modifications
+B. Anyone on the Internet can download the data, but only authorized collaborators can upload information and modifications Your Answer: Correct
+
+Question 14.3
+
+To use Git, you:
+
+Correct Answer
+
+A. Must be using Linux
+B. Be on any operating system and version has Git installed (almost all do) Your Answer: Correct
+
+QUIZ RESULTS
+YOU GOT 3 OUT OF 3 CORRECT: 100%
+
+RTR
