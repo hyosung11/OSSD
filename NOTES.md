@@ -2099,7 +2099,22 @@ Describe git workflow with Gerrit.
 
 #### Modes of Distributed Development
 
+Git has well-established methods of workflow. It is pretty flexible and projects can choose quite different approaches, but it is always based on a cycle of:
+
+- Make changes in the code, probably in a development branch.
+- Commit those changes to the branch; there may be one or more changes (patches) per commit.
+- Publish those changes through a push or a pull request.
+- The changes will be reviewed and merged if necessary or sent back for further work.
+
+This method works well if you have a basic **pyramid** view of things where each subsystem has a maintainer managing their piece of the work, and that manager has ultimate authority over the changes to that subsystem before passing them up the pyramid for ultimate review and merging. But what if you want to have more dispersed review? That’s where Gerrit comes in.
+
+![Simplified Git Workflow](simplified-git-workflow.png)
+
 #### Gerrit
+
+Gerrit is built completely on Git, but it adds another layer of code review before changes are committed to the authoritative master repository. This review is likely to be done by multiple contributors rather than just one powerful maintainer. While such a workflow is not exactly new (most projects have multiple reviewers with some structure for who makes the ultimate decisions) the Gerrit architecture is designed to formalize this procedure. This works best when there is one change per commit, rather than a block of them, as it makes it easier to review and modify/reject/accept each one on its own merits. To learn more about Gerrit read its [Documentation](https://gerrit-review.googlesource.com/Documentation/).
+
+![Git Workflow with Gerrit](git-workflow-with-gerrit.png)
 
 #### Review Process
 
