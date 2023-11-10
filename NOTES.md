@@ -1988,23 +1988,34 @@ D. Forget about it. No one will pay attention to you if you go forward if the ot
 QUIZ RESULTS
 YOU GOT 3 OUT OF 3 CORRECT: 100%
 
-RTR
-<https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/github-and-other-hosting-providers/introduction>
+## 14. GITHUB AND OTHER HOSTING PROVIDERS
 
-14. GITHUB AND OTHER HOSTING PROVIDERS
- 
-Introduction
-Introduction to GitHub and Other Hosting Providers
-Learning Objectives
- 
-Hosting Providers: GitHub and More
-GitHub
-Public vs Private Repositories
-GUI vs Command Line
- 
-Lab Exercises
-Lab 14.1. Getting a GitHub Account
-Lab 14.2. Getting a GitLab Account
- 
-Knowledge Check
-Chapter 14 Quiz
+### Introduction Lesson 14
+
+#### Introduction to GitHub and Other Hosting Providers
+
+When a distributed development project uses Git, a repository must be available somewhere on the Internet. GitHub has played that role for literally millions of shared source projects and sub-projects, as have other repository hosting servers.
+
+#### Learning Objectives Lesson 14
+
+By the end of this chapter, you should be able to:
+
+- Explain how Git enhances collaboration in open source projects.
+
+### Hosting Providers: GitHub and More
+
+#### GitHub
+
+#### Public vs Private Repositories
+
+#### GUI vs Command Line
+
+### Lab Exercises Lesson 14
+
+#### Lab 14.1. Getting a GitHub Account
+
+#### Lab 14.2. Getting a GitLab Account
+
+### Knowledge Check Lesson 14
+
+#### Chapter 14 Quiz
