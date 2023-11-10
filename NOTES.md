@@ -2022,6 +2022,22 @@ We will concentrate on GitHub, as it is the largest and it is *exclusively focus
 
 #### Public vs Private Repositories
 
+##### GitHub Repositories - Types
+
+###### Private Repositories
+
+Only selected collaborators can see the repository, or clone it (make a local copy), or download its contents in a variety of forms. The owner must specifically authorize each collaborator.
+
+###### Public Repositories
+
+Anyone given the proper link, such as https://github.com/an-account/a-repo, can copy, clone or fork the repository, or download its contents. However, unless the owner authorizes them as a collaborator, one does not have permission to upload or make modifications.
+
+Public repositories are free of charge on GitHub. Originally, all private ones cost money, but since Microsoft’s acquisition of GitHub, this policy has changed, and many users can easily use the free access versions. More complex needs will incur charges depending on the scale or the number of projects and subprojects that require separate repositories, the number of collaborators and how many institutions they represent and other criteria.
+
+However, by definition, OSS projects are almost always hosted on public repositories if they are using Git.
+
+💡 GitLab also has both private and public repositories with the same essential considerations in force as for GitHub.
+
 #### GUI vs Command Line
 
 ### Lab Exercises Lesson 14
