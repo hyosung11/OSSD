@@ -2134,3 +2134,35 @@ The reviewers evaluate pending changes and discuss them. According to project go
 
 #### Chapter 15 Quiz
 
+Question 15.1
+
+Gerrit is:
+
+Correct Answer
+
+A. A more advanced replacement for git
+B. An enhanced method of using git for more complex projects Your Answer: Correct
+
+Question 15.2
+
+Gerrit works best when:
+
+Incorrect Answer
+
+A. There is one change per commit Correct Answer
+B. There are many changes to commit Your Answer: Incorrect
+
+Question 15.3
+
+With Gerrit, contributors submit their work to:
+
+Correct Answer
+
+A. The reviewing layer, rather than fully upstream Your Answer: Correct
+B. The upstream and then reviewers pick from there
+
+
+QUIZ RESULTS
+YOU GOT 2 OUT OF 3 CORRECT: 67%
+
+RTR
