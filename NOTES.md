@@ -2006,6 +2006,20 @@ By the end of this chapter, you should be able to:
 
 #### GitHub
 
+Git began as an offshoot of the Linux kernel development community, initially created by Linus Torvalds himself. However, it was quickly realized it could be used for any project that had similar needs:
+
+- A large group of contributors
+- A widely dispersed community of contributors
+- A very open development method with frequent releases.
+
+Use of Git grew explosively after the founding of GitHub in 2008, three years after the creation of Git. In 2018, GitHub was acquired by Microsoft. In early 2020, GitHub had over 40 million users and 100 million repositories! Before GitHub projects needed to have their own servers to host repositories and have a good amount of knowledge to setup, administer and secure and protect the integrity of repositories. It is now pretty easy to get a project rolling quickly. There are other sites that offer similar services, including:
+
+- GitLab
+- GitKraken
+- Launchpad
+
+We will concentrate on GitHub, as it is the largest and it is *exclusively focused on Git* as its source control system.
+
 #### Public vs Private Repositories
 
 #### GUI vs Command Line
