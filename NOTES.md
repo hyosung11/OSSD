@@ -2083,4 +2083,31 @@ B. Be on any operating system and version has Git installed (almost all do) Your
 QUIZ RESULTS
 YOU GOT 3 OUT OF 3 CORRECT: 100%
 
-RTR
+## 15. ADVANCED GIT INTERFACES: GERRIT
+
+### Introduction Lesson 15
+
+#### Introduction to Advanced Git Interfaces: Gerrit
+
+​​​​​​​While Git is very powerful, and graphical interfaces such as GitHub may be very useful, more complicated workflows can benefit from the use of tools such as Gerrit.
+
+#### Learning Objectives Lesson 15
+
+Describe git workflow with Gerrit.
+
+### Gerrit Lesson 15
+
+#### Modes of Distributed Development
+
+#### Gerrit
+
+#### Review Process
+
+### Lab Exercises Lesson 15
+
+#### Lab 15.1. A Gerrit Walkthrough
+
+### Knowledge Check Lesson 15
+
+#### Chapter 15 Quiz
+
