@@ -2165,4 +2165,8 @@ B. The upstream and then reviewers pick from there
 QUIZ RESULTS
 YOU GOT 2 OUT OF 3 CORRECT: 67%
 
-RTR
+---
+
+20231114
+
+I feel like a dog chasing my tail vis-a-vis finding the right entry point into making an open source software contribution.
