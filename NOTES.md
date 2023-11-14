@@ -2161,7 +2161,6 @@ Correct Answer
 A. The reviewing layer, rather than fully upstream Your Answer: Correct
 B. The upstream and then reviewers pick from there
 
-
 QUIZ RESULTS
 YOU GOT 2 OUT OF 3 CORRECT: 67%
 
