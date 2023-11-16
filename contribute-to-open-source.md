@@ -118,3 +118,7 @@ Recap
 6. Get PR reviewed
 7. Process feedback
 8. Merge and showcase your contribution
+
+### Comments
+
+![tweet](tweet.png)
