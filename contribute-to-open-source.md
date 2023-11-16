@@ -52,10 +52,21 @@ In this case, GitHub is a great platform for us to discuss, but sometimes author
 - Pull Request
   - a request to merge your modifications to the codebase
 
-RTR
+### 3.2 Handling Code Reviews and Feedback
 
-3.2 Handling Code Reviews and Feedback
-Showcasing Contributions
+- think of feedback as a gift
+- be open to receiving constructive feedback and don't take it personally
+
+![code-review-feedback](code-review-feedback.png)
+
+Respond to feedback as follows:
+
+1. Thank the person for the feedback
+2. Express your opinion (agreement or disagreement) when it makes sense
+3. Work on the issue
+
+### 4. Showcasing Contributions
+
 Case 1 - A big contribution
 Case 2- A small contribution
 
