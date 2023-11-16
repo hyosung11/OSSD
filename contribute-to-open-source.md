@@ -88,7 +88,18 @@ Considerations
 
 Utilize the opportunity to engage with other developers and communities, make it so in order to get new connections and even greater opportunities later on!
 
-Case 1 - A big contribution
-Case 2- A small contribution
+#### Case 1 - A big contribution
 
-Conclusion
+One of the ways to describe a big contribution is like this:
+
+I made a few big contributions to a project called [Coolify](https://coolify.io), which is an open-source Heroku alternative. I refactored a lot of the UI, making it cleaner and more consistent throughout the application. Currently, more than 9000 instances are installed, and the UI affects all of them! You can check out the [contributions](https://github.com/coollabsio/coolify/commits?author=LLxD) here.
+
+Of course, you can make this text as long or as short as you want, entering more detail about how you made this contribution and what exactly you did, but for this article, this is enough for you to get a general idea.
+
+#### Case 2- A small contribution
+
+One way to describe a small contribution is like this:
+
+I made a small change to the new documentation for [Sequelize](https://sequelize.org)! I was just scrolling through the documentation and found this mistake that could lead others to weird debugging sessions, so as soon as I found it, I submitted a PR for them! You can check out the contribution [here](https://github.com/sequelize/website/commit/37fa472763873249c7efa2960c609545be802c5c?diff=split)!
+
+### Conclusion
