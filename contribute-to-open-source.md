@@ -103,3 +103,18 @@ One way to describe a small contribution is like this:
 I made a small change to the new documentation for [Sequelize](https://sequelize.org)! I was just scrolling through the documentation and found this mistake that could lead others to weird debugging sessions, so as soon as I found it, I submitted a PR for them! You can check out the contribution [here](https://github.com/sequelize/website/commit/37fa472763873249c7efa2960c609545be802c5c?diff=split)!
 
 ### Conclusion
+
+[Wasp's Repo](https://github.com/wasp-lang/wasp)
+
+[How to choose and contribute to your first open source project](https://github.com/collections/choosing-projects)
+
+Recap
+
+1. Find a repo
+2. Search for a fresh issue
+3. Comment and communicate that you're going to fix the issue - use this opportunity to talk to other developers
+4. Code
+5. Make Pull Request
+6. Get PR reviewed
+7. Process feedback
+8. Merge and showcase your contribution
