@@ -67,6 +67,27 @@ Respond to feedback as follows:
 
 ### 4. Showcasing Contributions
 
+Document all your contributions on different platforms:
+
+- GitHub
+- personal portfolio site
+- LinkedIn
+- other means of reaching people
+
+Considerations
+
+1. What open-source projects have you worked on?
+   - Try to think of this as writing a story.
+   - First, start by giving the initial context of the project and how it’s revelatory.
+2. How did you contribute?
+    - Give the context of what you did: documentation, code, and problems you solved in general.
+    - Write for your reader and their technical level (reader may not understand something that's too technical).
+3. How big was the impact?
+   - Talk about how this affected the ecosystem; it can be as big or as small as you like. 
+   - Never neglect the impact that changing documentation can have (remember that for us, programmers, the documentation is our source of truth, and fixes there are greatly appreciated).
+
+Utilize the opportunity to engage with other developers and communities, make it so in order to get new connections and even greater opportunities later on!
+
 Case 1 - A big contribution
 Case 2- A small contribution
 
