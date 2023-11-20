@@ -60,3 +60,10 @@ FOSS offers you endless options for technologies and architectures. Once you det
 - You need both to share with specific data (numbers)
 
 ### FOSS Benefits to Your Personal Network
+
+- Human networking is simply people communicating with other people.
+- Communicating while requires practice, intention, and attention.
+- "It's not what you know, it's whom you know."
+- The most important benefits of these relationships are the discussions, introductions, and information sharing that happens in them.
+- More than any technology you will ever use or create, the relationships you foster will help you thrive in your career.
+- The relationships formed through contributing to free and open source projects may be the most valuable and lasting benefit.
