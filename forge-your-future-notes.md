@@ -50,3 +50,13 @@ FOSS offers you endless options for technologies and architectures. Once you det
 
 #### Portfolio as Resume
 
+- portfolio supplements a resume; it does not replace it
+- a CV or resume shows prospective employers two things
+    1. What you have done for past professional positions and
+    2. What difference you've made with those actions
+- Prospective employers what someone who made a difference
+- resume = what you've done
+- portfolio = how you did it
+- You need both to share with specific data (numbers)
+
+### FOSS Benefits to Your Personal Network
