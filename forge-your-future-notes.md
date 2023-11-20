@@ -39,3 +39,5 @@ learn how best practices work, why they're important and see firsthand the diffe
 - The Next Big Thing
 
 ### FOSS Benefits to Your Career
+
+FOSS offers you endless options for technologies and architectures. Once you determine your goals, you can turn to FOSS to see which projects will help you reach them.
