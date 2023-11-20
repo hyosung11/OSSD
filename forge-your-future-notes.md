@@ -41,3 +41,12 @@ learn how best practices work, why they're important and see firsthand the diffe
 ### FOSS Benefits to Your Career
 
 FOSS offers you endless options for technologies and architectures. Once you determine your goals, you can turn to FOSS to see which projects will help you reach them.
+
+#### Public Portfolio
+
+- start a log or portfolio for tracking all your contributions
+- maintain your own portfolio to track contributions
+- maintain your own record of all types of contributions so that you can easily share your contribution portfolio with prospective employers
+
+#### Portfolio as Resume
+
