@@ -223,4 +223,15 @@ Familiarize yourself with what files and features you may see. Not all files men
 
 ### Contributor License Agreement (CLA) / Developer Certificate of Origin (DCO)
 
+- CLA
+  - right to share your contribution
+  - agree that the project has a license to alter, distribute, and administer those contributions
+  - you agree that you will never revoke that license
+
+- DCO
+  - recently a more popular alternative to CLA
+  - DCO relies upon a contributor signing their contribution using the `-s` or `--signoff` flags of the git version control system
+    - denotes the right to distribute the contribution under the same conditions as the project license
+  - only applies to git projects (not Subversion, CVS, or other systems)
+
 ### You're Ready to Find a Project
