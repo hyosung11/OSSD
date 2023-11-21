@@ -235,3 +235,8 @@ Familiarize yourself with what files and features you may see. Not all files men
   - only applies to git projects (not Subversion, CVS, or other systems)
 
 ### You're Ready to Find a Project
+
+- equipped with guideposts to navigate FOSS projects
+- Find a project and make your first contribution
+
+RTR
