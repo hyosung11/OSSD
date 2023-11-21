@@ -75,4 +75,27 @@ FOSS offers you endless options for technologies and architectures. Once you det
 
 ## 3. Prepare to Contribute
 
-Easier to read and take notes at the dining room table.
+Steps
+
+1. Realize you want to contribute
+2. Find a project
+3. Find a task (issue)
+4. Set up your environment
+5. Work on your contribution
+6. Submit your contribution
+7. Receive feedback and iterate on your contribution
+8. Contribution accepted!
+9. Goto step 1
+
+
+
+#### Ways to Contribute
+
+
+#### Common Project and Community Roles
+#### Files You Should Know About Before You Start
+#### Issue Tracking
+#### Common Communication Routes
+#### Contributor License Agreement (CLA) / Developer Certificate of Origin (DCO)
+#### You're Ready to Find a Project
+
