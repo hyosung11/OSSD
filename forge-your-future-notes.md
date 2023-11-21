@@ -100,6 +100,25 @@ Steps
   - e.g., strong pedagogical background to write and review lesson plans for an education project
 
 ### Common Project and Community Roles
+
+![onion-metaphor](onion-metaphor.png)
+
+Roles
+
+1. Leadership - Benevolent Dictator For Life (BDFL)
+2. Core Contributors
+   1. commit bit - authority to approve a contribution
+   2. heed the advice and feedback of a core contributor
+3. Non-Core Contributors
+   1. make regular contributions
+   2. can provide advice and mentoring for newer contributors
+   3. lifeblood of project
+4. New Contributors
+   1. apprenticeship phase
+   2. projects that pay attentionto this role have strong communities which are worth seeking out
+5. Users
+
+
 ### Files You Should Know About Before You Start
 ### Issue Tracking
 ### Common Communication Routes
