@@ -125,6 +125,33 @@ Know these most common roles in FOSS to navigate the hierarchy in most projects 
 
 ### Files You Should Know About Before You Start
 
+Familiarize yourself with what files and features you may see. Not all files mentioned here exist in all projects. Locate most files in the root directory of a project, but not always. Look for a `docs` or similarly named documentation directory.
+
+#### README
+
+- typically first thing you see for a project
+- project's face to the world
+- make the README file the first stop when visiting any project
+- it gives a sense of what the project is about and where to look for more information about the project
+
+#### LICENSE (also COPYING)
+
+- declares the terms under which folks are permitted to use, modify, and distribute the project
+- sometimes called `COPYING` particularly for projects that use a version of the GNU Public License (GPL)
+- "open source" projects must have an OSI-approved license
+- no license means not open source; it is merely "source available"
+- `LICENSE` file determines whether a project is open source
+
+RTR
+
+#### CONTRIBUTING
+
+#### Code of Conduct
+
+#### Styleguides
+
+#### Other Handy Files
+
 ### Issue Tracking
 
 ### Common Communication Routes
