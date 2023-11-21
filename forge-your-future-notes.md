@@ -166,6 +166,14 @@ Familiarize yourself with what files and features you may see. Not all files men
 
 #### Code of Conduct
 
+- Contributor Covenant created by Coraline Ada Ehmke
+  - copied into this directory as `contributor-code-of-conduct.md`
+  - [Coraline Ada Ehmke](https://where.coraline.codes)
+
+- Code of Conduct (CoC)
+  - CoC sign that community wiling to do the right thing
+  - enforcement in an effective and empathetic way paramount
+
 #### Styleguides
 
 #### Other Handy Files
