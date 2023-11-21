@@ -208,6 +208,19 @@ Familiarize yourself with what files and features you may see. Not all files men
 
 ### Common Communication Routes
 
+1. entirely asynchronous
+2. semi-asynchronous
+3. synchronous
+
+- Seek out documentation and advice before participating in project discussions.
+- Email mailing lists are a common communication method
+- real-time chat platforms used as well
+  - Internet Relay Chat (IRC)
+  - Matrix
+  - RocketChat
+  - Mattermost
+- respect the chosen communication routes used by the project
+
 ### Contributor License Agreement (CLA) / Developer Certificate of Origin (DCO)
 
 ### You're Ready to Find a Project
