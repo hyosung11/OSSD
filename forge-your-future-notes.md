@@ -117,11 +117,19 @@ Roles
    1. apprenticeship phase
    2. projects that pay attentionto this role have strong communities which are worth seeking out
 5. Users
+   1. need people to use the project
+   2. provide feedback, bug reports and feature ideas
+   3. users the most important layer/role of all because (meet user needs and solve their problems)
 
+Know these most common roles in FOSS to navigate the hierarchy in most projects as you enter the world of FOSS contributing.
 
 ### Files You Should Know About Before You Start
+
 ### Issue Tracking
+
 ### Common Communication Routes
+
 ### Contributor License Agreement (CLA) / Developer Certificate of Origin (DCO)
+
 ### You're Ready to Find a Project
 
