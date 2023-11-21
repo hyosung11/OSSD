@@ -87,15 +87,22 @@ Steps
 8. Contribution accepted!
 9. Goto step 1
 
+### Ways to Contribute
 
+- code, user interface, user experience design, documentation
+- testing leads to bug reports
+- organizing and managing the entire process
 
-#### Ways to Contribute
+![FOSS-tasks](FOSS-tasks.png)
 
+- hardware expertise
+- subject matter expertise
+  - e.g., strong pedagogical background to write and review lesson plans for an education project
 
-#### Common Project and Community Roles
-#### Files You Should Know About Before You Start
-#### Issue Tracking
-#### Common Communication Routes
-#### Contributor License Agreement (CLA) / Developer Certificate of Origin (DCO)
-#### You're Ready to Find a Project
+### Common Project and Community Roles
+### Files You Should Know About Before You Start
+### Issue Tracking
+### Common Communication Routes
+### Contributor License Agreement (CLA) / Developer Certificate of Origin (DCO)
+### You're Ready to Find a Project
 
