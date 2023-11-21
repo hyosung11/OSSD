@@ -176,6 +176,14 @@ Familiarize yourself with what files and features you may see. Not all files men
 
 #### Styleguides
 
+- Very Strong Opinions
+- Always read and follow style guidelines if they exist
+- Examples
+  - [Google Styleguides](https://github.com/google/styleguide)
+  - OpenStack family of projects => IBM
+- if no guidelines, not any stylistic preferences the project maintainers express
+  - write up the project's stylistic preferences in their very first styleguide and then link to it in the `CONTRIBUTING` file.
+
 #### Other Handy Files
 
 ### Issue Tracking
