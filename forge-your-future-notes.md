@@ -72,3 +72,7 @@ FOSS offers you endless options for technologies and architectures. Once you det
 
 - learn the lay of the land
 - know what files and social structures to look for
+
+## 3. Prepare to Contribute
+
+Easier to read and take notes at the dining room table.
