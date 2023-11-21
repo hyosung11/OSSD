@@ -142,9 +142,27 @@ Familiarize yourself with what files and features you may see. Not all files men
 - no license means not open source; it is merely "source available"
 - `LICENSE` file determines whether a project is open source
 
-RTR
-
 #### CONTRIBUTING
+
+- `CONTRIBUTING` file
+  - how the project prefers to receive contributions
+  - the requirements and parameters a contribution must meet to be accepted into the project
+
+- Apache HTTPD web patches has separate guidelines
+  - reporting bugs
+  - contributing code
+  - contributing documentation
+
+- The Public Speaking Resource project has one file
+  - [Public_Speaking](https://github.com/vmbrasseur/Public_Speaking)
+  - resources for presenting at technical conferences
+
+- No `CONTRIBUTING` File scenario
+  - look at past contributions
+  - ask the community for process verification
+  - once you have verified the process with the community and made your first contribution, be a community **superhero** by writing it up in the first version of the project's `CONTRIBUTING` file
+
+- Communication is the most important thing (note to myself)
 
 #### Code of Conduct
 
