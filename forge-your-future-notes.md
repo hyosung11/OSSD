@@ -115,7 +115,7 @@ Roles
    3. lifeblood of project
 4. New Contributors
    1. apprenticeship phase
-   2. projects that pay attentionto this role have strong communities which are worth seeking out
+   2. projects that pay attention to this role have strong communities which are worth seeking out
 5. Users
    1. need people to use the project
    2. provide feedback, bug reports and feature ideas
@@ -186,11 +186,28 @@ Familiarize yourself with what files and features you may see. Not all files men
 
 #### Other Handy Files
 
+- `INSTALL` or `INSTALLATION` file
+  - [`make`](https://www.gnu.org/software/make/)
+- `CHANGES` or `CHANGELOG` file
+  - use to determine whether the version of the software you're using includes a certain bug fix
+  - see the development trajectory of a project
+- `AUTHORS` file
+  - not as common anymore
+
 ### Issue Tracking
+
+- issue tracking, bug tracking, ticketing system - same concept
+- uses range
+  - bug tracking
+  - feature requests
+  - support questions
+  - design discussions
+  - team conversations
+  - debates
+- always ask the community if you have questions and to verify your assumptions
 
 ### Common Communication Routes
 
 ### Contributor License Agreement (CLA) / Developer Certificate of Origin (DCO)
 
 ### You're Ready to Find a Project
-
