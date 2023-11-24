@@ -251,15 +251,23 @@ Familiarize yourself with what files and features you may see. Not all files men
 Why do I want to contribute to open source software?
 
 - goals must be specific and actionable
-- collect your thoughst and write them down
+- collect your thoughts and write them down
   - get a snapshot of your current mind
   - snapshot gives you something to which you can refer later
 
 Brainstorming Session
 
+What do I want to get out of this? Why am I doing this?
+
 1. to get a job as a professional software engineer
 2. to learn how software is developed in an actual profitable company
-3. RTR
+3. to make meaningful connections with other software engineers
+4. to find a mentor
+5. to make a valuable contribution to a project I love
+6. to feel part of a team
+7. to get out of toy project hell
+8. to bridge the skills gap
+9. RTR
 
 ### Collect Your Requirements
 
