@@ -239,4 +239,26 @@ Familiarize yourself with what files and features you may see. Not all files men
 - equipped with guideposts to navigate FOSS projects
 - Find a project and make your first contribution
 
-RTR
+## 4. Find a Project
+
+### Set Your Goals
+
+### Collect Your Requirements
+
+#### Skills
+
+#### Interests
+
+### Time Availability
+
+#### Goals
+
+### Collect Candidate Projects
+
+#### Select a Project
+
+### Select a Task
+
+### What is "Success"?
+
+
