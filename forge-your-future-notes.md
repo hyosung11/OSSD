@@ -248,6 +248,19 @@ Familiarize yourself with what files and features you may see. Not all files men
 
 ### Set Your Goals
 
+Why do I want to contribute to open source software?
+
+- goals must be specific and actionable
+- collect your thoughst and write them down
+  - get a snapshot of your current mind
+  - snapshot gives you something to which you can refer later
+
+Brainstorming Session
+
+1. to get a job as a professional software engineer
+2. to learn how software is developed in an actual profitable company
+3. RTR
+
 ### Collect Your Requirements
 
 #### Skills
