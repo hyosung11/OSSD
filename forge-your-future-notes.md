@@ -241,6 +241,11 @@ Familiarize yourself with what files and features you may see. Not all files men
 
 ## 4. Find a Project
 
+- wanting to contribute to a project is the first milestone
+- finding the project that's right for you is the second milestone
+- take the time to find a project that matches your goals and values.
+- defining your goals and requirements and finding the right first project can take some time to do properly, but it's a very good investment.
+
 ### Set Your Goals
 
 ### Collect Your Requirements
