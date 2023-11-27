@@ -267,7 +267,24 @@ What do I want to get out of this? Why am I doing this?
 6. to feel part of a team
 7. to get out of toy project hell
 8. to bridge the skills gap
-9. RTR
+9. to contribute to a project that advances human health and fitness
+
+Take the thoughts and organize, consolidate and focus them into a list of goals. Expand on the thoughts until they are specific. Collect similar thoughts together.
+
+What is the why behind every thought? Iteratively refine and collect your thoughts into categories until you've consolidated them into a few core things you would like to achieve by contributing to free and open source software.
+
+Each goal must be specific, concise, and actionable.
+
+My Goals
+
+1. Get an interview at a company where I make an open source contribution.
+2. Learn best practices for choosing an issue, making a code contribution, and writing a pull request
+3. Practice right speech in communication and collaboration with professional software engineers
+4. Master git commands and the GitHub platform for open source software development
+5. Find an open source software development mentor
+6. Add at least on new piece to my portfolio
+
+RTR
 
 ### Collect Your Requirements
 
@@ -286,5 +303,3 @@ What do I want to get out of this? Why am I doing this?
 ### Select a Task
 
 ### What is "Success"?
-
-
