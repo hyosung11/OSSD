@@ -241,4 +241,48 @@ Familiarize yourself with what files and features you may see. Not all files men
 
 ## 4. Find a Project
 
+- wanting to contribute to a project is the first milestone
+- finding the project that's right for you is the second milestone
+- take the time to find a project that matches your goals and values.
+- defining your goals and requirements and finding the right first project can take some time to do properly, but it's a very good investment.
 
+### Set Your Goals
+
+Why do I want to contribute to open source software?
+
+- goals must be specific and actionable
+- collect your thoughts and write them down
+  - get a snapshot of your current mind
+  - snapshot gives you something to which you can refer later
+
+Brainstorming Session
+
+What do I want to get out of this? Why am I doing this?
+
+1. to get a job as a professional software engineer
+2. to learn how software is developed in an actual profitable company
+3. to make meaningful connections with other software engineers
+4. to find a mentor
+5. to make a valuable contribution to a project I love
+6. to feel part of a team
+7. to get out of toy project hell
+8. to bridge the skills gap
+9. RTR
+
+### Collect Your Requirements
+
+#### Skills
+
+#### Interests
+
+### Time Availability
+
+#### Goals
+
+### Collect Candidate Projects
+
+#### Select a Project
+
+### Select a Task
+
+### What is "Success"?
