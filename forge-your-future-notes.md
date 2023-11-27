@@ -317,7 +317,36 @@ Skills I bring to the party
 
 #### Interests
 
-### Time Availability
+- domain knowledge
+
+Interests! Hobbies! Curious About!
+
+1. soccer
+2. basketball
+3. strength training
+4. speed training
+5. sprinting
+6. mobility
+7. diet
+8. longevity
+9. biomarkers
+10. reading
+11. writing
+12. wealth creation
+13. family
+14. child-raising
+15. Buddhism
+16. meditation
+17. Stoicism
+18. Shamanism
+19. alternative healing modalities
+20. acupuncture
+21. dogs
+22. nature
+23. Korean farmer's band music
+24. Bruce Lee
+
+#### Time Availability
 
 #### Goals
 
