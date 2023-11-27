@@ -284,7 +284,9 @@ My Goals
 5. Find an open source software development mentor
 6. Add at least one new piece to my portfolio
 
-RTR
+Own your goals, take responsibility for meeting them, and you are much more likely to be successful in your FOSS contributions.
+
+Change the goals as necessary.
 
 ### Collect Your Requirements
 
