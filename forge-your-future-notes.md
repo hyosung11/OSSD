@@ -290,6 +290,8 @@ Change the goals as necessary.
 
 ### Collect Your Requirements
 
+What are your personal requirements for the project you select? What criteria must the project meet to be a good fit for you?
+
 #### Skills
 
 #### Interests
