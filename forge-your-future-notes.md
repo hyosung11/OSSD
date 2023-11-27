@@ -294,6 +294,27 @@ What are your personal requirements for the project you select? What criteria mu
 
 #### Skills
 
+What are your skills? What can you offer to a project?
+
+- great writer or editor
+- translation
+- graphic design
+- user experience specialist
+- know certain programming languages
+- have experience with electronics
+- experience managing people
+- writing technical specification or grants
+- organizing events
+
+Skills I bring to the party
+
+1. good writer and editor
+2. understanding of learning pedagogy
+3. advanced JavaScript skills
+4. intermediate SQL skills
+5. knowledge of scrum/agile/kanban and project management
+6. legal background as former litigation lawyer
+
 #### Interests
 
 ### Time Availability
