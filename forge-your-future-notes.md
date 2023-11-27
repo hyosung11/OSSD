@@ -239,4 +239,6 @@ Familiarize yourself with what files and features you may see. Not all files men
 - equipped with guideposts to navigate FOSS projects
 - Find a project and make your first contribution
 
-RTR
+## 4. Find a Project
+
+
