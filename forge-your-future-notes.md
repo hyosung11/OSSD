@@ -282,7 +282,7 @@ My Goals
 3. Practice right speech in communication and collaboration with professional software engineers
 4. Master git commands and the GitHub platform for open source software development
 5. Find an open source software development mentor
-6. Add at least on new piece to my portfolio
+6. Add at least one new piece to my portfolio
 
 RTR
 
