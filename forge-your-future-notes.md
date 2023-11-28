@@ -348,6 +348,9 @@ Interests! Hobbies! Curious About!
 
 #### Time Availability
 
+- assess how much time you can devote to contributing to a project
+- consider that some projects have steeper learning curves
+
 #### Goals
 
 ### Collect Candidate Projects
