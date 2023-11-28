@@ -353,6 +353,9 @@ Interests! Hobbies! Curious About!
 
 #### Goals
 
+- skills, interests, time availability, and goals = specific requirements
+- impermanent and can change over time
+
 ### Collect Candidate Projects
 
 #### Select a Project
