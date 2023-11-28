@@ -393,6 +393,10 @@ Interests! Hobbies! Curious About!
 12. Notion
 13. Evernote
 14. ZebraWeb
+15. Node
+16. Express
+17. OpenSpiel (<https://github.com/deepmind/open_spiel>) - Framework for developing research environments and algorithms for games, including simple soccer game environments. Good option to contribute environments, visualization, or algorithm implementations.
+18. Google Research Football (<https://github.com/google-research/football>) - Research project for developing reinforcement learning agents for football/soccer games. Potential areas to contribute include new training scenarios, opponent AI bots, or visualizations. Requires Python/Tensorflow skills.
 
 #### Select a Project
 
