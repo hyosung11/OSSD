@@ -375,14 +375,28 @@ Interests! Hobbies! Curious About!
   - friends
   - social network contacts on Twitter, LinkedIn, etc.
 
-List of Candidates
+**Invest an hour or two to collect a nice pool of candidate projects and to familiarize yourself with the landscape of free and open source projects that exist in the world.**
+
+#### Candidate Projects List
 
 1. Visual Studio Code
 2. freeCodeCamp
 3. dev.to
-4. GroupSpot?
+4. GroupSpot
+5. Glofox
+6. TrainHeroic
+7. ATG
+8. Forza Football
+9. Insight Timer
+10. StatSports APEX
+11. Garmin
+12. Notion
+13. Evernote
+14. ZebraWeb
 
 #### Select a Project
+
+RTR
 
 ### Select a Task
 
