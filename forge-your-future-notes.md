@@ -358,6 +358,30 @@ Interests! Hobbies! Curious About!
 
 ### Collect Candidate Projects
 
+- limit the pool of candidates
+- start with projects you already use and enjoy
+  - Linux user examples
+    - Blender, GIMP, KDE, GNOME
+  - FOSS Projects are everywhere
+    - Drupal, Moodle, Visual Studio Code, iTerm
+  - smaller satellite projects such as libraries, plugins, extensions
+- inspect your software and its ecosystems for FOSS projects
+- Open your favorite web browser, fire up your favorite search engine, and type in an interest name followed by the words "open source" into the search field
+- browse popular version control service providers
+  - GitHub
+  - GitLab
+  - BitBucket
+- ask network and local community
+  - friends
+  - social network contacts on Twitter, LinkedIn, etc.
+
+List of Candidates
+
+1. Visual Studio Code
+2. freeCodeCamp
+3. dev.to
+4. GroupSpot?
+
 #### Select a Project
 
 ### Select a Task
