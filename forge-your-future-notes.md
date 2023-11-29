@@ -400,7 +400,13 @@ Interests! Hobbies! Curious About!
 
 #### Select a Project
 
-RTR
+1. Compare the list of projects you've built with your list of requirements.
+   1. Of course, matching your requirements is a very important feature for any potential project.
+2. Consider how easy it will be for you to contribute
+   1. Give yourself the best possible chance for success.
+   2. Choose a project that makes contributing more straightforward
+   3. Start with an easy win
+   4. Increase motivation to continue down the path of contributing elsewhere
 
 ### Select a Task
 
