@@ -407,6 +407,15 @@ Interests! Hobbies! Curious About!
    2. Choose a project that makes contributing more straightforward
    3. Start with an easy win
    4. Increase motivation to continue down the path of contributing elsewhere
+3. Look at each project on your list
+   1. start with the documentation
+      1. `CONTRIBUTING` file to guide people through the contribution process
+      2. robust documentation for setting up the developer environment
+   2. Communication
+      1. communication routes documented and active (people who ask questions receive answers)
+   3. Project's issue tracker
+      1. Are there any open bugs for features that you think you might be able to tackle?
+      2. tags: *Help Wanted*, *First Timers Only*, *Newbie*, *Good First Issue*, *Up for Grabs*
 
 ### Select a Task
 
