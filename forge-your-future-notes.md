@@ -419,4 +419,18 @@ Interests! Hobbies! Curious About!
 
 ### Select a Task
 
+- You have to decide upon a task.
+
+- If you have a task in mind already, search the project's issue tracker to see whether it exists. Search closed as well as open issues.
+
+- If your idea doesn't exist in the issue tracker, open a new issue.
+   1. it notifies the project that a contribution may be on its way
+   2. it allows the project maintainers to review the task and confirm that it's something the project needs or wants
+
+- If you don't have a task in mind, check the project's issue tracker
+  - sometimes called bug database, or ticketing system
+  - look for tags suitable for new contributors
+    - easy, starterbug, newbie, help wanted, good first ticket
+  - look for task that looks achievable considering your skillset and experience
+
 ### What is "Success"?
