@@ -433,4 +433,17 @@ Interests! Hobbies! Curious About!
     - easy, starterbug, newbie, help wanted, good first ticket
   - look for task that looks achievable considering your skillset and experience
 
+- Find a suitable task
+  - Just Ask works
+  - research to familiarize yourself with the project, its needs, and its communication routes
+  - introduce yourself
+    - new and excited to help
+    - briefly state your skills
+    - choose an issue or ask for a recommendation
+  - start small
+    - small tasks lead to quicker payoff with endorphin hit
+    - baby steps are still steps
+    - simple and repetitive task allow you to contribute quickly, make frieds, and influence people in the community
+    - show a willingness to dig in and do what it takes to lend a hand and work your way up through the ranks of the community
+
 ### What is "Success"?
