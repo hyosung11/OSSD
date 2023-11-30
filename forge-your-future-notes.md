@@ -443,7 +443,7 @@ Interests! Hobbies! Curious About!
   - start small
     - small tasks lead to quicker payoff with endorphin hit
     - baby steps are still steps
-    - simple and repetitive task allow you to contribute quickly, make frieds, and influence people in the community
+    - simple and repetitive task allow you to contribute quickly, make friends, and influence people in the community
     - show a willingness to dig in and do what it takes to lend a hand and work your way up through the ranks of the community
 
 ### What is "Success"?
@@ -452,3 +452,40 @@ Interests! Hobbies! Curious About!
 - You are welcomed by your first community
 - You learn and grow from your experience
 - You gain the confidence to help others contribute too
+
+## 5. Make a Contribution
+
+Pause and think through the process and your contribution before you submit it to the project. Basically, FOSS projects have five large parts:
+
+1. Prepare
+2. Craft
+3. Test
+4. Submit
+5. Revise
+
+### Prepare for Your Contribution
+
+1. [ ] Review the issue tracker
+2. [ ] set up your environment
+3. [ ] text editors
+4. [ ] do issue triage
+5. [ ] read the docs
+6. [ ] craft your contribution
+7.  [ ] gotchas
+8.  [ ] spaces, tabs, and tab-size
+9.  [ ] clone and branch
+10. [ ] atomic commits
+11. [ ] using version control for non-code contributions
+12. [ ] Test your contribution
+13. [ ] diff your work
+14. [ ] Submit your contribution
+15. [ ] Read the docs
+16. [ ] Introducing the pull request
+17. [ ] Make the pull request
+18. [ ] patch: the other contribution method
+19. [ ] Review, revise, collaborate
+20. [ ] Submit work in progress for early feedback
+21. [ ] A note on feedback
+22. [ ] tidy up
+23. [ ] Special considerations for windows-base contributors
+24. [ ] There's more to contributing than just code
