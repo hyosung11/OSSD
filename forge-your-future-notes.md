@@ -447,3 +447,8 @@ Interests! Hobbies! Curious About!
     - show a willingness to dig in and do what it takes to lend a hand and work your way up through the ranks of the community
 
 ### What is "Success"?
+
+- You are able to make a first contribution with minimal fuss
+- You are welcomed by your first community
+- You learn and grow from your experience
+- You gain the confidence to help others contribute too
