@@ -508,22 +508,29 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
 - if workflow is tribal knowledge, ask a community member for advice and guidance
   - write the advice and guidance down for posterity which can also be your first contribution
 
-1. [ ] craft your contribution
-2.  [ ] gotchas
-3.  [ ] spaces, tabs, and tab-size
-4.  [ ] clone and branch
-5.  [ ] atomic commits
-6.  [ ] using version control for non-code contributions
-7.  [ ] Test your contribution
-8.  [ ] diff your work
-9.  [ ] Submit your contribution
-10. [ ] Read the docs
-11. [ ] Introducing the pull request
-12. [ ] Make the pull request
-13. [ ] patch: the other contribution method
-14. [ ] Review, revise, collaborate
-15. [ ] Submit work in progress for early feedback
-16. [ ] A note on feedback
-17. [ ] tidy up
-18. [ ] Special considerations for windows-base contributors
-19. [ ] There's more to contributing than just code
+### Craft Your Contribution
+
+- check project styleguides and contributor instructions
+  - code contribution may require unit and/or integration tests
+  - code may be required to pass certain linter rules
+- always double-check the contribution guidelines before you go too far with your work
+
+
+1.  [ ] gotchas
+2.  [ ] spaces, tabs, and tab-size
+3.  [ ] clone and branch
+4.  [ ] atomic commits
+5.  [ ] using version control for non-code contributions
+6.  [ ] Test your contribution
+7.  [ ] diff your work
+8.  [ ] Submit your contribution
+9.  [ ] Read the docs
+10. [ ] Introducing the pull request
+11. [ ] Make the pull request
+12. [ ] patch: the other contribution method
+13. [ ] Review, revise, collaborate
+14. [ ] Submit work in progress for early feedback
+15. [ ] A note on feedback
+16. [ ] tidy up
+17. [ ] Special considerations for windows-base contributors
+18. [ ] There's more to contributing than just code
