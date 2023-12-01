@@ -490,6 +490,18 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
 
 #### Do Issue Triage
 
+- Review the issue to confirm you understand the problem, can duplicate it, and that it's not already fixed elsewhere
+- triage allows you to confirm that the issue you select is still an issue
+- review the issue for the steps to reproduce the problem, or any other hints about where to look to view the problem itself
+- If you are able to reproduce the problem, you have a much better chance of understanding what's going on and where to start looking to solve it.
+- As you triage your issue, document all of your discoveries
+  - steps to duplicate the issue
+  - what you expected to see
+  - what you actually did see
+  - any additional requirements that aren't listed in the issue
+  - add all this to the public note itself
+- Documenting your tires notes also helps the next people who look at the issue.
+
 #### Read the Docs
 
 1. [ ] craft your contribution
