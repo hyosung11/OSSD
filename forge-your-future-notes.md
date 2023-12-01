@@ -525,11 +525,31 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
 
 ### Clone and Branch
 
-- retriev a local copy of the repository
+- retrieve a local copy of the repository
   - local copy is known as a `clone`
   - sometimes called a `fork`
 
 ![FOSS-project-loop](FOSS-project-loop.png)
+
+- create a branch
+  - your work is isolated from every other branch
+  - prevents you from sharing changes that you don't want to
+  - a branch Is just a named pointer to a certain git commit
+  - a branch is just a pointer, not a copy of the repository
+
+- The best practice is to create a new branch of your copy of the repository, and then perform your work on it.
+  - this is called using a *feature* or *topic* branch
+  - create a branch for just fixing that issue
+  - once the issue is complete and the pull request has been accepted, the branch is no longer needed
+  - you can then delete the branch
+
+- Example
+
+RTR
+
+```sh
+Pliny: Book
+```
 
 1.  [ ] atomic commits
 2.  [ ] using version control for non-code contributions
