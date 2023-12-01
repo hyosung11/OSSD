@@ -483,6 +483,11 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
 
 #### Text Editors
 
+- the text editor you choose can make a big difference when doing software development
+- most referenced in FOSS are vi (vim) and emacs
+- a good text editor outputs only Unicode or ASCII characters
+- You can use an integrated development environment (IDE) like Visual Studio Code, Xcode, or Eclipse
+
 #### Do Issue Triage
 
 #### Read the Docs
