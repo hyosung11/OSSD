@@ -397,6 +397,7 @@ Interests! Hobbies! Curious About!
 16. Express
 17. OpenSpiel (<https://github.com/deepmind/open_spiel>) - Framework for developing research environments and algorithms for games, including simple soccer game environments. Good option to contribute environments, visualization, or algorithm implementations.
 18. Google Research Football (<https://github.com/google-research/football>) - Research project for developing reinforcement learning agents for football/soccer games. Potential areas to contribute include new training scenarios, opponent AI bots, or visualizations. Requires Python/Tensorflow skills.
+19. Insight Timer
 
 #### Select a Project
 
@@ -465,27 +466,36 @@ Pause and think through the process and your contribution before you submit it t
 
 ### Prepare for Your Contribution
 
-1. [ ] Review the issue tracker
-2. [ ] set up your environment
-3. [ ] text editors
-4. [ ] do issue triage
-5. [ ] read the docs
-6. [ ] craft your contribution
-7.  [ ] gotchas
-8.  [ ] spaces, tabs, and tab-size
-9.  [ ] clone and branch
-10. [ ] atomic commits
-11. [ ] using version control for non-code contributions
-12. [ ] Test your contribution
-13. [ ] diff your work
-14. [ ] Submit your contribution
-15. [ ] Read the docs
-16. [ ] Introducing the pull request
-17. [ ] Make the pull request
-18. [ ] patch: the other contribution method
-19. [ ] Review, revise, collaborate
-20. [ ] Submit work in progress for early feedback
-21. [ ] A note on feedback
-22. [ ] tidy up
-23. [ ] Special considerations for windows-base contributors
-24. [ ] There's more to contributing than just code
+The more you prepare in advance, the more likely your contribution will be well received.
+
+#### Review the Issue Tracker
+
+Invest some time to review the issue or bug tracker for your chosen project. Picking up tasks that no one else has had time to do can be a great way to make your mark in the community.
+
+#### Set Up Your Environment
+
+#### Text Editors
+
+#### Do Issue Triage
+
+#### Read the Docs
+
+1. [ ] craft your contribution
+2.  [ ] gotchas
+3.  [ ] spaces, tabs, and tab-size
+4.  [ ] clone and branch
+5.  [ ] atomic commits
+6.  [ ] using version control for non-code contributions
+7.  [ ] Test your contribution
+8.  [ ] diff your work
+9.  [ ] Submit your contribution
+10. [ ] Read the docs
+11. [ ] Introducing the pull request
+12. [ ] Make the pull request
+13. [ ] patch: the other contribution method
+14. [ ] Review, revise, collaborate
+15. [ ] Submit work in progress for early feedback
+16. [ ] A note on feedback
+17. [ ] tidy up
+18. [ ] Special considerations for windows-base contributors
+19. [ ] There's more to contributing than just code
