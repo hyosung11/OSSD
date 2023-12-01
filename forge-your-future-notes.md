@@ -515,22 +515,27 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
   - code may be required to pass certain linter rules
 - always double-check the contribution guidelines before you go too far with your work
 
+### Gotchas
 
-1.  [ ] gotchas
-2.  [ ] spaces, tabs, and tab-size
-3.  [ ] clone and branch
-4.  [ ] atomic commits
-5.  [ ] using version control for non-code contributions
-6.  [ ] Test your contribution
-7.  [ ] diff your work
-8.  [ ] Submit your contribution
-9.  [ ] Read the docs
-10. [ ] Introducing the pull request
-11. [ ] Make the pull request
-12. [ ] patch: the other contribution method
-13. [ ] Review, revise, collaborate
-14. [ ] Submit work in progress for early feedback
-15. [ ] A note on feedback
-16. [ ] tidy up
-17. [ ] Special considerations for windows-base contributors
-18. [ ] There's more to contributing than just code
+#### Spaces, Tabs, and Tab-size
+
+- project consistency
+- programming languages like Python depend on whitespace and proper indentation
+- use what is defined by the project and ask the community if unsure
+
+1.  [ ] clone and branch
+2.  [ ] atomic commits
+3.  [ ] using version control for non-code contributions
+4.  [ ] Test your contribution
+5.  [ ] diff your work
+6.  [ ] Submit your contribution
+7.  [ ] Read the docs
+8.  [ ] Introducing the pull request
+9.  [ ] Make the pull request
+10. [ ] patch: the other contribution method
+11. [ ] Review, revise, collaborate
+12. [ ] Submit work in progress for early feedback
+13. [ ] A note on feedback
+14. [ ] tidy up
+15. [ ] Special considerations for windows-base contributors
+16. [ ] There's more to contributing than just code
