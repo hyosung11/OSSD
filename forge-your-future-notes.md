@@ -523,19 +523,26 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
 - programming languages like Python depend on whitespace and proper indentation
 - use what is defined by the project and ask the community if unsure
 
-1.  [ ] clone and branch
-2.  [ ] atomic commits
-3.  [ ] using version control for non-code contributions
-4.  [ ] Test your contribution
-5.  [ ] diff your work
-6.  [ ] Submit your contribution
-7.  [ ] Read the docs
-8.  [ ] Introducing the pull request
-9.  [ ] Make the pull request
-10. [ ] patch: the other contribution method
-11. [ ] Review, revise, collaborate
-12. [ ] Submit work in progress for early feedback
-13. [ ] A note on feedback
-14. [ ] tidy up
-15. [ ] Special considerations for windows-base contributors
-16. [ ] There's more to contributing than just code
+### Clone and Branch
+
+- retriev a local copy of the repository
+  - local copy is known as a `clone`
+  - sometimes called a `fork`
+
+![FOSS-project-loop](FOSS-project-loop.png)
+
+1.  [ ] atomic commits
+2.  [ ] using version control for non-code contributions
+3.  [ ] Test your contribution
+4.  [ ] diff your work
+5.  [ ] Submit your contribution
+6.  [ ] Read the docs
+7.  [ ] Introducing the pull request
+8.  [ ] Make the pull request
+9.  [ ] patch: the other contribution method
+10. [ ] Review, revise, collaborate
+11. [ ] Submit work in progress for early feedback
+12. [ ] A note on feedback
+13. [ ] tidy up
+14. [ ] Special considerations for windows-base contributors
+15. [ ] There's more to contributing than just code
