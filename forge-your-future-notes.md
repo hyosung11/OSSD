@@ -502,7 +502,11 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
   - add all this to the public note itself
 - Documenting your tires notes also helps the next people who look at the issue.
 
-#### Read the Docs
+#### Read the Docs (or Write Them)
+
+- follow the project's workflow (as documented in the `CONTRIBUTING` file or elsewhere)
+- if workflow is tribal knowledge, ask a community member for advice and guidance
+  - write the advice and guidance down for posterity which can also be your first contribution
 
 1. [ ] craft your contribution
 2.  [ ] gotchas
