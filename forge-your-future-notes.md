@@ -474,6 +474,13 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
 
 #### Set Up Your Environment
 
+- you'll need a testing environment of some sort
+- rarely a project might have a container or virtual environment
+- if unclear ask the community for help to setup your testing environment
+  - if documentaion doesn't exist create the documentation when you setup your testing environment
+
+- **Figure out what sort of testing environment you need for Your specific type of contribution and make sure it works before you lift a finger to start crafting your contribution.**
+
 #### Text Editors
 
 #### Do Issue Triage
