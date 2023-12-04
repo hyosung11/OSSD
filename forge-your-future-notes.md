@@ -553,8 +553,16 @@ Switched to a new branch 'makeacontribution'
 - branches allow for a rigid separation of concerns that prevents committing unneeded or prototype work
 - verify the process against the projetc's `CONTRIBUTING` file
 
-1.  [ ] atomic commits
-2.  [ ] using version control for non-code contributions
+### Atomic Commits
+
+- commit early, commit often
+- atomic (tightly scoped) commits are safer commits
+  - commits are scoped to a single (usually small) topic, feature, or bug fix
+- atomic commits are easier to review afterward and to back out should something go wrong
+- 
+
+#### Using version control for non-code contributions
+
 3.  [ ] Test your contribution
 4.  [ ] diff your work
 5.  [ ] Submit your contribution
