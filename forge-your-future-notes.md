@@ -600,12 +600,24 @@ Even if the contribution is not code, it may be submitted via the version contro
 
 - "pull request" comes from the git command `request-pull` and was popularized in its current from by GitHub
 - there's one canonical repository in a project which can be called `origin` or `main`
-- to have a change in your version of the respository included in the canonical version, you make a *request* for the maintainers of `origin` to *pull* your changes into the canonical repository
+- to have a change in your version of the repository included in the canonical version, you make a *request* for the maintainers of `origin` to *pull* your changes into the canonical repository
 - once you submit your pull request, you enter a feedback loop with community members, working with them to refine your contribution. After You have collaborated with them to put the final shine on it, a community member will pull (merge) your contribution into the project.
 
 #### Make the pull request
 
-#### patch: the other contribution method
+- the pull request will require some sort of commit message
+  - title and description
+    - titles should be brief (50 or so characters)
+    - descriptions should be as detailed as necessary
+      - detail what you changed
+      - and why
+      - reference the issue number in your description
+      - if you format the issue number with a hashtag at the front of it ("#42") then the issue tracking system may automatically link the issue wiht the pull request
+- make your pull request as easy as possible for the reviewer to understand
+
+![example-pull-request](example-pull-request.png)
+
+#### Patch: the other contribution method
 
 ### Review, revise, collaborate
 
