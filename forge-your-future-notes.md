@@ -577,7 +577,12 @@ Even if the contribution is not code, it may be submitted via the version contro
 - if your contribution causes CI/CD to fail (*break the build*), learn from this and fix the problem
 - consider documenting your build errors to help others learn from your mistakes
 
-### diff your work
+#### Diff Your Work
+
+- before submitting your contribution, always do a `diff` on it.
+- `diff` shows the difference between two files
+- in git, can use commit hashes two view two versions of the same file
+- `+` and `-` lines are the most important part
 
 ### Submit your contribution
 
