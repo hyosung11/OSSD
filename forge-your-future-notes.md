@@ -572,7 +572,7 @@ Even if the contribution is not code, it may be submitted via the version contro
 - After creating your contribution, test it to confirm that it works
 - Test the contribution against the appropriate version of the project to make sure it works as expected.
 - for code contributions provide both unit and integration tests as well as manually testing yourself
-- for documentation, test how your change will appear in the official documentation respository, website, or wherever it may appear.
+- for documentation, test how your change will appear in the official documentation repository, website, or wherever it may appear.
 - if project has CI/CD service pay attention to the results
 - if your contribution causes CI/CD to fail (*break the build*), learn from this and fix the problem
 - consider documenting your build errors to help others learn from your mistakes
