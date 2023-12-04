@@ -584,9 +584,17 @@ Even if the contribution is not code, it may be submitted via the version contro
 - in git, can use commit hashes two view two versions of the same file
 - `+` and `-` lines are the most important part
 
-### Submit your contribution
+### Submit Your Contribution
 
-### Read the docs
+- read the docs for the process to submit based on the type of contribution
+
+#### Read the docs
+
+- `CONTRIBUTING` file or ask the community
+- git version control is the most common
+  - BitBucket
+  - GitLab
+  - GitHub
 
 ### Introducing the pull request
 
