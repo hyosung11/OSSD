@@ -619,7 +619,11 @@ Even if the contribution is not code, it may be submitted via the version contro
 
 #### Patch: the other contribution method
 
-### Review, revise, collaborate
+- patch files used extensively for many years, so contributions can sometimes still be referred to as "patches".
+
+### Review, Revise, Collaborate
+
+RTR
 
 ### Submit work in progress for early feedback
 
