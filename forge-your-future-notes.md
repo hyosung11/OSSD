@@ -476,8 +476,8 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
 
 - you'll need a testing environment of some sort
 - rarely a project might have a container or virtual environment
-- if unclear ask the community for help to setup your testing environment
-  - if documentaion doesn't exist create the documentation when you setup your testing environment
+- if unclear, ask the community for help to setup your testing environment
+  - if documentation doesn't exist create the documentation when you setup your testing environment
 
 - **Figure out what sort of testing environment you need for Your specific type of contribution and make sure it works before you lift a finger to start crafting your contribution.**
 
@@ -500,7 +500,7 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
   - what you actually did see
   - any additional requirements that aren't listed in the issue
   - add all this to the public note itself
-- Documenting your tires notes also helps the next people who look at the issue.
+- Documenting your triage notes also helps the next people who look at the issue.
 
 #### Read the Docs (or Write Them)
 
@@ -543,14 +543,14 @@ Invest some time to review the issue or bug tracker for your chosen project. Pic
   - once the issue is complete and the pull request has been accepted, the branch is no longer needed
   - you can then delete the branch
 
-- Example
-
-RTR
+- Here's an example of a new branch created for this chapter of the book:
 
 ```sh
-Pliny: Book
+Pliny:Book brasseur$ git checkout -b makeacontribution
+Switched to a new branch 'makeacontribution'
 ```
 
+- 
 1.  [ ] atomic commits
 2.  [ ] using version control for non-code contributions
 3.  [ ] Test your contribution
