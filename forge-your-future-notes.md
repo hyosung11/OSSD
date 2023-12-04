@@ -551,7 +551,7 @@ Switched to a new branch 'makeacontribution'
 ```
 
 - branches allow for a rigid separation of concerns that prevents committing unneeded or prototype work
-- verify the process against the projetc's `CONTRIBUTING` file
+- verify the process against the project's `CONTRIBUTING` file
 
 ### Atomic Commits
 
@@ -565,16 +565,30 @@ Switched to a new branch 'makeacontribution'
 
 #### Using version control for non-code contributions
 
-3.  [ ] Test your contribution
-4.  [ ] diff your work
-5.  [ ] Submit your contribution
-6.  [ ] Read the docs
-7.  [ ] Introducing the pull request
-8.  [ ] Make the pull request
-9.  [ ] patch: the other contribution method
-10. [ ] Review, revise, collaborate
-11. [ ] Submit work in progress for early feedback
-12. [ ] A note on feedback
-13. [ ] tidy up
-14. [ ] Special considerations for windows-base contributors
-15. [ ] There's more to contributing than just code
+Even if the contribution is not code, it may be submitted via the version control system.
+
+### Test your contribution
+
+### diff your work
+
+### Submit your contribution
+
+### Read the docs
+
+### Introducing the pull request
+
+### Make the pull request
+
+### patch: the other contribution method
+
+### Review, revise, collaborate
+
+### Submit work in progress for early feedback
+
+### A note on feedback
+
+### tidy up
+
+### Special considerations for windows-base contributors
+
+### There's more to contributing than just code
