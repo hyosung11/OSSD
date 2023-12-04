@@ -550,7 +550,9 @@ Pliny:Book brasseur$ git checkout -b makeacontribution
 Switched to a new branch 'makeacontribution'
 ```
 
-- 
+- branches allow for a rigid separation of concerns that prevents committing unneeded or prototype work
+- verify the process against the projetc's `CONTRIBUTING` file
+
 1.  [ ] atomic commits
 2.  [ ] using version control for non-code contributions
 3.  [ ] Test your contribution
