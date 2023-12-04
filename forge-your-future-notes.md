@@ -559,7 +559,9 @@ Switched to a new branch 'makeacontribution'
 - atomic (tightly scoped) commits are safer commits
   - commits are scoped to a single (usually small) topic, feature, or bug fix
 - atomic commits are easier to review afterward and to back out should something go wrong
-- 
+- An atomic commit is like a paragraph: it's a complete thought. Each time you finish the thought, commit it to the repository.
+- if your contribution requires several different steps to complete, make each step a separate, small commit
+- some projects want you to use a *squash* or *rebase* feature to consolidate all of those small commits into a single, larger atomic commit, so read and follow the `CONTRIBUTING` file before submitting your contribution to the project.
 
 #### Using version control for non-code contributions
 
