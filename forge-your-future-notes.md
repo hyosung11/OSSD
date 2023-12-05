@@ -642,7 +642,7 @@ Before your contribution is merged, it will be reviewed. Collaborate when given 
 
 #### Submit work in progress for early feedback
 
-- Sometims it makes sense to send a *work in progress* pull request while you're still creating your contribution. Just put WIP: at the start of your request title.
+- Sometimes it makes sense to send a *work in progress* pull request while you're still creating your contribution. Just put WIP: at the start of your request title.
 - This allows you to receive feedback early in the creation process
 - higher quality contributions come from receiving early feedback
 
