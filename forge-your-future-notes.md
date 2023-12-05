@@ -667,7 +667,22 @@ For issue #40”
 - If you get angry at some feedback, step away for a bit to cool off before responding
 - Always assume good intent
 
-### tidy up
+### Tidy Up (Delete Branch)
+
+- delete feature branch right after your pull request is accepted
+
+- Delete local branch example:
+
+```sh
+“Pliny:Book brasseur$ git branch -d makeacontribution​ 
+Deleted branch makeacontribution (was 74da8bc).”
+```
+
+- Delete remote branch example:
+
+```sh
+“Pliny:Book brasseur$ git push origin --delete makeacontribution”
+```
 
 ### Special considerations for windows-base contributors
 
