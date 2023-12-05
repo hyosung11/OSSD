@@ -660,6 +660,13 @@ For issue #40”
 
 #### A Note on feedback
 
+- You are not your contribution
+- It's not personal
+- Feedback is a gift
+- Feedback and questions help make you better at what you do
+- If you get angry at some feedback, step away for a bit to cool off before responding
+- Always assume good intent
+
 ### tidy up
 
 ### Special considerations for windows-base contributors
