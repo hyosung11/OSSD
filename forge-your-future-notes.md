@@ -612,14 +612,29 @@ Even if the contribution is not code, it may be submitted via the version contro
       - detail what you changed
       - and why
       - reference the issue number in your description
-      - if you format the issue number with a hashtag at the front of it ("#42") then the issue tracking system may automatically link the issue wiht the pull request
+      - if you format the issue number with a hashtag at the front of it ("#42") then the issue tracking system may automatically link the issue with the pull request
 - make your pull request as easy as possible for the reviewer to understand
 
 ![example-pull-request](example-pull-request.png)
 
+```sh
+“TITLE:​ 
+Add jargon file to the build​ ​ 
+
+DESCRIPTION:​ 
+The jargon file has been commented out of the​ build because we were in beta and doing a drip​ of one chapter per beta release.​ ​ 
+
+We've finally reached a point where all other​ chapters are released, so it's time to include​ the jargon file into the build so it can be​ released as well.​ ​ 
+
+Flipped the stubout value accordingly.​ ​ 
+
+Resolves issue #42”
+```
+
 #### Patch: the other contribution method
 
 - patch files used extensively for many years, so contributions can sometimes still be referred to as "patches".
+- “Patch or pull request or passenger pigeon, always know the method for submitting a contribution before you get started.”
 
 ### Review, Revise, Collaborate
 
