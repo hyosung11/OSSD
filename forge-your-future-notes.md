@@ -686,4 +686,19 @@ Deleted branch makeacontribution (was 74da8bc).”
 
 ### Special considerations for windows-base contributors
 
+- did not read
+
 ### There's more to contributing than just code
+
+Steps Review
+
+1. Choose your contribution
+2. Triage issues
+3. Create and test your work
+4. Submit pull requests
+
+Your contributions may still take a lot of time—some contributions can be quite complex—but the process itself will become smooth. As with all other skills, all you need is practice.
+
+While everyone who wants to participate in FOSS should be familiar with the contribution process in this chapter, it doesn’t apply to all of the different types of contributions. What if, for example, you want to contribute but aren’t a programmer? What types of contributions can a person make if they don’t (or don’t want to) code? The answer is: plenty, and the next chapter will detail a few of them."
+
+RTR
