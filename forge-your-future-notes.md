@@ -638,11 +638,27 @@ Resolves issue #42”
 
 ### Review, Revise, Collaborate
 
-RTR
+Before your contribution is merged, it will be reviewed. Collaborate when given feedback. Use atomic commits to your feature branch.
 
-### Submit work in progress for early feedback
+#### Submit work in progress for early feedback
 
-### A note on feedback
+- Sometims it makes sense to send a *work in progress* pull request while you're still creating your contribution. Just put WIP: at the start of your request title.
+- This allows you to receive feedback early in the creation process
+- higher quality contributions come from receiving early feedback
+
+Here's an example of a work in progress pull request:
+
+```sh
+TITLE:
+WIP: Testing new section ordering​ ​ 
+
+DESCRIPTION:​ 
+I've re-ordered the sections of this chapter in hopes​ they'll flow better. WIP PR so Brian can have a look​ and let me know what he thinks before I go much further​ with the writing.​
+
+For issue #40”
+```
+
+#### A Note on feedback
 
 ### tidy up
 
